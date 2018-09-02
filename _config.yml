@@ -1,0 +1,17 @@
+title:             Cho-Nan's essays on tech 
+description:       Lessons in tech that make us a better human being
+author:            Cho-Nan Tsai
+baseurl:           ""
+url:               "http://xxx.github.io"
+
+# Social Profiles
+twitter_username:  SBootstrap
+github_username:   BlackrockDigital
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate

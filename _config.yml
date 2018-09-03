@@ -1,12 +1,11 @@
 title:             Cho-Nan's essays on tech 
-description:       Lessons in tech that make us a better human being
+description:       Lessons in tech that make us a better team
 author:            Cho-Nan Tsai
 baseurl:           ""
 url:               "http://xxx.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
+twitter_username:  chonantsai
 
 # Build settings
 markdown:          kramdown

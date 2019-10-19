@@ -6,10 +6,21 @@
     <description>Recent content in Talks on Cho-Nan Tsai CTO essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 00:42:36 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 00:42:36 -0700</lastBuildDate>
     
 	<atom:link href="https://obicho.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to (gracefully) jump start data science initiatives at a start-up</title>
+      <link>https://obicho.github.io/talks/how-to-gracefully-jump-start-data-science-initiatives-at-a-start-up/</link>
+      <pubDate>Fri, 18 Oct 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/how-to-gracefully-jump-start-data-science-initiatives-at-a-start-up/</guid>
+      <description>Slides for data science talk PPTX
+Slides for data science talk PDF
+About the Talk While machine learning and artificial intelligence can deliver a ton of value to businesses, there are still many businesses today struggling to get started with data science initiatives. Do you buy data or collect data? What type of talent to hire to get started on the first project? What kind of data tool chain, data infrastructure and data lake make most sense to set up in the beginning?</description>
+    </item>
     
     <item>
       <title>A Gentle Introduction to Quantum Computing</title>

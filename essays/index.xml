@@ -6,10 +6,32 @@
     <description>Recent content in Essays on Cho-Nan Tsai CTO essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 00:42:36 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:42:36 -0700</lastBuildDate>
     
 	<atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Letter: Reflecting on the recruiting event at Caltech</title>
+      <link>https://obicho.github.io/essays/open_letter_reflecting_on_the_recruiting_event_at_caltech/</link>
+      <pubDate>Mon, 14 Oct 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/open_letter_reflecting_on_the_recruiting_event_at_caltech/</guid>
+      <description>Hello Team,
+Today we had a recruiting event at Caltech (https://en.wikipedia.org/wiki/California_Institute_of_Technology) and I was humbled by the experience.
+It was intimidating at first. For the very first time, I saw Camino Financial trying to recruit, in the physical world, alongside great technology giants like Google, Facebook and Activision. I was literally flanked by a Google booth to my right and a Facebook/Instagram booth to my left. To make matters worse, I was outnumbered (each company had at least 4 engineers per booth) and I was a little late to the campus (carried our poster and my computer monitor on my own while trying to find parking, after our sprint planning meeting).</description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>https://obicho.github.io/essays/transformation/</link>
+      <pubDate>Thu, 26 Sep 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/transformation/</guid>
+      <description>A message sent through Slack to the team announcing an internship graduation.
+A long long time ago, there was a boy who wasn’t fortunate in his career. After graduating from college, he had been in transition a few times, working on stuff that was neither meaningful nor rewarding.
+One day, he came across a job posting at Camino for an internship opportunity. In winter, we interviewed him but we didn’t bring him onboard.</description>
+    </item>
     
     <item>
       <title>Feedback to Columbia Magazine on the Cyberwarfare article</title>

@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://obicho.github.io/</loc>
-    <lastmod>2019-10-18T00:42:36-07:00</lastmod>
+    <lastmod>2020-03-06T00:42:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obicho.github.io/talks/crafting-a-life-changing-tech-internship-experience/</loc>
+    <lastmod>2020-03-06T00:42:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obicho.github.io/talks/</loc>
+    <lastmod>2020-03-06T00:42:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obicho.github.io/talks/how-to-gracefully-jump-start-data-science-initiatives-at-a-start-up/</loc>
     <lastmod>2019-10-18T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obicho.github.io/talks/</loc>
-    <lastmod>2019-10-18T00:42:36-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

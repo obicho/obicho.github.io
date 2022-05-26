@@ -6,10 +6,21 @@
     <description>Recent content in Essays on Cho-Nan Tsai CTO essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 00:42:36 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2022 00:42:36 -0700</lastBuildDate>
     
 	<atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Wire China Interview: About Beijing startup scene</title>
+      <link>https://obicho.github.io/essays/the-wire-china-interview-about-beijing-startup-scene/</link>
+      <pubDate>Thu, 26 May 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/the-wire-china-interview-about-beijing-startup-scene/</guid>
+      <description>Recently, I was interviewed for an article in The Wire China about my Beijing startup experience in 2015.
+Read the full article here.
+Setting Up We set up our office in Zhongguancun Science Park because historically it has been a hub for startups in Beijing. Baidu, 36Kr, and many others all had founded their offices within walking distance from our office. Plenty of investors, VCs and incubators also set up shop there.</description>
+    </item>
     
     <item>
       <title>Preparing for a career in fintech: A conversation with Cho-Nan Tsai, a Fintech CTO</title>

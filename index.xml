@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cho-Nan Tsai CTO essays and talks</title>
+    <title>Cho-Nan Tsai CTO media interviews, essays and talks</title>
     <link>https://obicho.github.io/</link>
-    <description>Recent content on Cho-Nan Tsai CTO essays and talks</description>
+    <description>Recent content on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 00:42:36 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 00:42:36 -0700</lastBuildDate>
     
 	<atom:link href="https://obicho.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Columbia Venture Community: Why you will fail to build a great social impact startup</title>
+      <link>https://obicho.github.io/talks/why-you-will-fail-to-build-a-great-social-impact-startup/</link>
+      <pubDate>Wed, 15 Jun 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/why-you-will-fail-to-build-a-great-social-impact-startup/</guid>
+      <description>About the Talk For a startup founder in the impact space, it is not that difficult to just build a company. There are so many technology tools that can help a startup in the initiation phase. It almost cost just a fraction of what it used to be 10 years ago, both in terms of time and resources, to bring a product to market for validation. However, it is challenging to build a GREAT company that can make a dent in this entropic universe we live in.</description>
+    </item>
     
     <item>
       <title>The Wire China Interview: About Beijing startup scene</title>
@@ -17,8 +26,18 @@
       <pubDate>Thu, 26 May 2022 00:42:36 -0700</pubDate>
       
       <guid>https://obicho.github.io/essays/the-wire-china-interview-about-beijing-startup-scene/</guid>
-      <description>Recently, I was interviewed for an article in The Wire China about my Beijing startup experience in 2015.
+      <description>Media Interview Recently, I was interviewed for an article in The Wire China about my Beijing startup experience in 2015.
 Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>How to hack your career in software engineering</title>
+      <link>https://obicho.github.io/talks/la-hacks-how-to-hack-your-career-in-software-engineering/</link>
+      <pubDate>Fri, 15 Apr 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/la-hacks-how-to-hack-your-career-in-software-engineering/</guid>
+      <description>About the Talk Why do some people become great software engineers very quickly, commanding high 6 figure salaries and writing code that disrupts industries? In this talk, we examine closely the career path of a software engineer and how to go about hacking it so that one can become good at what they do in a meaningful way.
+Photos from the speaking event / hackathon Thank you so much to everyone who joined us at LA Hacks 2022!</description>
     </item>
     
     <item>
@@ -49,6 +68,15 @@ Currently, he is the Chief Technology Officer at Dunmore Capital. Collaborating 
       <guid>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</guid>
       <description>I recently gave an interview on the topic of career preparation in fintech. The interview was conducted by Trilogy Education Service which is the company that&amp;rsquo;s running Fintech Bootcamp program at Columbia Unviersity. The entire interview is here.
 The article/interview was published in summer 2021 on Columbia Engineering School Bootcamp Program website</description>
+    </item>
+    
+    <item>
+      <title>Brown Bag Tech Talks: 6 Common Traps in Data</title>
+      <link>https://obicho.github.io/talks/six-common-traps-in-data/</link>
+      <pubDate>Wed, 30 Sep 2020 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/six-common-traps-in-data/</guid>
+      <description>About the Talk Hosted a talk to discuss common issues when a startup is beginning to build out their data projects.</description>
     </item>
     
     <item>

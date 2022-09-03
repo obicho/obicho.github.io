@@ -4,8 +4,19 @@
   
   <url>
     <loc>https://obicho.github.io/</loc>
-    <lastmod>2022-06-15T00:42:36-07:00</lastmod>
+    <lastmod>2022-09-03T00:42:36-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obicho.github.io/essays/</loc>
+    <lastmod>2022-09-03T00:42:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obicho.github.io/essays/hacking-your-tech-career/</loc>
+    <lastmod>2022-09-03T00:42:36-07:00</lastmod>
   </url>
   
   <url>
@@ -16,12 +27,6 @@
   <url>
     <loc>https://obicho.github.io/talks/</loc>
     <lastmod>2022-06-15T00:42:36-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://obicho.github.io/essays/</loc>
-    <lastmod>2022-05-26T00:42:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   

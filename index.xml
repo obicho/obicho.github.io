@@ -6,7 +6,16 @@
     <description>Recent content on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 books for engineering managers</title>
+      <link>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</link>
+      <pubDate>Mon, 24 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</guid>
+      <description> The Mythical Man Month The Pragmatic Programmer Clean Code Peopleware Code Complete The Lean Startup The Cold Start Problem The Effective Executive The Culture Code Turn The Ship Around </description>
+    </item>
+    
     <item>
       <title>Deep fake videos used to defraud</title>
       <link>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</link>

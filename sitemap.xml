@@ -2,17 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://obicho.github.io/tags/career/</loc>
-    <lastmod>2022-10-21T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://obicho.github.io/categories/</loc>
-    <lastmod>2022-10-21T00:42:36-07:00</lastmod>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/</loc>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/</loc>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/privacy/</loc>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/privacy/</loc>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/</loc>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</loc>
+    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/career/</loc>
     <lastmod>2022-10-21T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -23,11 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</loc>
-    <lastmod>2022-10-21T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/essays/</loc>
     <lastmod>2022-10-21T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,11 +63,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/tags/startup/</loc>
-    <lastmod>2022-10-21T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/tags/</loc>
     <lastmod>2022-10-21T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -93,16 +108,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/essays/bye-bye-personal-privacy/</loc>
-    <lastmod>2022-10-18T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/tags/privacy/</loc>
-    <lastmod>2022-10-18T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/categories/privacy/</loc>
     <lastmod>2022-10-18T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

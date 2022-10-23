@@ -2,22 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://obicho.github.io/tags/career/</loc>
-    <lastmod>2022-10-25T00:42:36-07:00</lastmod>
+    <loc>https://obicho.github.io/tags/ai/</loc>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/ai/</loc>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/categories/</loc>
-    <lastmod>2022-10-25T00:42:36-07:00</lastmod>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/</loc>
-    <lastmod>2022-10-25T00:42:36-07:00</lastmod>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/essays/</loc>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/ai-cinematic-track/</loc>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/music/</loc>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/</loc>
+    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/career/</loc>
     <lastmod>2022-10-25T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -38,11 +63,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/tags/software/</loc>
-    <lastmod>2022-10-25T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/tags/</loc>
     <lastmod>2022-10-25T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -227,11 +247,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://obicho.github.io/tags/ai/</loc>
-    <lastmod>2022-10-10T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://obicho.github.io/tags/infrastructure/</loc>
     <lastmod>2022-10-10T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -324,11 +339,6 @@
   </url><url>
     <loc>https://obicho.github.io/essays/ceo-of-tomorrow/</loc>
     <lastmod>2022-09-29T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/categories/ai/</loc>
-    <lastmod>2022-09-28T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

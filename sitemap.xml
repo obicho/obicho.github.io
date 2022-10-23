@@ -47,16 +47,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://obicho.github.io/tags/privacy/</loc>
-    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/categories/privacy/</loc>
-    <lastmod>2022-10-24T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</loc>
     <lastmod>2022-10-24T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,6 +108,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/essays/bye-bye-personal-privacy/</loc>
+    <lastmod>2022-10-18T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/privacy/</loc>
+    <lastmod>2022-10-18T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/privacy/</loc>
     <lastmod>2022-10-18T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

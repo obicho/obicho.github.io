@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://obicho.github.io/about/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/bio/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://obicho.github.io/tags/ai/</loc>
     <lastmod>2022-10-26T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13,11 +28,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/categories/</loc>
-    <lastmod>2022-10-26T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/</loc>
     <lastmod>2022-10-26T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -382,11 +392,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://obicho.github.io/bio/</loc>
-    <lastmod>2022-09-06T17:17:34-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://obicho.github.io/essays/hacking-your-tech-career/</loc>
     <lastmod>2022-09-03T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -444,11 +449,6 @@
   </url><url>
     <loc>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</loc>
     <lastmod>2021-07-27T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/about/</loc>
-    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

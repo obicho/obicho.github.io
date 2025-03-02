@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Architecture on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/architecture/</link>
+        <description>Recent content in Architecture on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/architecture/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Control freak</title>
+        <link>http://localhost:1313/p/control-freak/</link>
+        <pubDate>Tue, 27 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/control-freak/</guid>
+        <description>&lt;p&gt;Lately, admin panel seems to be a recurring theme in my life. I had a discussion with someone at a startup about which one to use.&lt;/p&gt;
+&lt;p&gt;Needless to say, there is plenty of options in the market place &amp;ndash; everything from home brew custom solution to managed services to low-code platforms. Stuff like this obviously requires some research before any commitment. Since the company needing this is a very early stage startup. I proposed a drag-and-drop low-code editor with a plethora of pre-built components to build internal CRUD (create, read, update, delete) app. It is a market leader in the space and is quite scalable.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the person I proposed to did not agree. His main reason was that a custom solution would be able to provide more control.&lt;/p&gt;
+&lt;p&gt;Rewind 8 years, I would probably give a similar response. I used to enjoy being able to build everything from scratch. The ability to control every bit of your tech stack was essential or so I thought. The company was with started to grow but at some point we hit a wall. We had a Django monolith and overtime the codebase grew very quickly. Then, support for Python 2 ceased and we had a hell of a time switching Python 3. Compliance and security control to meet SOC 2 were not trivial either. I was wrong and learned it the hard way.&lt;/p&gt;
+&lt;p&gt;Now, I carefully evaluate decisions before committing, typically with an eye towards the next fundraising goal. If I build, it would be towards a real intellectual property that the company can and should own. If I buy, I do it to save time, so that we can grow quickly without the baggage.&lt;/p&gt;
+&lt;p&gt;It is a bit like dating and marriage. Most people wouldn&amp;rsquo;t marry before dating. And even when you marry, neither spouse should be a control freak. It would make life very miserable for some people.&lt;/p&gt;
+&lt;p&gt;Lesson learned: pick your tech and tools carefully.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

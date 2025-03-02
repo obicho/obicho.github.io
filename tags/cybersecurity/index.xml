@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cybersecurity on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/cybersecurity/</link>
+        <description>Recent content in Cybersecurity on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 19 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A hacker walks away with $47M legally while a CISO is convicted for doing his job</title>
+        <link>http://localhost:1313/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
+        <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
+        <description>&lt;p&gt;A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.&lt;/p&gt;
+&lt;p&gt;News headline #1: Oct 5th 2022&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;News Headline #2: Oct 15th 2022&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A high profile CISO, Sullivan, tried to do his job but ended up getting convicted in federal court. But, we had a hacker, Eisenberg, who manipulated shady trading strategies and ended up walking away with $47M – legally.&lt;/p&gt;
+&lt;p&gt;I am not saying who is right and who is wrong here. I am wondering if they each have a moral compass and is our judicial system so broken that it cannot be fixed.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cybersecurity at Uber (or lack thereof) and Be Like Water</title>
+        <link>http://localhost:1313/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</link>
+        <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</guid>
+        <description>&lt;p&gt;Recently, Uber had a major cybersecurity incident. The hacker was able to gain access to everything, including their Amazon Web Service administrator account. This could have been really bad. Given Uber’s revenue was $17 billion (with a &lt;em&gt;B&lt;/em&gt;) in 2021, that means – $48 million worth of revenue would have been lost a day if the hacker had shut the servers down! Imagine all those Uber drivers not being able to drive and everyday passengers getting stuck everywhere.&lt;/p&gt;
+&lt;p&gt;Unfortunately, cybersecurity defenses are not infallible. You can have all the firewalls, virtual private networks, two factor authentication tools and other security mechanisms in the world but you are still going to fail. Why? The weakest link is always human.&lt;/p&gt;
+&lt;p&gt;A good cybersecurity program must be quick to adapt. I like to use Bruce Lee’s “Be like Water” philosophy to help think through this.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/cJMwBwFj5nQ&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This is what he said:&lt;/p&gt;
+&lt;p&gt;“You must be shapeless, formless, like water. When you pour water in a cup, it becomes the cup. When you pour water in a bottle, it becomes the bottle. When you pour water in a teapot, it becomes the teapot. Water can drip and it can crash. Become like water my friend.”
+Even toughest rocks can crack through repeated hitting. However, when you hit ocean water with the biggest weapon you have, it will not be damaged in any way.&lt;/p&gt;
+&lt;p&gt;That’s how cyber defenses should be – shapeless and formless. That often boils down to good training plus simulated attacks for your employees and A.I. to help along the way. &lt;em&gt;Set-and-forget&lt;/em&gt; will never work.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Feedback to Columbia Magazine on the Cyberwarfare article</title>
+        <link>http://localhost:1313/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</link>
+        <pubDate>Sat, 13 Jul 2019 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</guid>
+        <description>&lt;p&gt;I have been reading &lt;a class=&#34;link&#34; href=&#34;https://magazine.columbia.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Columbia Magazine&lt;/em&gt;&lt;/a&gt; for years but this is the first time I have written a feedback to its editor. It was my reaction to a rather interesting interview with &lt;a class=&#34;link&#34; href=&#34;https://sipa.columbia.edu/faculty-research/faculty-directory/jason-healey&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jason Healy&lt;/a&gt;, a senior researcher Scholar at Columbia | SIPA (where I spent many hours studying in its library during my undergrad years). The entire interview is &lt;a class=&#34;link&#34; href=&#34;https://magazine.columbia.edu/article/age-cyberwarfare&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My response to the article:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Your interview with Jason Healey couldn&amp;rsquo;t be more timely and spot on. As the rift between America and Iran continues to widen, the United States government now has more choices in its arsenal for attacking another nation. This was evident in Trump&amp;rsquo;s decision to call off a physical offense in June and replace with a cyber one against Iran&amp;rsquo;s missile systems.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;However, the article would have been more interesting if it explored cyber attacks coming from domestic threats, rather than just from abroad. I can&amp;rsquo;t possibly imagine the type of collateral damages we would have to sustain if a domestic bad actor could use a &amp;lsquo;suicide bomber&amp;rsquo; style cyber attacks to take down major infrastructures or to launch weapon systems even. This sort of domestic attacks are far more difficult to detect and intercept versus a foreign one.  The Congress must allow more mass surveillance on US citizens if we were to build up our defenses domestically, which is a major blow on our privacy rights.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cho-Nan Michael Tsai SEAS &amp;lsquo;01&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Feedback was published in Fall 2019 &lt;em&gt;Columbia Magazine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/article-feedback.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Fall 2019 Columbia Magazine Feedback Section&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

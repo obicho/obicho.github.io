@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hiring on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/hiring/</link>
+        <description>Recent content in Hiring on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/hiring/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Deep fake videos used to defraud</title>
+        <link>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</link>
+        <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</guid>
+        <description>&lt;p&gt;Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.&lt;/p&gt;
+&lt;p&gt;We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.&lt;/p&gt;
+&lt;p&gt;Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview. So we had to do a voice call instead. Since it was during the pandemic, nobody was being flown in for a face-to-face interview.&lt;/p&gt;
+&lt;p&gt;I started looking into it. The first thing we looked at was the resumes that we got from these suspicious candidates. Their resumes all shared a similar pattern: very wordy and long. Some of them were 4 pages or more. Aside from some minor details, most of the experiences and skill key words were identical.&lt;/p&gt;
+&lt;p&gt;Some of the candidates made it through the automated screening software. The software captured IP addresses so that gave us another data point. Many candidates claimed that they live in the US but the IP address’s geolocations reflected that they took the tests in Asia.&lt;/p&gt;
+&lt;p&gt;We immediately pulled the plug on the recruiting campaign.&lt;/p&gt;
+&lt;p&gt;Some of you may remember Tom Cruise deep fake videos on TikTok? It was a joke but now this is reality. It is being applied to money-sucking fraudulent operations managed by organized crimes.&lt;/p&gt;
+&lt;p&gt;Have you seen &lt;em&gt;&amp;ldquo;Downfall: The Case Against Boeing&amp;rdquo;&lt;/em&gt;?  This is a Netflix documentary about an investigation into the two Boeing 737 MAX crashes that killed 346 people. The Boeing CEO spoke to the press on national TV over and over again, reassuring to the public how safe the 747 MAX was. His demeanor was sincere and reassuring. It was impossible not to believe him.&lt;/p&gt;
+&lt;p&gt;Imagine that you can fake a VIP to say things that can influence public opinion? And to control the narrative?&lt;/p&gt;
+&lt;p&gt;It is a new world we live in today. We got to be ready.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

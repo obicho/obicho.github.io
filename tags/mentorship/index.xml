@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mentorship on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/mentorship/</link>
+        <description>Recent content in Mentorship on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 25 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/mentorship/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Path to CTO</title>
+        <link>http://localhost:1313/p/path-to-cto/</link>
+        <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/path-to-cto/</guid>
+        <description>&lt;img src="http://localhost:1313/img/posts/path-to-cto.png" alt="Featured image of post Path to CTO" /&gt;&lt;p&gt;I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path.
+Here is an ascii illustration of various possible ways you can become a CTO. It could be useful for someone navigating their career in software technology.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/path-to-cto.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Technology career path&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                cto, public company
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                cto, private company
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                cto, divisional, private company
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             svp of technology              svp of engineering
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             vp of technology               vp of engineering
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             director of technology         director of engineering
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             director of product mgmt       engineering manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                                                                                                                CIO
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          sr tech lead                                                                          IT SVP
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          tech lead                                                                             IT VP
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          architect                                                                             IT Director
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          principle engineer                                                                    IT Project Manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;evangelist                                                   cto, startup                 staff engineer                                                                        IT Program Manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;solution engineer                project manager             senior software engineer     senior backend          senior frontend       sr devops            sr full stack      IT Manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sales engineer                   technical program manager   software engineer            backend engineer        frontend engineer     devops engineer      fullustack         IT Helpdesk
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;developer advocate               product manager             junior software engineer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             intern
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                ▲
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            ┌───┴───┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            │START  │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            │       │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            └───────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Top 10 books for engineering managers</title>
+        <link>http://localhost:1313/p/top-10-books-for-engineering-managers/</link>
+        <pubDate>Mon, 24 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/top-10-books-for-engineering-managers/</guid>
+        <description>&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Mythical Man Month&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Pragmatic Programmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Clean Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/67825.Peopleware&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Peopleware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/4845.Code_Complete&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Code Complete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/10127019-the-lean-startup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Lean Startup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/55338968-the-cold-start-problem&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Cold Start Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/48019.The_Effective_Executive&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Effective Executive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/33517721-the-culture-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Culture Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/16158601-turn-the-ship-around&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Turn The Ship Around&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Career planning, or not</title>
+        <link>http://localhost:1313/p/career-planning-or-not/</link>
+        <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/career-planning-or-not/</guid>
+        <description>&lt;p&gt;The amazing thing about meeting people in tech is that you can put people in two camps. The first camp is the founder type: they have a strong vision and want to build something to change the world. You can feel the energy blasting from every cell when they speak.&lt;/p&gt;
+&lt;p&gt;People in the second camp are professionals. They work for wonderful corporations and they are masters in what they do. Every step of the way, they work hard to build their career. They are proud of their accomplishments and capabilities. They get paid well doing it.&lt;/p&gt;
+&lt;p&gt;People in the 1st camp sometimes complained: did I spend too much time on my business that I am forgetting everything else? Like family and personal hobby?&lt;/p&gt;
+&lt;p&gt;People in the 2nd camp sometimes whined: Life catches up with me. Why didn’t I pursue that billion dollar idea that I had from the other night?&lt;/p&gt;
+&lt;p&gt;The take away is that people should learn how to change camps when they realize that they no longer belong. No one will judge you.&lt;/p&gt;
+&lt;p&gt;That’s key to happiness.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Myths about software engineers</title>
+        <link>http://localhost:1313/p/myths-about-software-engineers/</link>
+        <pubDate>Tue, 11 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/myths-about-software-engineers/</guid>
+        <description>&lt;h3 id=&#34;they-are-super-opinionated&#34;&gt;They are super opinionated.
+&lt;/h3&gt;&lt;p&gt;An engineer who likes to apply one particular technology on every problem is not a good engineer. They are just being opinionated for no good reason. A good engineer would look at the problem, analyze it and then find the best solution (tools, programming language, etc). Experienced engineers would definitely have an opinion about different technologies but they would never enforce.&lt;/p&gt;
+&lt;h3 id=&#34;they-are-difficult-to-work-with&#34;&gt;They are difficult to work with.
+&lt;/h3&gt;&lt;p&gt;I can tell you this: engineers are naturally not the most sociable lot, otherwise they would be in marketing or sales. Sometimes, they are too shy or sometimes they are too technical when talking to non-technical stakeholders. Therefore, they often give us the impression that they are difficult. On the contrary, the best engineers love working in a team solving big problems.&lt;/p&gt;
+&lt;h3 id=&#34;engineers-need-to-be-micromanaged&#34;&gt;Engineers need to be micromanaged.
+&lt;/h3&gt;&lt;p&gt;Good engineers do not need to be managed so closely; they just need to be guided. Micromanaging their every line of code is not the way to go about it.&lt;/p&gt;
+&lt;h3 id=&#34;they-must-have-a-computer-science-degree&#34;&gt;They must have a computer science degree.
+&lt;/h3&gt;&lt;p&gt;Some of the best engineers I have worked with never had the luxury of completing a bachelor’s degree in computer science. They choose this profession because they love what they do!&lt;/p&gt;
+&lt;h3 id=&#34;they-code-in-their-free-time&#34;&gt;They code in their free time.
+&lt;/h3&gt;&lt;p&gt;No they do not always. Software engineers are people too. They have a variety of interests. Some tend to like gaming, most enjoy time with family and friends but few will code all day in their free time.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

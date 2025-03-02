@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Product on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/product/</link>
+        <description>Recent content in Product on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 07 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/product/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Time is of the essence</title>
+        <link>http://localhost:1313/p/time-is-of-the-essence/</link>
+        <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/time-is-of-the-essence/</guid>
+        <description>&lt;p&gt;Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)&lt;/p&gt;
+&lt;p&gt;Think about that for a second.&lt;/p&gt;
+&lt;p&gt;It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.&lt;/p&gt;
+&lt;p&gt;There are many advantages to using something like AWS Lamda. On demand service billing is going to enable more customers to try your service without committing to a year-long contract (many dated enterprise financial software is still billing like it once were 30 years ago). Your infrastructure is probably going to be easier to maintain since AWS automates most of it. You will have less costly overhead since you don’t need to keep a server up when your users are asleep.&lt;/p&gt;
+&lt;p&gt;It is &lt;em&gt;pay as you go&lt;/em&gt; at its most granular level that I have seen. Is your infrastructure and product offering similar in nature?&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

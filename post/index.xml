@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 17 Jan 2025 07:30:56 -0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Magic Moment Happens quietly</title>
+        <link>http://localhost:1313/p/the-magic-moment-happens-quietly/</link>
+        <pubDate>Fri, 17 Jan 2025 07:30:56 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/the-magic-moment-happens-quietly/</guid>
+        <description>&lt;img src="http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost.jpeg" alt="Featured image of post The Magic Moment Happens quietly" /&gt;&lt;p&gt;The magic moment happens quietly. Yesterday&amp;rsquo;s breakthrough becomes today&amp;rsquo;s utility and tomorrow&amp;rsquo;s commodity.&lt;/p&gt;
+&lt;p&gt;AI models are following this exact path. What was once the domain of specialized researchers with massive budgets is now accessible to nearly anyone with an internet connection.&lt;/p&gt;
+&lt;p&gt;Think about that for a second. The technology that had us gasping in amazement just months ago is now becoming&amp;hellip; ordinary.&lt;/p&gt;
+&lt;p&gt;This commoditization has profound implications:&lt;/p&gt;
+&lt;p&gt;✅ The bar rises. When everyone has access to the same AI capabilities, simply having them means nothing. The differentiation moves upstream to how you implement, integrate, and innovate on top of these models.&lt;/p&gt;
+&lt;p&gt;✅ Value shifts to the edges. The competitive advantage isn&amp;rsquo;t the model itself (that&amp;rsquo;s the commodity) but rather your unique data, your specific problems, your distinctive implementation, and most importantly, your relationship with the humans you serve.&lt;/p&gt;
+&lt;p&gt;✅ Focus matters more than ever. Successful companies won&amp;rsquo;t be those who use AI for everything, but those who use it for the right things—where it solves real problems for real people.&lt;/p&gt;
+&lt;p&gt;What should you do about it?&lt;/p&gt;
+&lt;p&gt;🚫 Stop chasing the shiny object. The AI model itself is quickly becoming table stakes.&lt;/p&gt;
+&lt;p&gt;🔍 Double down on your uniqueness. What do you know that nobody else knows? What problems do you understand better than anyone?&lt;/p&gt;
+&lt;p&gt;🤝 Remember that relationships trump algorithms. In a world where everyone has access to the same AI capabilities, human connection becomes the scarcest resource.&lt;/p&gt;
+&lt;p&gt;The companies that will thrive aren&amp;rsquo;t asking &amp;ldquo;How can we use AI?&amp;rdquo; but rather &amp;ldquo;What matters to our people that AI might help us deliver?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost.jpeg&#34;
+	width=&#34;1858&#34;
+	height=&#34;1352&#34;
+	srcset=&#34;http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost_hu_a9dec6deb1f63881.jpeg 480w, http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost_hu_2894f0a1a2364ac4.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Steep drop in LLM cost per token over time&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;329px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The Chinese Almanac Might Be the World&#39;s Oldest Continuously Published Data Science Project</title>
+        <link>http://localhost:1313/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/</link>
+        <pubDate>Wed, 15 Jan 2025 07:29:36 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/</guid>
+        <description>&lt;img src="http://localhost:1313/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/almanac.jpeg" alt="Featured image of post The Chinese Almanac Might Be the World&#39;s Oldest Continuously Published Data Science Project" /&gt;&lt;p&gt;The Chinese almanac (通書/農民曆) might be the world&amp;rsquo;s oldest continuously published data science project.&lt;/p&gt;
+&lt;p&gt;Imagine farmers across generations—not just recording when to plant, but meticulously noting correlations between celestial patterns, weather changes, and successful harvests. They weren&amp;rsquo;t guessing. They were building a prediction engine using the only tools they had: observation, documentation, and pattern recognition.&lt;/p&gt;
+&lt;p&gt;Dating back to around 2500 BCE during the Xia Dynasty, these almanacs began as fundamental agricultural guides. But they were never static. Each generation added layers of insight, correlating moon phases with tides, star positions with seasonal changes, and weather patterns with optimal planting times.&lt;/p&gt;
+&lt;p&gt;What makes this remarkable? They didn&amp;rsquo;t have the why. Ancient farmers couldn&amp;rsquo;t explain gravitational relationships or atmospheric science—they simply noticed what worked, documented it, refined it through trial and error, and passed it forward.&lt;/p&gt;
+&lt;p&gt;This wasn&amp;rsquo;t superstition. It was an empirical method before the scientific method existed.&lt;/p&gt;
+&lt;p&gt;The modern Chinese almanac evolved to include predictions for nearly everything: auspicious days for marriages, business ventures, travel, construction. It became a cultural algorithm—a complex system trying to predict outcomes based on observed patterns.&lt;/p&gt;
+&lt;p&gt;Sound familiar?&lt;/p&gt;
+&lt;p&gt;AI models function precisely on this principle. They don&amp;rsquo;t understand causality in the way humans conceptualize it. They observe patterns in vast datasets, identify correlations, and make predictions.&lt;/p&gt;
+&lt;p&gt;GPT doesn&amp;rsquo;t &amp;ldquo;understand&amp;rdquo; language any more than ancient almanac creators &amp;ldquo;understood&amp;rdquo; astrophysics. Both systems recognize patterns that produce reliable outcomes without necessarily grasping the underlying mechanisms.&lt;/p&gt;
+&lt;p&gt;The difference is scale and speed. Where almanac creators needed generations to refine their models, modern AI can process billions of examples in days.&lt;/p&gt;
+&lt;p&gt;But the philosophical approach remains strikingly similar: notice what works, document the patterns, refine through iteration.&lt;/p&gt;
+&lt;p&gt;Perhaps what&amp;rsquo;s most profound is that both systems—separated by four millennia—reveal something essential about human knowledge acquisition. We often recognize useful patterns long before we understand why they work.&lt;/p&gt;
+&lt;p&gt;The question isn&amp;rsquo;t whether we should trust pattern recognition without complete understanding—we&amp;rsquo;ve been doing it successfully for thousands of years. The question is how we incorporate these powerful pattern-recognition tools into systems that serve human flourishing.&lt;/p&gt;
+&lt;p&gt;The ancient almanac makers would recognize our modern AI endeavors instantly. They were, after all, in the same business: turning observation into prediction, and prediction into wisdom.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Stop Asking if AI Will Take Your Job</title>
+        <link>http://localhost:1313/p/stop-asking-if-ai-will-take-your-job/</link>
+        <pubDate>Tue, 14 Jan 2025 07:24:14 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/stop-asking-if-ai-will-take-your-job/</guid>
+        <description>&lt;p&gt;Stop asking if AI will take your job. Start asking these 3 questions that actually matter for your career.&lt;/p&gt;
+&lt;p&gt;The factory worker in 1920 didn&amp;rsquo;t worry about whether electricity would take their job. They worried about how to use electricity to become indispensable.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re asking the wrong question, and it&amp;rsquo;s costing you precious time.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what you should be asking instead:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;What do I do that others find valuable, but struggle to replicate?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Maybe it&amp;rsquo;s your ability to read a room during negotiations. Your knack for spotting patterns in market trends. Or how you build trust with skeptical clients. These aren&amp;rsquo;t just skills – they&amp;rsquo;re your unique fingerprints in the business world.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;How can I use AI to amplify what I&amp;rsquo;m already great at?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The chess grandmaster doesn&amp;rsquo;t fear the chess computer. They learn from it. Study with it. Use it to explore moves they never considered. What&amp;rsquo;s your equivalent? If you&amp;rsquo;re great at writing proposals, AI isn&amp;rsquo;t your replacement – it&amp;rsquo;s your personal editing team, your research assistant, your brainstorming partner.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;What parts of my expertise can I teach AI to clone, so I can scale myself?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Think about it. If you could clone your problem-solving approach, your industry insights, your decision-making framework – and let that clone handle the routine parts of your work – what would you do with the freed-up time to create even more value?&lt;/p&gt;
+&lt;p&gt;The real opportunity isn&amp;rsquo;t in competing with AI. It&amp;rsquo;s in becoming the architect of your own AI-enhanced future. The person who knows how to combine human insight with artificial intelligence isn&amp;rsquo;t replaceable – they&amp;rsquo;re irreplaceable.&lt;/p&gt;
+&lt;p&gt;The question isn&amp;rsquo;t whether AI will take your job. The question is: Will you be bold enough to take your expertise, amplify it with AI, and become someone whose value can&amp;rsquo;t be replicated by either humans or machines alone?&lt;/p&gt;
+&lt;p&gt;The future belongs to those who stop defending their job from AI and start using AI to defend their value in the marketplace.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s your move?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Here Is Something That Might Surprise You</title>
+        <link>http://localhost:1313/p/here-is-something-that-might-surprise-you/</link>
+        <pubDate>Mon, 13 Jan 2025 07:26:02 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/here-is-something-that-might-surprise-you/</guid>
+        <description>&lt;img src="http://localhost:1313/p/here-is-something-that-might-surprise-you/exam.jpeg" alt="Featured image of post Here Is Something That Might Surprise You" /&gt;&lt;p&gt;Here&amp;rsquo;s something that might surprise you.&lt;/p&gt;
+&lt;p&gt;The most advanced artificial intelligence in the world – the kind that&amp;rsquo;s making headlines and keeping CEOs up at night – just failed an exam. Not just any exam. The hardest exam ever created.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re calling it &amp;ldquo;Humanity&amp;rsquo;s Last Exam.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Dramatic? Maybe. But here&amp;rsquo;s the thing: We&amp;rsquo;ve spent years watching AI ace test after test. SAT, GRE, CA Bar exam, MMLU, MATH, you name it. Scoring higher than 90% on benchmarks that were supposed to be challenging. Getting perfect scores on medical licensing exams. Outperforming human experts on complex reasoning tasks. Making us wonder if there was anything left that machines couldn&amp;rsquo;t master.&lt;/p&gt;
+&lt;p&gt;And then this exam comes along.&lt;/p&gt;
+&lt;p&gt;Let me throw some numbers at you that might make you sit up straight: GPT-4, Claude 3.5 Sonnet, Grok-2 – the most advanced AI models we have – are scoring less than 5% on this test. Less than 5%.&lt;/p&gt;
+&lt;p&gt;Think about that. These are the same models that are writing code, analyzing market trends, and making predictions that seem almost magical. But faced with this exam? They&amp;rsquo;re failing. Spectacularly.&lt;/p&gt;
+&lt;p&gt;Picture this: A question about decoding an ancient Roman inscription. Seems simple enough, right? Except it&amp;rsquo;s not just about translation. It&amp;rsquo;s about understanding context, connecting historical dots, and making the kind of intuitive leaps that have defined human intelligence for millennia.&lt;/p&gt;
+&lt;p&gt;The kind of thinking that made you successful in business. The kind that helped you spot opportunities others missed. The kind that told you when to trust your gut, even when the data said otherwise.&lt;/p&gt;
+&lt;p&gt;And guess what? AI is struggling. Badly.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t just another benchmark. It&amp;rsquo;s a collection of 2,700 questions that push the boundaries of what we know – and how we know it. Questions that require more than just processing power. They demand understanding.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s where it gets interesting for us, the business leaders watching from the sidelines.&lt;/p&gt;
+&lt;p&gt;This exam isn&amp;rsquo;t about proving AI&amp;rsquo;s limitations. It&amp;rsquo;s about understanding them. About recognizing that the future isn&amp;rsquo;t about AI replacing human intelligence – it&amp;rsquo;s about enhancing it.&lt;/p&gt;
+&lt;p&gt;Think about that for a moment.&lt;/p&gt;
+&lt;p&gt;While everyone else is panicking about AI taking over, you&amp;rsquo;re looking at evidence that the most sophisticated machines still can&amp;rsquo;t match the complexity of human thought. That there&amp;rsquo;s something uniquely valuable about the way we process information, make decisions, and lead our organizations.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t just an exam. It&amp;rsquo;s a reminder.&lt;/p&gt;
+&lt;p&gt;A reminder that in your boardroom, in your strategy sessions, in those crucial moments when everything is on the line – human judgment still matters. Your experience still matters. Your intuition still matters.&lt;/p&gt;
+&lt;p&gt;The future isn&amp;rsquo;t about stepping aside for AI. It&amp;rsquo;s about stepping up alongside it.&lt;/p&gt;
+&lt;p&gt;Because while machines are getting better at giving answers, we&amp;rsquo;re still the ones asking the right questions. And in business, just like in &amp;ldquo;Humanity&amp;rsquo;s Last Exam,&amp;rdquo; that&amp;rsquo;s what matters most.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My AI Coding Agent Wrote Perfect Typescript Today. Then I Woke Up</title>
+        <link>http://localhost:1313/p/my-ai-coding-agent-wrote-perfect-typescript-today.-then-i-woke-up/</link>
+        <pubDate>Mon, 13 Jan 2025 07:21:32 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/my-ai-coding-agent-wrote-perfect-typescript-today.-then-i-woke-up/</guid>
+        <description>&lt;p&gt;My AI coding agent wrote perfect TypeScript today. Then I woke up.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the thing about dreams – they&amp;rsquo;re full of promise, just like the AI tools we&amp;rsquo;re pouring our money into. $25 for the first month. Then $10.50. Again. And again. And again.&lt;/p&gt;
+&lt;p&gt;Let me paint you a picture. I&amp;rsquo;m building a CMS, the kind I&amp;rsquo;ve built dozens of times before. The AI confidently suggests code, and sometimes – when I ask the right questions – it actually speeds things up. It&amp;rsquo;s particularly good at the tedious stuff: scaffolding CRUD operations, suggesting API endpoints, writing basic form validation.&lt;/p&gt;
+&lt;p&gt;But then it pulls lowercase_underscored_data from the database while ignoring TypeScript&amp;rsquo;s benefits, and I have to step in. Again. And again.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the truth about today&amp;rsquo;s coding AI: It&amp;rsquo;s like having an eager junior developer who never sleeps and has memorized all of Stack Overflow. Sometimes they write clean, useful code that saves you time. Other times, they write code that makes you question their understanding of basic programming concepts.&lt;/p&gt;
+&lt;p&gt;Want to prototype quickly? These agents shine. Need help documenting your code? They&amp;rsquo;re surprisingly good at that. Looking for alternative approaches to a problem? They&amp;rsquo;ll show you five different ways to solve it.&lt;/p&gt;
+&lt;p&gt;But don&amp;rsquo;t expect them to architect your full-stack application or understand your business logic. That&amp;rsquo;s still uniquely human territory.&lt;/p&gt;
+&lt;p&gt;The real magic happens when you understand their sweet spot: use them for the mundane, the repetitive, the well-documented patterns. Keep them away from your architecture decisions and complex business logic.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re probably 12 months away from these tools being truly transformative. But right now, they&amp;rsquo;re useful learning tools and occasional productivity boosters – if you know their limitations.&lt;/p&gt;
+&lt;p&gt;Think of it like pair programming with someone who has perfect recall but imperfect understanding. Used wisely, that can still be valuable.&lt;/p&gt;
+&lt;p&gt;The future of coding will be AI-assisted, but today&amp;rsquo;s reality requires a balanced approach: leverage their strengths, respect their limitations, and keep your expert judgment in the driver&amp;rsquo;s seat.&lt;/p&gt;
+&lt;p&gt;Just don&amp;rsquo;t expect them to write perfect TypeScript. At least, not until tomorrow&amp;rsquo;s dream.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>There Is a Ghost Haunting Your Ai Project</title>
+        <link>http://localhost:1313/p/there-is-a-ghost-haunting-your-ai-project/</link>
+        <pubDate>Sun, 12 Jan 2025 07:22:27 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/there-is-a-ghost-haunting-your-ai-project/</guid>
+        <description>&lt;p&gt;There&amp;rsquo;s a ghost haunting your AI project.&lt;/p&gt;
+&lt;p&gt;You won&amp;rsquo;t find it in the code reviews or the technical specifications. It&amp;rsquo;s not hiding in your data lakes or your neural networks.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s sitting in plain sight – in your Monday morning meetings, in the whispered conversations by the coffee machine, in the unanswered Slack messages.&lt;/p&gt;
+&lt;p&gt;The silent killer of AI projects isn&amp;rsquo;t technical – it&amp;rsquo;s cultural.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what the consultants won&amp;rsquo;t tell you: You can have the most sophisticated AI system in the world, but if your people are rowing in different directions, you&amp;rsquo;re going nowhere fast.&lt;/p&gt;
+&lt;p&gt;Remember when email came to the workplace? The resistance wasn&amp;rsquo;t about whether it worked – it was about whether we wanted it to work. AI is email multiplied by a thousand, with a dash of existential crisis thrown in for good measure.&lt;/p&gt;
+&lt;p&gt;Your engineers are building bridges to tomorrow while your middle managers are quietly stockpiling dynamite. Not because they&amp;rsquo;re saboteurs, but because nobody likes to be the character in the story who gets automated away.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s the thing – the best AI implementations don&amp;rsquo;t replace people, they amplify them. Netflix didn&amp;rsquo;t fire their content creators when they built their recommendation engine. They turned their creators into superstars by connecting them with the right audiences.&lt;/p&gt;
+&lt;p&gt;The real question isn&amp;rsquo;t whether AI works. The real question is: Are you building an organization that&amp;rsquo;s ready to work differently?&lt;/p&gt;
+&lt;p&gt;Because culture isn&amp;rsquo;t just what you say in your town halls. Culture is what happens when no one&amp;rsquo;s watching. It&amp;rsquo;s the small decisions your team makes when they think you&amp;rsquo;re not paying attention.&lt;/p&gt;
+&lt;p&gt;Want to know if your AI project will succeed? Don&amp;rsquo;t check your GitHub repository. Check your lunch tables. Are your data scientists sitting with your operations teams? Are your AI experts learning from your front-line workers, or are they just teaching?&lt;/p&gt;
+&lt;p&gt;The good news? Culture can change. But it changes through stories, through examples, through small wins that build trust.&lt;/p&gt;
+&lt;p&gt;Start there. Start small. Start human.&lt;/p&gt;
+&lt;p&gt;Because the future of AI isn&amp;rsquo;t about replacing human intelligence – it&amp;rsquo;s about augmenting human wisdom.&lt;/p&gt;
+&lt;p&gt;And wisdom? That&amp;rsquo;s always been cultural.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>I Studied 50 Successful Enterprise Ai Implementations Here Is the Pattern Nobody Talks About</title>
+        <link>http://localhost:1313/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/</link>
+        <pubDate>Sat, 11 Jan 2025 07:17:43 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/</guid>
+        <description>&lt;img src="http://localhost:1313/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/no.jpeg" alt="Featured image of post I Studied 50 Successful Enterprise Ai Implementations Here Is the Pattern Nobody Talks About" /&gt;&lt;p&gt;I studied 50 successful enterprise AI implementations. Here&amp;rsquo;s the pattern nobody talks about.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not about the algorithms. It&amp;rsquo;s not about the data. And it&amp;rsquo;s certainly not about having the biggest AI budget.&lt;/p&gt;
+&lt;p&gt;The pattern that emerges, time and time again, is almost embarrassingly simple: The successful implementations all started with what they weren&amp;rsquo;t going to do.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s right. While everyone else was rushing to implement AI everywhere, these leaders did something counterintuitive. They sat down and made a &amp;ldquo;not-to-do&amp;rdquo; list.&lt;/p&gt;
+&lt;p&gt;You see, AI isn&amp;rsquo;t like electricity. You can&amp;rsquo;t just plug it in everywhere and expect magic to happen. The companies that won didn&amp;rsquo;t try to boil the ocean. They didn&amp;rsquo;t promise their boards they&amp;rsquo;d revolutionize every department.&lt;/p&gt;
+&lt;p&gt;Instead, they chose their battles.&lt;/p&gt;
+&lt;p&gt;One CEO I spoke with put it perfectly: &amp;ldquo;We had twenty potential AI projects. We killed nineteen of them.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The pressure to do everything is immense. Your competitors are issuing press releases about their AI initiatives. Your board is asking about your AI strategy. Your teams are pitching AI solutions for problems that don&amp;rsquo;t exist.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s what the successful ones understand: AI implementation isn&amp;rsquo;t a trophy to be won. It&amp;rsquo;s a tool to solve specific, meaningful problems.&lt;/p&gt;
+&lt;p&gt;They knew that saying &amp;ldquo;not this&amp;rdquo; required more courage than saying &amp;ldquo;yes&amp;rdquo; to everything. And paradoxically, by doing less, they accomplished more.&lt;/p&gt;
+&lt;p&gt;So before you approve another AI project, before you hire another team of data scientists, ask yourself: What are you willing not to do?&lt;/p&gt;
+&lt;p&gt;Because the pattern nobody talks about is this: The winners in the AI race aren&amp;rsquo;t the ones who did the most. They&amp;rsquo;re the ones who chose the wisest places to do nothing at all.&lt;/p&gt;
+&lt;p&gt;And maybe that&amp;rsquo;s the most artificial intelligence of all.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Fear for His Company&#39;s Future</title>
+        <link>http://localhost:1313/p/fear-for-his-companys-future/</link>
+        <pubDate>Fri, 10 Jan 2025 07:10:44 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/fear-for-his-companys-future/</guid>
+        <description>&lt;img src="http://localhost:1313/p/fear-for-his-companys-future/apple.jpeg" alt="Featured image of post Fear for His Company&#39;s Future" /&gt;&lt;p&gt;I met a CEO last week who made me fear for his company&amp;rsquo;s future. In his corner office – all mahogany and market reports – he leaned back and said something chilling: &amp;ldquo;Our industry hasn&amp;rsquo;t really changed in three decades.&amp;rdquo; He delivered this line like it was a badge of honor, not a warning sign.&lt;/p&gt;
+&lt;p&gt;It reminded me of Chegg&amp;rsquo;s story. Remember them? The homework help giant worth $12 billion? They had it all figured out – market dominance, steady growth, predictable future. Then ChatGPT appeared, and in just four months, their empire crumbled. Seventy percent of their value, gone. Not because they were incompetent, but because they were comfortable.&lt;/p&gt;
+&lt;p&gt;The thing about disruption is it&amp;rsquo;s like a tsunami. By the time you see it from your corner office, it&amp;rsquo;s too late to build a boat. Somewhere right now, in a garage that doesn&amp;rsquo;t match your marble lobby, someone is completely rethinking your industry. They&amp;rsquo;re not weighed down by &amp;ldquo;the way things work.&amp;rdquo; They&amp;rsquo;re not protecting a legacy. They&amp;rsquo;re building its replacement.&lt;/p&gt;
+&lt;p&gt;You see, the most dangerous kind of bankruptcy isn&amp;rsquo;t financial – it&amp;rsquo;s the bankruptcy of imagination. The belief that your industry is &amp;ldquo;different,&amp;rdquo; that your success is &amp;ldquo;protected,&amp;rdquo; that your experience is a shield rather than a blindfold. Just ask Chegg about their view now, if you can find someone who still has an office there.&lt;/p&gt;
+&lt;p&gt;The question isn&amp;rsquo;t whether disruption is coming to your industry. It&amp;rsquo;s whether you&amp;rsquo;ll be the disruptor or the disrupted. Whether you&amp;rsquo;ll be writing the future or becoming a cautionary tale in someone else&amp;rsquo;s PowerPoint presentation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/fear-for-his-companys-future/apple.jpeg&#34;
+	width=&#34;800&#34;
+	height=&#34;597&#34;
+	srcset=&#34;http://localhost:1313/p/fear-for-his-companys-future/apple_hu_73a209c39d751161.jpeg 480w, http://localhost:1313/p/fear-for-his-companys-future/apple_hu_8c4cc80ec2be14c.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Jobs and Wozniak - early days of Apple Computer&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;321px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Guess How a Top Ivy League Mba Program Teaches Deep Learning, Neural Networks and Generative Ai</title>
+        <link>http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/</link>
+        <pubDate>Wed, 08 Jan 2025 07:03:10 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/</guid>
+        <description>&lt;img src="http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom.jpeg" alt="Featured image of post Guess How a Top Ivy League Mba Program Teaches Deep Learning, Neural Networks and Generative Ai" /&gt;&lt;p&gt;🎓 Guess how a top Ivy league MBA program teaches deep learning, neural networks, and generative AI to its students?&lt;/p&gt;
+&lt;p&gt;The answer: A simple spreadsheet.&lt;/p&gt;
+&lt;p&gt;Mind-blown at Columbia Business School&amp;rsquo;s Professor Daniel Guetta&amp;rsquo;s masterclass earlier this week during our alumni gathering at LA&amp;rsquo;s Museum of Contemporary Art (MOCA).&lt;/p&gt;
+&lt;p&gt;Most AI talks I&amp;rsquo;ve attended were either too technical or too superficial. This was different.&lt;/p&gt;
+&lt;p&gt;Standing in MOCA&amp;rsquo;s board room, Prof. Guetta brilliantly used spreadsheets to visualize word embeddings as &amp;ldquo;DNA&amp;rdquo; of language. He illustrated key concepts by loading a small LLM representation to the spreadsheets, filled with embedding (vectors) of most commonly used English words. Even with my technical background, this fresh perspective made ChatGPT&amp;rsquo;s complexity instantly digestible.&lt;/p&gt;
+&lt;p&gt;After the lecture, we went downstairs to the main gallery for a private tour with MOCA&amp;rsquo;s Senior Curator, Anna Katz.&lt;/p&gt;
+&lt;p&gt;As we explored the main exhibit &amp;ldquo;Ordinary People: Photorealism and the Work of Art since 1968,&amp;rdquo; deeper questions emerged. In an era where AI tools like Midjourney can generate photorealistic art with a few prompts, what defines the essence of art? Will AI-generated pieces someday stand alongside human creations in museums like MOCA? These questions lingered as I absorbed each masterpiece.&lt;/p&gt;
+&lt;p&gt;While the answers remain complex, I left grateful for this afternoon of learning, reflection, and connection with fellow Columbia alumni. What a wonderful way to conclude the year.&lt;/p&gt;
+&lt;p&gt;Key Takeaway: Innovation in teaching isn&amp;rsquo;t about new tools - it&amp;rsquo;s about making complex ideas accessible and memorable.&lt;/p&gt;
+&lt;p&gt;Special thanks to Nancy Kwon Merrihew for hosting us, and to Minkyung Kim for organzing the event on behalf of Columbia Alumni Association of Southern California (Columbia SoCal).&lt;/p&gt;
+&lt;p&gt;hashtag#ColumbiaUniversity hashtag#ColumbiaAlumni hashtag#ColumbiaBusinessSchool&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom.jpeg&#34;
+	width=&#34;2048&#34;
+	height=&#34;870&#34;
+	srcset=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom_hu_40fd4da4ff39a03e.jpeg 480w, http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom_hu_775189b13bd7e6cc.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Everyone listening to an executive MBA course on AI at MOCA boardroom at DTLA&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;235&#34;
+		data-flex-basis=&#34;564px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit.jpeg&#34;
+	width=&#34;1280&#34;
+	height=&#34;1704&#34;
+	srcset=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit_hu_ae1231c6945977c4.jpeg 480w, http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit_hu_6cecd40675ac0dc1.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Exhibit on that day at MOCA museum&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>What if Your Banks Most Effective Agent Never Sleeps</title>
+        <link>http://localhost:1313/p/what-if-your-banks-most-effective-agent-never-sleeps/</link>
+        <pubDate>Tue, 07 Jan 2025 06:59:12 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/what-if-your-banks-most-effective-agent-never-sleeps/</guid>
+        <description>&lt;p&gt;🚀 &amp;ldquo;What if your bank&amp;rsquo;s most effective collections agent never sleeps, never takes breaks, and handles 1000x more calls than humans?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The future of banking and lending isn&amp;rsquo;t just digital - it&amp;rsquo;s conversational.&lt;/p&gt;
+&lt;p&gt;Meet the new era of AI voice agents that understand natural language just like humans do.&lt;/p&gt;
+&lt;p&gt;Gone are the days of shouting &amp;ldquo;REPRESENTATIVE!&amp;rdquo; at your phone.&lt;/p&gt;
+&lt;p&gt;No more &amp;ldquo;Press 1 for English&amp;hellip; press 2 to hear these options again&amp;hellip; press 3 to lose your sanity.&amp;rdquo; 😉&lt;/p&gt;
+&lt;p&gt;These AI agents understand your local slang and creative vocabulary. They&amp;rsquo;re like that friend who gets your jokes, except this one is really good at collecting payments.&lt;/p&gt;
+&lt;p&gt;Having conducted deep tech research in AI speech recognition and synthesis at UCLA since 2008, I&amp;rsquo;ve seen a quantum leap in capability.&lt;/p&gt;
+&lt;p&gt;For banks and lending institutions, this means:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dramatically reduced operational costs&lt;/li&gt;
+&lt;li&gt;24/7 payment collection capability&lt;/li&gt;
+&lt;li&gt;Consistent brand voice across all calls&lt;/li&gt;
+&lt;li&gt;Higher success rates in collections&lt;/li&gt;
+&lt;li&gt;Zero reliance on third-party agencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The real power? Scale. While human agents handle 50-60 calls daily, AI agents manage thousands - without fatigue or quality drop.&lt;/p&gt;
+&lt;p&gt;👇 Watch the live demo videos below. You won&amp;rsquo;t believe they&amp;rsquo;re not human!&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/IHIomM4DkE4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Top 10 Banks Are Quietly Abandoning LLM</title>
+        <link>http://localhost:1313/p/top-10-banks-are-quietly-abandoning-llm/</link>
+        <pubDate>Mon, 06 Jan 2025 06:54:31 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/top-10-banks-are-quietly-abandoning-llm/</guid>
+        <description>&lt;p&gt;🚨 Breaking: Top 10 banks are quietly abandoning large language models. Here&amp;rsquo;s the disruption no one saw coming.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Mind-blowing stat: While the big banks pour millions into large language models, fintech leaders are quietly deploying specialized AI agents that process customer queries 25x faster at 1/10th the cost.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what most people don&amp;rsquo;t know: These new agents, powered by Small Language Models, are revolutionizing customer service by:
+• Resolving transaction disputes in under 75ms
+• Achieving 95% accuracy in fraud detection
+• Processing loan pre-approvals with higher precision than traditional AI
+• Handling compliance checks with near-zero false positives&lt;/p&gt;
+&lt;p&gt;The game-changer? In the last 12 months, deployments of these specialized agents have tripled. They&amp;rsquo;re not just faster - they&amp;rsquo;re smarter at specific financial tasks because they&amp;rsquo;re trained exclusively on banking data, eliminating the hallucination issues that plague larger models.&lt;/p&gt;
+&lt;p&gt;Think about it: When you&amp;rsquo;re handling sensitive financial data, would you trust a general-purpose AI or one that&amp;rsquo;s laser-focused on banking regulations and compliance?&lt;/p&gt;
+&lt;p&gt;Major banks are starting to notice. Several top-10 financial institutions have quietly switched their customer service operations to these specialized agents, reporting a 60% reduction in escalations.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/MjaUpP43csc&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Next Financial Empire Isn&#39;t a Bank</title>
+        <link>http://localhost:1313/p/next-financial-empire-isnt-a-bank/</link>
+        <pubDate>Sun, 05 Jan 2025 16:31:42 -0800</pubDate>
+        
+        <guid>http://localhost:1313/p/next-financial-empire-isnt-a-bank/</guid>
+        <description>&lt;img src="http://localhost:1313/p/next-financial-empire-isnt-a-bank/intuitdome.jpeg" alt="Featured image of post Next Financial Empire Isn&#39;t a Bank" /&gt;&lt;p&gt;🏢 What if I told you the next financial data empire isn&amp;rsquo;t a bank, but was built through tax software?&lt;/p&gt;
+&lt;p&gt;Standing at the Intuit Dome, I had an eye-opening revelation. This wasn&amp;rsquo;t just another tech company&amp;rsquo;s vanity project - it&amp;rsquo;s a statement of power.&lt;/p&gt;
+&lt;p&gt;Think about this: While banks chase traditional finance, Intuit built something stealthier but potentially more valuable: the most comprehensive small business data ecosystem in America.&lt;/p&gt;
+&lt;p&gt;The proof is in their empire:
+• TurboTax: Your annual tax headache turned into valuable financial insights
+• QuickBooks: The accounting operating system for millions of small businesses
+• Credit Karma: 130M+ members sharing their financial dreams and data
+• Mailchimp: The marketing pulse of small business marketing and customer behavior&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what stopped me in my tracks: Intuit runs 2 MILLION AI models, making 65 BILLION daily predictions. That&amp;rsquo;s not just big tech - that&amp;rsquo;s financial intelligence at a scale most banks can&amp;rsquo;t match.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s even more fascinating? While everyone&amp;rsquo;s jumping on the AI bandwagon now, Intuit has been quietly building their AI capabilities for the last decade. This isn&amp;rsquo;t a reactive pivot - it&amp;rsquo;s a carefully executed long game.&lt;/p&gt;
+&lt;p&gt;They didn&amp;rsquo;t just build software. They built a crystal ball that understands American business better than perhaps anyone else.&lt;/p&gt;
+&lt;p&gt;The future of finance isn&amp;rsquo;t in marble-columned banks. It&amp;rsquo;s in the companies that understand our financial DNA at the molecular level.&lt;/p&gt;
+&lt;p&gt;hashtag#Innovation hashtag#Fintech hashtag#AI hashtag#BusinessInsights hashtag#IntuitDome&lt;/p&gt;
+&lt;p&gt;🤔 What could Intuit predict about the economy that even the Fed can&amp;rsquo;t see?&lt;/p&gt;
+&lt;p&gt;💭 Which industry giant will be the next to realize their real value isn&amp;rsquo;t in their product, but in their data?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Path to CTO</title>
+        <link>http://localhost:1313/p/path-to-cto/</link>
+        <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/path-to-cto/</guid>
+        <description>&lt;img src="http://localhost:1313/img/posts/path-to-cto.png" alt="Featured image of post Path to CTO" /&gt;&lt;p&gt;I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path.
+Here is an ascii illustration of various possible ways you can become a CTO. It could be useful for someone navigating their career in software technology.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/path-to-cto.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Technology career path&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                cto, public company
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                cto, private company
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                cto, divisional, private company
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             svp of technology              svp of engineering
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             vp of technology               vp of engineering
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             director of technology         director of engineering
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             director of product mgmt       engineering manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                                                                                                                CIO
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          sr tech lead                                                                          IT SVP
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          tech lead                                                                             IT VP
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          architect                                                                             IT Director
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                                          principle engineer                                                                    IT Project Manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;evangelist                                                   cto, startup                 staff engineer                                                                        IT Program Manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;solution engineer                project manager             senior software engineer     senior backend          senior frontend       sr devops            sr full stack      IT Manager
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sales engineer                   technical program manager   software engineer            backend engineer        frontend engineer     devops engineer      fullustack         IT Helpdesk
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;developer advocate               product manager             junior software engineer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                             intern
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                ▲
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                                │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            ┌───┴───┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            │START  │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            │       │
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                                            └───────┘
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Top 10 books for engineering managers</title>
+        <link>http://localhost:1313/p/top-10-books-for-engineering-managers/</link>
+        <pubDate>Mon, 24 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/top-10-books-for-engineering-managers/</guid>
+        <description>&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Mythical Man Month&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Pragmatic Programmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Clean Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/67825.Peopleware&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Peopleware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/4845.Code_Complete&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Code Complete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/10127019-the-lean-startup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Lean Startup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/55338968-the-cold-start-problem&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Cold Start Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/48019.The_Effective_Executive&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Effective Executive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/33517721-the-culture-code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Culture Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/16158601-turn-the-ship-around&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Turn The Ship Around&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Deep fake videos used to defraud</title>
+        <link>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</link>
+        <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</guid>
+        <description>&lt;p&gt;Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.&lt;/p&gt;
+&lt;p&gt;We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.&lt;/p&gt;
+&lt;p&gt;Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview. So we had to do a voice call instead. Since it was during the pandemic, nobody was being flown in for a face-to-face interview.&lt;/p&gt;
+&lt;p&gt;I started looking into it. The first thing we looked at was the resumes that we got from these suspicious candidates. Their resumes all shared a similar pattern: very wordy and long. Some of them were 4 pages or more. Aside from some minor details, most of the experiences and skill key words were identical.&lt;/p&gt;
+&lt;p&gt;Some of the candidates made it through the automated screening software. The software captured IP addresses so that gave us another data point. Many candidates claimed that they live in the US but the IP address’s geolocations reflected that they took the tests in Asia.&lt;/p&gt;
+&lt;p&gt;We immediately pulled the plug on the recruiting campaign.&lt;/p&gt;
+&lt;p&gt;Some of you may remember Tom Cruise deep fake videos on TikTok? It was a joke but now this is reality. It is being applied to money-sucking fraudulent operations managed by organized crimes.&lt;/p&gt;
+&lt;p&gt;Have you seen &lt;em&gt;&amp;ldquo;Downfall: The Case Against Boeing&amp;rdquo;&lt;/em&gt;?  This is a Netflix documentary about an investigation into the two Boeing 737 MAX crashes that killed 346 people. The Boeing CEO spoke to the press on national TV over and over again, reassuring to the public how safe the 747 MAX was. His demeanor was sincere and reassuring. It was impossible not to believe him.&lt;/p&gt;
+&lt;p&gt;Imagine that you can fake a VIP to say things that can influence public opinion? And to control the narrative?&lt;/p&gt;
+&lt;p&gt;It is a new world we live in today. We got to be ready.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Career planning, or not</title>
+        <link>http://localhost:1313/p/career-planning-or-not/</link>
+        <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/career-planning-or-not/</guid>
+        <description>&lt;p&gt;The amazing thing about meeting people in tech is that you can put people in two camps. The first camp is the founder type: they have a strong vision and want to build something to change the world. You can feel the energy blasting from every cell when they speak.&lt;/p&gt;
+&lt;p&gt;People in the second camp are professionals. They work for wonderful corporations and they are masters in what they do. Every step of the way, they work hard to build their career. They are proud of their accomplishments and capabilities. They get paid well doing it.&lt;/p&gt;
+&lt;p&gt;People in the 1st camp sometimes complained: did I spend too much time on my business that I am forgetting everything else? Like family and personal hobby?&lt;/p&gt;
+&lt;p&gt;People in the 2nd camp sometimes whined: Life catches up with me. Why didn’t I pursue that billion dollar idea that I had from the other night?&lt;/p&gt;
+&lt;p&gt;The take away is that people should learn how to change camps when they realize that they no longer belong. No one will judge you.&lt;/p&gt;
+&lt;p&gt;That’s key to happiness.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A hacker walks away with $47M legally while a CISO is convicted for doing his job</title>
+        <link>http://localhost:1313/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
+        <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
+        <description>&lt;p&gt;A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.&lt;/p&gt;
+&lt;p&gt;News headline #1: Oct 5th 2022&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;News Headline #2: Oct 15th 2022&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A high profile CISO, Sullivan, tried to do his job but ended up getting convicted in federal court. But, we had a hacker, Eisenberg, who manipulated shady trading strategies and ended up walking away with $47M – legally.&lt;/p&gt;
+&lt;p&gt;I am not saying who is right and who is wrong here. I am wondering if they each have a moral compass and is our judicial system so broken that it cannot be fixed.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bye bye, personal privacy</title>
+        <link>http://localhost:1313/p/bye-bye-personal-privacy/</link>
+        <pubDate>Tue, 18 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/bye-bye-personal-privacy/</guid>
+        <description>&lt;p&gt;It is hard to stop devices tracking humans. Devices are everywhere, whether you want it or not.&lt;/p&gt;
+&lt;p&gt;If you use a phone, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you use Alexa, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you use a Chromecast or Amazon fire TV stick, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you have IoT devices, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you live in a smart city with a ton of surveillance cameras, like London or Paris, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you use an Apple watch or fitness tracker, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you use a Ring, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you use a Metromile (pay car insurance by the mile), you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;If you bought some bitcoins, you are going to get tracked.&lt;/p&gt;
+&lt;p&gt;The list goes on.&lt;/p&gt;
+&lt;p&gt;The only way to evade tracking is to cover your face, go off grid and transact in cash.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Myths about data scientists</title>
+        <link>http://localhost:1313/p/myths-about-data-scientists/</link>
+        <pubDate>Mon, 17 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/myths-about-data-scientists/</guid>
+        <description>&lt;h3 id=&#34;you-can-manage-data-scientists-like-you-manage-software-developers&#34;&gt;You can manage data scientists like you manage software developers.
+&lt;/h3&gt;&lt;p&gt;I made the mistake of assigning story points on tasks for data scientists to work on. That didn&amp;rsquo;t work at all. Data scientists do not work well in those capacities. They are better suited in applying themselves to experiments. That means setting up a hypothesis and figuring out if it is true or false.&lt;/p&gt;
+&lt;h3 id=&#34;data-scientists-dont-need-to-be-a-business-domain-expert&#34;&gt;Data scientists don’t need to be a business domain expert.
+&lt;/h3&gt;&lt;p&gt;Most data scientists have PhDs. They are good at working with data. Yet, that’s not enough for most businesses to take advantage of their skills. To get deep insight, data scientists need to understand what those data mean for the business.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Does tweaking some data set increase revenue?&lt;/em&gt;
+&lt;em&gt;Does doing the same decrease sales?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;At the end of the day, you will need a professional that can:
+apply intuition, pay attention to every aspect of your data set and explain everything to business stakeholders.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s a data scientist.&lt;/p&gt;
+&lt;h3 id=&#34;data-scientists-are-only-needed-in-some-businesses&#34;&gt;Data scientists are only needed in some businesses.
+&lt;/h3&gt;&lt;p&gt;Our world is becoming ever more digital. If you don’t have an online presence, sooner or later you could risk becoming obsolete. We have so much data today, generated by both humans and machines. You need someone to look at and manage everything data-related. In fact, most progressive businesses now have a data department.&lt;/p&gt;
+&lt;p&gt;Are you ready to have a data scientist on your team?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Startup, totally distributed</title>
+        <link>http://localhost:1313/p/startup-totally-distributed/</link>
+        <pubDate>Fri, 14 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/startup-totally-distributed/</guid>
+        <description>&lt;p&gt;Lately I noticed many startups operate in a totally distributed fashion. They don’t have an office. Founders / founding team live in different city / state / country. Their funding comes from VCs and angel investors in different city / state / country. They are on Zoom a lot. They meet once a quarter or year for a team building event. When possible, they outsource non-core competencies to a third party.&lt;/p&gt;
+&lt;p&gt;However, they all have a physical address or a PO box. That’s their last tether to the old world.&lt;/p&gt;
+&lt;p&gt;Is it possible to remove that tether? Not even a DAO (Decentralized Autonomous Organization) can remove that tether. Would be interesting to see how this develops.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Git and blockchain</title>
+        <link>http://localhost:1313/p/git-and-blockchain/</link>
+        <pubDate>Thu, 13 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/git-and-blockchain/</guid>
+        <description>&lt;p&gt;Both git and blockchain share the same DNA; they are all built on top of a data structure called Merkle Tree.&lt;/p&gt;
+&lt;p&gt;A Merkle tree is a tree structure where each node of the tree has an identifier that&amp;rsquo;s the hash of its contents&lt;/p&gt;
+&lt;p&gt;Git is used by software developers around the world to work distributedly so that collaboration among them becomes manageable.This technology is widely adopted, is indispensable and has a good reputation.&lt;/p&gt;
+&lt;p&gt;On the other hand, blockchain is used to power cryptocurrencies and smart contracts. This technology is everywhere in web3 but its reputation is tainted due to its affiliation with crypto scams.&lt;/p&gt;
+&lt;p&gt;Two brothers, different fate. What happened? The people behind each technology are different. It’s always the people.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tech hubs in South America</title>
+        <link>http://localhost:1313/p/tech-hubs-in-south-america/</link>
+        <pubDate>Wed, 12 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/tech-hubs-in-south-america/</guid>
+        <description>&lt;p&gt;Over the last decade, South America has been a popular place to recruit technology talents. I really enjoy working with technology teams from the region. Its close proximity to US, time zone overlap and a large talent pool are the main reasons why it has worked for me.&lt;/p&gt;
+&lt;p&gt;Here are my favorite places:&lt;/p&gt;
+&lt;h3 id=&#34;mexicos-guadalajara&#34;&gt;Mexico’s Guadalajara
+&lt;/h3&gt;&lt;p&gt;Guadalajara is a gem of the Latin American software industry and has become a cutting-edge city with a robust tech ecosystem. The state of Jalisco holds 40% of the IT industry in Mexico and 650 specialized companies providing 100,000 jobs to residents of the area.&lt;/p&gt;
+&lt;h3 id=&#34;costa-ricas-san-josé&#34;&gt;Costa Rica’s San José
+&lt;/h3&gt;&lt;p&gt;San José is home to well over 800 technology companies on its own, both local and global. Notable companies include:  Amazon, IBM, Intel Corporation, DXC Technology, Microsoft, Hewlett Packard Enterprise | HPE, Concentrix.&lt;/p&gt;
+&lt;h3 id=&#34;brazils-são-paulo&#34;&gt;Brazil’s São Paulo
+&lt;/h3&gt;&lt;p&gt;With over 36 million inhabitants in its extended urban area, São Paulo is not just Brazil’s most populous city, it’s one of the largest in the world. This sprawling metropolis is the financial heart of the country. It has also become one of the world’s most exciting tech hubs.&lt;/p&gt;
+&lt;h3 id=&#34;argentinas-buenos-aires&#34;&gt;Argentina’s Buenos Aires
+&lt;/h3&gt;&lt;p&gt;In Buenos Aires, a few tech giants have thrived to continually add relevance to the life of both its 15M citizens and the global tech market. Buenos Aires is home for over 85% of the tech hub community in the country. As a leading region among the net exporter of developers, Buenos Aires prides itself with a befitting track record in its advanced tech operations.&lt;/p&gt;
+&lt;h3 id=&#34;colombias-medellin&#34;&gt;Colombia’s Medellin
+&lt;/h3&gt;&lt;p&gt;Medellin boasts more than 40,000 people who meet in groups centered around topics such as AI, IoT and blockchain. The World Economic Forum has recognized Medellin’s progress. And hundreds of tech and global companies have opened offices there.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Myths about software engineers</title>
+        <link>http://localhost:1313/p/myths-about-software-engineers/</link>
+        <pubDate>Tue, 11 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/myths-about-software-engineers/</guid>
+        <description>&lt;h3 id=&#34;they-are-super-opinionated&#34;&gt;They are super opinionated.
+&lt;/h3&gt;&lt;p&gt;An engineer who likes to apply one particular technology on every problem is not a good engineer. They are just being opinionated for no good reason. A good engineer would look at the problem, analyze it and then find the best solution (tools, programming language, etc). Experienced engineers would definitely have an opinion about different technologies but they would never enforce.&lt;/p&gt;
+&lt;h3 id=&#34;they-are-difficult-to-work-with&#34;&gt;They are difficult to work with.
+&lt;/h3&gt;&lt;p&gt;I can tell you this: engineers are naturally not the most sociable lot, otherwise they would be in marketing or sales. Sometimes, they are too shy or sometimes they are too technical when talking to non-technical stakeholders. Therefore, they often give us the impression that they are difficult. On the contrary, the best engineers love working in a team solving big problems.&lt;/p&gt;
+&lt;h3 id=&#34;engineers-need-to-be-micromanaged&#34;&gt;Engineers need to be micromanaged.
+&lt;/h3&gt;&lt;p&gt;Good engineers do not need to be managed so closely; they just need to be guided. Micromanaging their every line of code is not the way to go about it.&lt;/p&gt;
+&lt;h3 id=&#34;they-must-have-a-computer-science-degree&#34;&gt;They must have a computer science degree.
+&lt;/h3&gt;&lt;p&gt;Some of the best engineers I have worked with never had the luxury of completing a bachelor’s degree in computer science. They choose this profession because they love what they do!&lt;/p&gt;
+&lt;h3 id=&#34;they-code-in-their-free-time&#34;&gt;They code in their free time.
+&lt;/h3&gt;&lt;p&gt;No they do not always. Software engineers are people too. They have a variety of interests. Some tend to like gaming, most enjoy time with family and friends but few will code all day in their free time.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A smarter crosswalk</title>
+        <link>http://localhost:1313/p/a-smarter-crosswalk/</link>
+        <pubDate>Mon, 10 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/a-smarter-crosswalk/</guid>
+        <description>&lt;p&gt;Crosswalks have been around a long time but they don’t ever change. I closely observed one today. There is a sign that says ‘Push button for Pedestrian Crossing’. And then, there is a countdown signal forever pestering people to walk faster.&lt;/p&gt;
+&lt;p&gt;I think this is very dated. With Tesla able to autopilot itself today, I am sure the technology exists for sensors and cameras to detect the presence of pedestrians.&lt;/p&gt;
+&lt;p&gt;How about we innovate this thing inside out? Instead of needing to press a button, let’s use a sensor to activate traffic lights. This will be particularly helpful for those that cannot see or on a wheelchair. Sometimes, parents walking with children could potentially take longer to cross therefore the countdown timer should be able to accommodate for those scenarios. There should also be warning signs beaming at cars that are going too fast.&lt;/p&gt;
+&lt;p&gt;Why not?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Time is of the essence</title>
+        <link>http://localhost:1313/p/time-is-of-the-essence/</link>
+        <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/time-is-of-the-essence/</guid>
+        <description>&lt;p&gt;Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)&lt;/p&gt;
+&lt;p&gt;Think about that for a second.&lt;/p&gt;
+&lt;p&gt;It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.&lt;/p&gt;
+&lt;p&gt;There are many advantages to using something like AWS Lamda. On demand service billing is going to enable more customers to try your service without committing to a year-long contract (many dated enterprise financial software is still billing like it once were 30 years ago). Your infrastructure is probably going to be easier to maintain since AWS automates most of it. You will have less costly overhead since you don’t need to keep a server up when your users are asleep.&lt;/p&gt;
+&lt;p&gt;It is &lt;em&gt;pay as you go&lt;/em&gt; at its most granular level that I have seen. Is your infrastructure and product offering similar in nature?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Real Estate Agent Moms (dads)</title>
+        <link>http://localhost:1313/p/real-estate-agent-moms-dads/</link>
+        <pubDate>Thu, 06 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/real-estate-agent-moms-dads/</guid>
+        <description>&lt;p&gt;Being a real estate agent has always been a good option for people who want to generate income while maintaining a flexible schedule. Often, they only work on weekends to show houses and then at night, after kids go to sleep, they would write up the contracts. During the week, they socialize and meet people physically. Agents too invest time on digital campaigns over emails and social media to bring about awareness. Robert Reffkin, the founder and CEO of Compass, started his company precisely because of his mom who single-handedly raised him while she made a living as a real estate agent. Many neighborhood moms (and dads) who like this type of opportunity do the same today.&lt;/p&gt;
+&lt;p&gt;In my mind, being an agent is sustainable entrepreneurship. Agents are not looking for that 30x return from going to IPO. Agents are after the commission money, which is realistic and practical. The best part – there is time to focus on something else – such as family – so that you are spreading your risk and living a balanced lifestyle.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Crumbling infrastructure in America</title>
+        <link>http://localhost:1313/p/crumbling-infrastructure-in-america/</link>
+        <pubDate>Wed, 05 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/crumbling-infrastructure-in-america/</guid>
+        <description>&lt;p&gt;This summer we took Amtrak from Los Angeles to San Francisco. What was supposed to be a joyful, scenic ride turned out to be a laborious trip. The train ride going north took 10 hours. Although we had bought tickets online, it was not clear to me why we were only assigned seats once we boarded the train. The conductor scanned the barcode on my ticket, and, assuming the ticket was valid, placed a little slip of paper above my seat that indicated what stop we were getting off at. This is how things were 50 years ago and things have not changed much since then. The ride returning to Los Angeles took even longer – nearly 12 hours – with no wifi and nothing good to eat and nothing much to do.&lt;/p&gt;
+&lt;p&gt;I don’t want to be whining all day about this trip but it is evident that something is amiss here. What happened to America’s infrastructure? Today, the fastest high-speed rail in the world belongs to China where trains can travel at a maximum speed of 220 miles per hour! Even high-speed rail trains in Japan and Europe are very enjoyable to ride and fairly fast as well.&lt;/p&gt;
+&lt;p&gt;Is there room for disruption? I 120% believe that to be true. I think the biggest problem is the monopolistic attitude coming from the U.S. government. At the end of the day, this is a quasi-public corporation. For them, there is always a desire to save costs and public employees’ jobs are secured. There is very little reason for them to change the status quo.&lt;/p&gt;
+&lt;p&gt;We need to open up the industry and allow privatization. This way, the anti-competitive attitude goes away and more entrepreneurs can change things up. There is so much you can do with technology today. SpaceX and Starlink are good examples of that.&lt;/p&gt;
+&lt;p&gt;Let’s do something about it.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Spicy duck tongue and stinky tofu</title>
+        <link>http://localhost:1313/p/spicy-duck-tongue-and-stinky-tofu/</link>
+        <pubDate>Tue, 04 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/spicy-duck-tongue-and-stinky-tofu/</guid>
+        <description>&lt;p&gt;Before the pandemic, shopping for groceries used to be a giant production for my family. Every weekend, we would set aside a few hours, load our kids into our car, bring our shopping bags, pick some groceries at a local supermarket, bag everything, drive home, unload everything from the car, etc. And, repeat all over the following weekend. &lt;em&gt;Argh!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Then, came the pandemic, and everything changed!&lt;/p&gt;
+&lt;p&gt;Instacart and other grocery shopping startups really started to enjoy a boom because nobody was going out. Many supermarkets started grocery delivery services too on their own. Ethnic food delivery startup, Weee!, raised some $400 million at $4 billion valuation in early 2022. Christmas came early for grocery delivery tech startups.&lt;/p&gt;
+&lt;p&gt;Just as I thought these companies were going to upend traditional supermarkets forever, the roof came crashing down for these grocery delivery startups. As the country emerged from lockdowns, people obviously have more options where to get their food.&lt;/p&gt;
+&lt;p&gt;But I think there is something else going on here. For one, I don’t miss going to grocery stores every weekend so I am unlikely to return to that routine. It is a hassle and a big time waster.&lt;/p&gt;
+&lt;p&gt;One interesting trend that I have been observing is that more people are now buying food on Facebook and instant messaging chat apps like LINE, WeChat and WhatsApp. I have discovered very authentic, ethnic food prepared by someone’s mother-in-law (even father-in-law) in my neighborhood. For example, I can procure famous Sichuan spicy duck tongue and Taiwanese stinky tofu (very, very stinky) and get them delivered right to my door. For those that don’t know what they are, here are some descriptions.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Duck Tongues have a gelatinous yet slightly crunchy texture, and are most attractive to the Chinese palate. These tiny things, which do not feature in other cuisines, grace many a regional table in China.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Often referred to as the national snack food of Taiwan, stinky tofu gives off a putrid odor that’s so intense, it engulfs its surroundings in a foul-smelling funk that’s reminiscent of sour milk and rotting garbage. Love it or loathe it, these spiced and sliced fermented slabs pack a uniquely spoiled taste that’s all their own.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;These foods are so authentic that it wouldn’t have been possible to get them 10 years ago unless you visit China and Taiwan, respectively. The restaurant version here just doesn&amp;rsquo;t cut it.&lt;/p&gt;
+&lt;p&gt;These days, I can also order other kinds of groceries and dinner plates more catered to our taste, from food sellers working out of their garages, home kitchens or ADUs. The food almost look like something my grandma would make &amp;ndash; so nostalgic.&lt;/p&gt;
+&lt;p&gt;For the time being, we are still getting groceries delivered. One thing’s for sure, our weekend meals now include more variety. And, I am truly happy that I no longer have to go to a supermarket.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cybersecurity at Uber (or lack thereof) and Be Like Water</title>
+        <link>http://localhost:1313/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</link>
+        <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</guid>
+        <description>&lt;p&gt;Recently, Uber had a major cybersecurity incident. The hacker was able to gain access to everything, including their Amazon Web Service administrator account. This could have been really bad. Given Uber’s revenue was $17 billion (with a &lt;em&gt;B&lt;/em&gt;) in 2021, that means – $48 million worth of revenue would have been lost a day if the hacker had shut the servers down! Imagine all those Uber drivers not being able to drive and everyday passengers getting stuck everywhere.&lt;/p&gt;
+&lt;p&gt;Unfortunately, cybersecurity defenses are not infallible. You can have all the firewalls, virtual private networks, two factor authentication tools and other security mechanisms in the world but you are still going to fail. Why? The weakest link is always human.&lt;/p&gt;
+&lt;p&gt;A good cybersecurity program must be quick to adapt. I like to use Bruce Lee’s “Be like Water” philosophy to help think through this.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/cJMwBwFj5nQ&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This is what he said:&lt;/p&gt;
+&lt;p&gt;“You must be shapeless, formless, like water. When you pour water in a cup, it becomes the cup. When you pour water in a bottle, it becomes the bottle. When you pour water in a teapot, it becomes the teapot. Water can drip and it can crash. Become like water my friend.”
+Even toughest rocks can crack through repeated hitting. However, when you hit ocean water with the biggest weapon you have, it will not be damaged in any way.&lt;/p&gt;
+&lt;p&gt;That’s how cyber defenses should be – shapeless and formless. That often boils down to good training plus simulated attacks for your employees and A.I. to help along the way. &lt;em&gt;Set-and-forget&lt;/em&gt; will never work.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CEO of tomorrow</title>
+        <link>http://localhost:1313/p/ceo-of-tomorrow/</link>
+        <pubDate>Thu, 29 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/ceo-of-tomorrow/</guid>
+        <description>&lt;p&gt;What percentage of Y Combinator founders are technical?&lt;/p&gt;
+&lt;p&gt;Nobody really keeps track of this data. I looked. However, based on my research, it seems that typically at least one co-founder is more on the technical side within a startup. Anecdotally, I happen to know quite a few co-founders who are engineers by training and got funding from Mucker Capital.&lt;/p&gt;
+&lt;p&gt;As more businesses become accessible online, it is almost impossible to ignore the fact that a person with a technical background is better suited to run a company.&lt;/p&gt;
+&lt;p&gt;Why? Because, as a business executive, one needs to have enough knowledge about running business online in order to execute effectively.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What kind of technical infrastructure do we need in order to provide a service or support the sale of a product at early stage, middle stage and late stage?&lt;/li&gt;
+&lt;li&gt;How do we find my customers online through growth hacking?&lt;/li&gt;
+&lt;li&gt;How to set up data analytics properly so that we can continuously monitor our sales funnel and performance of our staff?&lt;/li&gt;
+&lt;li&gt;How do we defy online hacking into our systems?&lt;/li&gt;
+&lt;li&gt;How to eliminate manual processing time through automation? Imagine if we can save 5 minutes per day per person in a 30-person company, we save 27 days in a year. That gives us 13 months to operate in a fiscal year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Imagine a CEO without any intuition about the answers to these questions, it is going to be hard to run a company. Sure, you can fill your C-suite with people that know. However, it is costly and time-consuming to get quality answers.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI drew Steve Jobs eating sushi</title>
+        <link>http://localhost:1313/p/ai-drew-steve-jobs-eating-sushi/</link>
+        <pubDate>Wed, 28 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/ai-drew-steve-jobs-eating-sushi/</guid>
+        <description>&lt;p&gt;Today I use an AI tool to draw a picture of Steve Jobs eating sushi. This is what I got:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/steve-jobs-eating-sushi-ai.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;AI creating an image of Steve Jobs eating sushi&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Remembering what I read in &lt;em&gt;Steve Jobs&lt;/em&gt; by &lt;em&gt;Walter Isaacson&lt;/em&gt;, Jobs&amp;rsquo; favorite food was sushi. Although Jobs had a turbulent relationship with Lisa, he often recounted the good times while eating sushi in Tokyo with his daughter. Trust me, I have tried on a number of different AI image generator sites, including DALL.E 2 / OpenAI. This is probably the best looking one so far.&lt;/p&gt;
+&lt;p&gt;Because AI is not shy about making mistakes, AI is encroaching onto human territory and knowledge domains. What are we going to do about it?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Control freak</title>
+        <link>http://localhost:1313/p/control-freak/</link>
+        <pubDate>Tue, 27 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/control-freak/</guid>
+        <description>&lt;p&gt;Lately, admin panel seems to be a recurring theme in my life. I had a discussion with someone at a startup about which one to use.&lt;/p&gt;
+&lt;p&gt;Needless to say, there is plenty of options in the market place &amp;ndash; everything from home brew custom solution to managed services to low-code platforms. Stuff like this obviously requires some research before any commitment. Since the company needing this is a very early stage startup. I proposed a drag-and-drop low-code editor with a plethora of pre-built components to build internal CRUD (create, read, update, delete) app. It is a market leader in the space and is quite scalable.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the person I proposed to did not agree. His main reason was that a custom solution would be able to provide more control.&lt;/p&gt;
+&lt;p&gt;Rewind 8 years, I would probably give a similar response. I used to enjoy being able to build everything from scratch. The ability to control every bit of your tech stack was essential or so I thought. The company was with started to grow but at some point we hit a wall. We had a Django monolith and overtime the codebase grew very quickly. Then, support for Python 2 ceased and we had a hell of a time switching Python 3. Compliance and security control to meet SOC 2 were not trivial either. I was wrong and learned it the hard way.&lt;/p&gt;
+&lt;p&gt;Now, I carefully evaluate decisions before committing, typically with an eye towards the next fundraising goal. If I build, it would be towards a real intellectual property that the company can and should own. If I buy, I do it to save time, so that we can grow quickly without the baggage.&lt;/p&gt;
+&lt;p&gt;It is a bit like dating and marriage. Most people wouldn&amp;rsquo;t marry before dating. And even when you marry, neither spouse should be a control freak. It would make life very miserable for some people.&lt;/p&gt;
+&lt;p&gt;Lesson learned: pick your tech and tools carefully.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>An omakase sushi chef and a software engineer</title>
+        <link>http://localhost:1313/p/an-omakase-sushi-chef-and-a-software-engineer/</link>
+        <pubDate>Mon, 26 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/an-omakase-sushi-chef-and-a-software-engineer/</guid>
+        <description>&lt;p&gt;Lately, I have been watching Michelin star sushi chefs on Youtube preparing fish for serving &lt;em&gt;omakase&lt;/em&gt; behind a sushi bar. If you&amp;rsquo;re looking for a more traditional sushi restaurant experience, &lt;em&gt;omakase&lt;/em&gt; is the way to go. You&amp;rsquo;ll be seated at the sushi bar in front of the chef, so you can easily chat and watch as your meal is made. The chef will also likely share stories and insights about their career, adding to the overall atmosphere.&lt;/p&gt;
+&lt;p&gt;It dawned on me that a 10x software engineer is not too different from a Michelin star sushi chef.&lt;/p&gt;
+&lt;p&gt;A 10x software engineer would make sure that the coding environment is optimized so that best code can be written efficiently. This means the linting is there, debugger is available, etc. This is akin to a sushi chef setting up his work station, preparing his &lt;em&gt;nori&lt;/em&gt;, sharpening the knives to be used at a sushi bar.&lt;/p&gt;
+&lt;p&gt;A 10x software engineer would love showing off his or her code through a pull request and welcome feedback. This is akin to a sushi chef making sushi for customers and watching them eat with pleasure.&lt;/p&gt;
+&lt;p&gt;A 10x software engineer would be open to sharing his technical knowledge with his or her peers. This is akin to a sushi chef sharing his or her stories about their career with their customers at the sushi bar.&lt;/p&gt;
+&lt;p&gt;Having &lt;em&gt;omakase&lt;/em&gt; is an art form. So is witnessing beautiful code automate away manual tasks flawlessly.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Asking for feedback</title>
+        <link>http://localhost:1313/p/asking-for-feedback/</link>
+        <pubDate>Sun, 25 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/asking-for-feedback/</guid>
+        <description>&lt;p&gt;Often times, my direct reports ask for my feedback. It could be for a 1-on-1, a performance review or just a sync. Sometimes, I find it stifling though. Feedback sounds overpowering and very top down.&lt;/p&gt;
+&lt;p&gt;I love giving feedback but what I love more is having a conversation. Conversation implies there is no judgement. It is a two-way discussion. From a manager&amp;rsquo;s point of view, it gives others the freedom to express.&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s priceless.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hacking your tech career</title>
+        <link>http://localhost:1313/p/hacking-your-tech-career/</link>
+        <pubDate>Sat, 03 Sep 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/hacking-your-tech-career/</guid>
+        <description>&lt;p&gt;&lt;em&gt;Some time in spring this year, I went to UCLA to recruit interns. While I was there, I gave a talk which ended up attracting quite a few interns working with me. Some people really enjoyed the talk so I decided to clean up my notes and publish them here. Hopefully, you will find it useful, too.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The Origin:&lt;/p&gt;
+&lt;p&gt;Many years ago, there was a college kid who was interested in an internship position at a tech startup. So he was invited for an in person interview. Bear in mind, this was all pre-pandemic. He showed up a little bit late, which is frowned upon. And he was wearing a large oversize suit, which I think belonged to his dad, a bright red tie and a pair of white socks. He was asked to implement a Fibonacci number generator. Initially, he was obviously nervous. Basically, he froze with the marker pen in his pen, with his ass facing the interviewer the whole time. But over time he became more and more confident as hints were given. He then met the CEO in his final interview and he was able to clearly articulate his passion in technology. That summer, he did a wonderful project that brought real business impact to the company. The company actually went public shortly after. Fast forward a few years, he got a job as a software engineer right after he graduated.&lt;/p&gt;
+&lt;p&gt;The career path that I have just described in that story is not uncommon among students who are pursuing a computer science or equivalent technical degree. However, not everyone ends up at the same destination, some people do take longer to get to where they want to be and sometimes people give up too. I am sure many of you are reading this because you want to learn the secrets of how to be successful as a software engineer. Maybe you wonder if you could hack it so that you can skip detours and eliminate unnecessary steps in reaching your goal. &lt;strong&gt;The answer is yes!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Having been in technology leadership for almost 24 years, I have worked with nearly a thousand engineers, both directly and indirectly, since the beginning of my career. I am beginning to see a pattern among software engineers who are successful. This pattern is observed time and time again, and the success rate is highly predictable.&lt;/p&gt;
+&lt;p&gt;Let’s dive right in. Let me break this down into the &lt;strong&gt;What&lt;/strong&gt;, the &lt;strong&gt;How&lt;/strong&gt; and the &lt;strong&gt;Why&lt;/strong&gt;. What exactly does a software engineer’s career path look like? Knowing what it is would make hacking a lot easier. And how to go about hacking this and finally understanding the why for doing all of this would be important as well.&lt;/p&gt;
+&lt;h3 id=&#34;the-what&#34;&gt;The What
+&lt;/h3&gt;&lt;p&gt;So what exactly does a software engineer do? That’s really a loaded question. Some people say, “Oh, they write code.” But that’s a very simplistic way to look at it. I would like to examine this through the lens of a &lt;strong&gt;metamorphosis&lt;/strong&gt;. So what does that mean? Like a butterfly, a software engineer goes through a 4 giant transformation. Each time when an engineer transforms, they become a totally different person and the impact of their abilities often increases exponentially.&lt;/p&gt;
+&lt;h4 id=&#34;learner&#34;&gt;Learner
+&lt;/h4&gt;&lt;p&gt;The life cycle of an engineer begins with Learner. Learner is someone who has been just introduced to the world of software either through informal means or more formal means. Informal means would involve taking a self-paced online course on Cousera, building a crypto miner with GPUs, or hacking around a video game. On the other hand, a more formal means would involve taking a software bootcamp class or pursuing a technology degree. In either case, a Learner is able to write a script or compile code, mostly for educational or entertainment purposes. More often than not, a Learner typically writes code at this stage on his own. Age doesn’t play an important role, you can be 5 or 50 years old to be a Learner. However, starting early has its advantages. Bill Gates wrote his first video game at the age of 15. Co-founder of Apple, Steve Wozniak, also started early. According to Stack Overflow’s 2020 Developers survey, over 54 percent of professional developers wrote their first line of code by the time they turned 16. This goes to show being exposed to the concept and actual implementation of software engineering early on has huge benefits to career development.&lt;/p&gt;
+&lt;h4 id=&#34;builder&#34;&gt;Builder
+&lt;/h4&gt;&lt;p&gt;At some point, a Learner becomes a Builder when they start writing code in a professional setting. This setting usually starts with some type of internship and then eventually a full time position at a tech company. Some people enjoy and thrive in a startup setting but others perform better in a corporate environment. Regardless, this would be the first time a software engineer starts to work in teams. So learning to use tools like GIT, a version control tool, in a team environment would be critical. Their code also often gets peer reviewed through the process of a pull request. Sometimes, some Builders begin to participate in open source projects, either through their work projects or personal projects. These often are excellent opportunities to become a contributor to productivity software used by millions world wide. Did you know that Linux has 27.8 million lines of code and nearly 5000 contributors in 2020? And most of them did not even get paid for those open source contributions. At this stage, this is where software engineers really cut their teeth in their craft.&lt;/p&gt;
+&lt;h4 id=&#34;architect&#34;&gt;Architect
+&lt;/h4&gt;&lt;p&gt;Typically 5 to 10 years into the profession, a Learner then becomes an Architect. An architect is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms. This person typically has broad and deep technical experience, usually very knowledgeable on 2 or more programming languages and major software platforms. Aside from the hardcore technical skills, he is also a master communicator who excels in both verbal and written communications. It would not be surprising to find an Architect who would sometimes take on the role of a team lead, working with a group of entry-level or intermediate engineers. I would highlight that some of the technical decisions made by an Architect at this stage could have a profound financial impact on companies. Sometimes it is life or death for smaller companies or it is a matter of costing millions for corporations.Can you see that a software engineer becomes more and more impactful as they go through these different stages?&lt;/p&gt;
+&lt;h4 id=&#34;leader&#34;&gt;Leader
+&lt;/h4&gt;&lt;p&gt;The final stage of the life cycle of a software engineer is Leader. A technology leader is someone who has a grand vision about the future and is capable of inspiring other technology fellows in pursuit of a technological advancement that can reshape humanity. You may have guessed it by now – these are visionaries, dreamers and disruptors in technology today – most famously, Elon Musk of Tesla/SpaceX, Mark Zuckerberg of Meta, Jeff Bezos of Amazon. Their in-depth technical knowledge made them formidable among non-tech peers in today’s technology businesses. Because they know the tech as they think business strategies, make decisions and scale their businesses.&lt;/p&gt;
+&lt;p&gt;So we spoke about the what, let’s look at the how.&lt;/p&gt;
+&lt;h3 id=&#34;the-how&#34;&gt;The How
+&lt;/h3&gt;&lt;h4 id=&#34;get-ready-for-a-lifetime-of-learning&#34;&gt;Get ready for a lifetime of learning.
+&lt;/h4&gt;&lt;p&gt;After 24 years in the business, I feel like every 3 months knowledge I have acquired becomes obsolete just like that. Everything in the software world changes incredibly fast. If you want to do well and accelerate your career life cycle, you need to be a committed learner.&lt;/p&gt;
+&lt;h4 id=&#34;be-open-to-new-programming-languages-but-hone-in-onto-the-ones-that-you-like&#34;&gt;Be open to new programming languages but hone in onto the ones that you like.
+&lt;/h4&gt;&lt;p&gt;Many junior engineers often ask, “what programming language or framework should I learn?” It is easy to get wildly excited when you see so many choices out there. I like to use the Vegas buffet analogy when it comes to this. The best strategy is to sample everything before you feast on it. Don’t stuff yourself with pizza when there is steak, sashimi and lobster at the end of the table. Take a few rounds before you zero in..&lt;/p&gt;
+&lt;h4 id=&#34;best-software-engineers-think-like-designers&#34;&gt;Best software engineers think like designers.
+&lt;/h4&gt;&lt;p&gt;Great software engineers think deeply about the user experience of their code. They might not think about it in those terms, but whether it is an external API, programmatic API, user interface, protocol, or any other interface; great engineers consider who will be using it, why it will be used, how it will be used, and what is important to those users, what might be the naming convention for things. A good software engineer must step into other people’s shoes so don’t bring your ego to work.&lt;/p&gt;
+&lt;h4 id=&#34;if-you-dont-have-a-good-grasp-on-the-universe-of-whats-possible-you-cant-design-a-good-system&#34;&gt;If you don’t have a good grasp on the universe of what’s possible, you can’t design a good system.
+&lt;/h4&gt;&lt;p&gt;Many years ago, I worked for a Fortune 200 company. They had all the resources in the world to deliver a system. However, this project suffered numerous launch delays and terrible performance problems. Why? The system architect insisted on building their own data centers when AWS was becoming popular. They picked an obscure frontend framework called Silverlight, which has been discontinued. The architect in this project did not understand the implications of his decisions on the solution framework  as a result the project failed to achieve its full potential. Keeping up with the developer ecosystem is time consuming but it is nevertheless a responsibility you can’t avoid. Without the details of what is possible, it is not possible to deliver the right solution that can scale.&lt;/p&gt;
+&lt;h4 id=&#34;the-best-code-is-no-code-or-code-you-dont-have-to-maintain&#34;&gt;The best code is no code, or code you don’t have to maintain
+&lt;/h4&gt;&lt;p&gt;Years ago when I was a less experienced tech lead, I wanted my team to build everything. And so we did. It felt good to know how to build something but maintaining it is a nightmare and it didn’t help the business valuation.&lt;/p&gt;
+&lt;p&gt;Most software engineers are always going to err on the side of writing code, especially when a non-technical solution isn’t obvious. Engineering teams are dying to reinvent the wheel, when lots of wheels already exist. This is a balancing act, there are lots of reasons to grow your own, but one must do build-vs-buy analysis from time to time.&lt;/p&gt;
+&lt;h4 id=&#34;low-frequency-hacks-instead-of-high&#34;&gt;Low frequency hacks, instead of high
+&lt;/h4&gt;&lt;p&gt;In my career as a fintech leader, I have witnessed a lot of cybercrimes. The most innocent-looking yet effective hacking against a password protected website is these low-frequency password guessing scripts. They hit your server every other hour and rotate the IP address. Same thing should be applied to your tactics in general. You can’t be a good software engineer overnight. Perfect your craft, a little at a time over a long period then you will definitely get somewhere. Practice makes perfect.&lt;/p&gt;
+&lt;p&gt;Ok, we’ve talked about the how, now let’s look at the why.&lt;/p&gt;
+&lt;h3 id=&#34;the-why&#34;&gt;The Why
+&lt;/h3&gt;&lt;p&gt;The why sits at the center of everything. Because it is going to drive your motivation for doing the how and what. This is the stuff that will keep you going when going gets rough. If your motivation is just making a big salary, then I am sorry this is probably not going to work because there are other jobs that generate income more efficiently than working as a software engineer. You should think of it as making big bucks is simply a result of being good at your job.&lt;/p&gt;
+&lt;p&gt;Before you go down this career, think about the things that excite you and get you up in the morning. Start developing a passion early on in your career and explore the ever expanding universe of computer science. Ask yourself why constantly because it can change from time to time as you go through different life stages. And remember, it is ok to be different from others since everyone has their own preference. For some people, they want to disrupt something and turn an industry upside down. On the other hand, some may just work in a big tech company like Google, Meta, Amazon and climb the corporate ladder and enjoy the perks. Both are equally good reasons to want to be a software engineer. You just need to discover for yourself.&lt;/p&gt;
+&lt;p&gt;I want to continue the boy’s story from the beginning. The boy wasn’t so lucky after graduation actually. When a global financial crisis hit, he was then laid off from his first full time job ever. He took some time off and decided to apply his technical skills in his parent’s family business. That was an interesting detour. While he was successful at doing it, he longed for a big corporate R&amp;amp;D environment so that he could continue to explore other areas of the technology field. With that motivation, he found new opportunities in big global companies, became a tech lead and got to travel and live internationally early in his career. Just as he thought he was at the height of his career, he had some setbacks. He got into a CS PhD program but realized that academia wasn’t really for him. So he returned to the corporate world. But after a while, he felt out of place because he was bored. So he co-founded a startup with some people he thought he could trust, but before he knew it he was ousted from the executive suite. He was too naive. &lt;strong&gt;But every time he fell down, he would dust off his clothes and get up again.&lt;/strong&gt; And that was exactly his metamorphosis – at every stage – he would become stronger, more impactful and a little wiser too. Why does he keep going? At one point in his mid career, he realized that the purpose in his life had always been to free people from mundane, repetitive, boring tasks by leveraging technology. So, where is this gentleman today? This person is none other but yours truly. I am the living proof that a good career is possible for everyone reading this today. What I presented to you is just a version of it, you have all the power in the world to design your career that fits you by doing what you love. Go out there and hack away!&lt;/p&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The Wire China Interview: About Beijing startup scene</title>
+        <link>http://localhost:1313/p/the-wire-china-interview-about-beijing-startup-scene/</link>
+        <pubDate>Thu, 26 May 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/the-wire-china-interview-about-beijing-startup-scene/</guid>
+        <description>&lt;h4 id=&#34;media-interview&#34;&gt;Media Interview
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/wirechinacover.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Wire China Article Cover&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Recently, I was interviewed for an &lt;a class=&#34;link&#34; href=&#34;https://www.thewirechina.com/2022/05/22/chinas-innovation-renovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;article&lt;/a&gt; in &lt;a class=&#34;link&#34; href=&#34;https://www.thewirechina.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Wire China&lt;/a&gt; about my Beijing startup &lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/essays/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;experience&lt;/a&gt; in 2015.&lt;/p&gt;
+&lt;p&gt;Read the full article &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/img/posts/Chinas-Innovation-Renovation--The-Wire-China.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Preparing for a career in fintech: A conversation with Cho-Nan Tsai, a Fintech CTO</title>
+        <link>http://localhost:1313/p/preparing-for-a-career-in-fintech-a-conversation-with-cho-nan-tsai-a-fintech-cto/</link>
+        <pubDate>Tue, 27 Jul 2021 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/preparing-for-a-career-in-fintech-a-conversation-with-cho-nan-tsai-a-fintech-cto/</guid>
+        <description>&lt;p&gt;I recently gave an interview on the topic of career preparation in fintech. The interview was conducted by Trilogy Education Service which is the company that&amp;rsquo;s running Fintech Bootcamp program at Columbia Unviersity. The entire interview is &lt;a class=&#34;link&#34; href=&#34;https://bootcamp.cvn.columbia.edu/blog/cho-nan-tsai-preparing-for-a-fintech-career/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The article/interview was published in summer 2021 on &lt;em&gt;Columbia Engineering School Bootcamp Program website&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Open Letter: Reflecting on the recruiting event at Caltech</title>
+        <link>http://localhost:1313/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</link>
+        <pubDate>Mon, 14 Oct 2019 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</guid>
+        <description>&lt;p&gt;Hello Team,&lt;/p&gt;
+&lt;p&gt;Today we had a recruiting event at Caltech (&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/California_Institute_of_Technology&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://en.wikipedia.org/wiki/California_Institute_of_Technology&lt;/a&gt;) and I was humbled by the experience.&lt;/p&gt;
+&lt;p&gt;It was intimidating at first. For the very first time, I saw Camino Financial trying to recruit, in the physical world, alongside great technology giants like Google, Facebook and Activision. I was literally flanked by a Google booth to my right and a Facebook/Instagram booth to my left. To make matters worse, I was outnumbered (each company had at least 4 engineers per booth) and I was a little late to the campus (carried our poster and my computer monitor on my own while trying to find parking, after our sprint planning meeting). And naturally, everyone flocked to big tech companies inquiring internship opportunities.&lt;/p&gt;
+&lt;p&gt;Then, it dawned on me &amp;ndash; this not a level playing field. And it never has been for us. In the early days, countless investors said NO because they have issues believing in our community and the opportunity that’s associated with it. Thanks to Sean, Kenny and everyone on the team, people are starting to believe otherwise.
+So I calibrated, changed up my recruiting pitch a bit and just talked to everyone that happen to be watching our Fusion video. I told Caltech students our origin story and explained how various technologies and their applications have amplified our business. On top of that, I talked about a few stellar interns we have had in the past. The students really resonated with all that.&lt;/p&gt;
+&lt;p&gt;At the end, I won over the crowd and collected a stack of resumes from students whose GPAs made mine look sad and received praises like:&lt;/p&gt;
+&lt;p&gt;“Among all the companies here, you guys are most interesting!”&lt;/p&gt;
+&lt;p&gt;“This so meaningful whatever you guys are doing.”&lt;/p&gt;
+&lt;p&gt;“Wow, what a technical problem you have.”&lt;/p&gt;
+&lt;p&gt;As I was leaving to go pick up my kids, the Director of Career Development Center came by enthusiastically to chat. To my surprise, she asked if I would be interested to speak to the students again on a separate occasion! The day couldn’t have ended any better.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We won the battle but the war for talent is not over yet.
+Today, you can help level the playing field by spreading the word to your friends and family that Camino is hiring software engineers in both Los Angeles and Mexico City. The best way to do this is to re-share and react to this post on LinkedIn.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/posts/michaeltsai_the-twin-brothers-helping-latino-businesses-activity-6588555531223465984-U1CT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.linkedin.com/posts/michaeltsai_the-twin-brothers-helping-latino-businesses-activity-6588555531223465984-U1CT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Don’t do this for me because I have asked you.
+Do this for our community, for our families and for ourselves.
+Thank you.&lt;/p&gt;
+&lt;p&gt;Cho-Nan&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Transformation</title>
+        <link>http://localhost:1313/p/transformation/</link>
+        <pubDate>Thu, 26 Sep 2019 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/transformation/</guid>
+        <description>&lt;p&gt;&lt;em&gt;A message sent through Slack to the team announcing an internship graduation&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A long long time ago, there was a boy who wasn’t fortunate in his career. After graduating from college, he had been in transition a few times, working on stuff that was neither meaningful nor rewarding.&lt;/p&gt;
+&lt;p&gt;One day, he came across a job posting at Camino for an internship opportunity. In winter, we interviewed him but we didn’t bring him onboard. Camino was going through some rough moments itself and his interview was lackluster one.&lt;/p&gt;
+&lt;p&gt;By summer, things came around a bit for Camino and we needed the position filled. He was invited for another round of interview and we decided to take him onboard.&lt;/p&gt;
+&lt;p&gt;It wasn’t easy in the beginning. He had to learn and do many things quickly while taking on occasional wrath from his boss. Whenever he got a bit better, more tasks and responsibilities would ensued. Never got too many chances to rest on his laurels. Standards just kept getting higher and higher.&lt;/p&gt;
+&lt;p&gt;But, he kept going and going. Perseverance was his thing. If he didn’t do well the first time, he would keep trying until it’s on par with the standards upheld by his team.&lt;/p&gt;
+&lt;p&gt;Fast forward 15 months, this boy is no longer recognizable, for he has become a man bursting with RARE qualities…&lt;/p&gt;
+&lt;p&gt;This man is none other than [CENSORED] whose impact can be felt organization-wide on a daily basis in both [CENSORED] and [CENSORED]. This month his internship will be ending because he has been graduated to a full-time staff status at Camino. Please put your hands together in congratulating our friend and associate, [CENSORED].
+Welcome to the family, @[CENSORED]&lt;/p&gt;
+&lt;p&gt;(Actual name censored to protect the privacy of the person.)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Feedback to Columbia Magazine on the Cyberwarfare article</title>
+        <link>http://localhost:1313/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</link>
+        <pubDate>Sat, 13 Jul 2019 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</guid>
+        <description>&lt;p&gt;I have been reading &lt;a class=&#34;link&#34; href=&#34;https://magazine.columbia.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Columbia Magazine&lt;/em&gt;&lt;/a&gt; for years but this is the first time I have written a feedback to its editor. It was my reaction to a rather interesting interview with &lt;a class=&#34;link&#34; href=&#34;https://sipa.columbia.edu/faculty-research/faculty-directory/jason-healey&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jason Healy&lt;/a&gt;, a senior researcher Scholar at Columbia | SIPA (where I spent many hours studying in its library during my undergrad years). The entire interview is &lt;a class=&#34;link&#34; href=&#34;https://magazine.columbia.edu/article/age-cyberwarfare&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My response to the article:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Your interview with Jason Healey couldn&amp;rsquo;t be more timely and spot on. As the rift between America and Iran continues to widen, the United States government now has more choices in its arsenal for attacking another nation. This was evident in Trump&amp;rsquo;s decision to call off a physical offense in June and replace with a cyber one against Iran&amp;rsquo;s missile systems.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;However, the article would have been more interesting if it explored cyber attacks coming from domestic threats, rather than just from abroad. I can&amp;rsquo;t possibly imagine the type of collateral damages we would have to sustain if a domestic bad actor could use a &amp;lsquo;suicide bomber&amp;rsquo; style cyber attacks to take down major infrastructures or to launch weapon systems even. This sort of domestic attacks are far more difficult to detect and intercept versus a foreign one.  The Congress must allow more mass surveillance on US citizens if we were to build up our defenses domestically, which is a major blow on our privacy rights.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cho-Nan Michael Tsai SEAS &amp;lsquo;01&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Feedback was published in Fall 2019 &lt;em&gt;Columbia Magazine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/article-feedback.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Fall 2019 Columbia Magazine Feedback Section&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>How a fintech company ended up next to Skid Row</title>
+        <link>http://localhost:1313/p/how-a-fintech-company-ended-up-next-to-skid-row/</link>
+        <pubDate>Sat, 01 Sep 2018 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/how-a-fintech-company-ended-up-next-to-skid-row/</guid>
+        <description>&lt;p&gt;&lt;em&gt;A sickly-looking man, walking like a zombie, crossed my path in the middle of the road as I drove through Skid Row to get to office. While waiting for him to pass, I looked to the left and only to find more disturbing scenes: a few homeless people in a tent shooting drugs up their arms and a soup kitchen filled with people whose despair-stricken eyes were staring right back at me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;But it didn’t matter. I parked my car and went straight to work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/homeless.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A Homeless Person in Skid Row&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;A homless Person in Skid Row&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Every morning, I drive through Skid Row to get to my office. I used to find it disgusting but now I&amp;rsquo;m sort of numbed to it. Even though it is not so pleasant, our current office location offered some tactical advantages for us. This essay discusses how a startup should be thinking about its early office locations and why it makes sense for us to be where we are today.&lt;/p&gt;
+&lt;h4 id=&#34;how-to-find-your-first-office-location&#34;&gt;How to find your first office location
+&lt;/h4&gt;&lt;p&gt;For technology startups in its infancy stage, a good place to consider is your home or garage. It is a no brainer; there is no cost involved and definite it would save a ton of time from commuting. This would be suitable for a founder who is comfortable with the idea of working from and living in your home. I have heard from people that this could be either very distracting or very efficient. It really depends on the person.&lt;/p&gt;
+&lt;p&gt;However, if a startup were growing rapidly and you needed to have a team in your home or garage, this is less than ideal. The formality, or lack thereof, can sometimes be problematic. I have witnessed situations where employees came to their boss’s home to work but saw the boss in his pyjamas. How awkward! Moreover, noises and unfocused discussions tend to get out of control when there are more people in a small tight space.&lt;/p&gt;
+&lt;p&gt;We went through this phase in the beginning when our company first relocated to Los Angeles. It’s cost-effective but informal. The downside is that we did not have a presentable space to meet customers.&lt;/p&gt;
+&lt;h4 id=&#34;now-if-you-have-some-money-to-lease-a-small-space-read-on-here&#34;&gt;Now if you have some money to lease a small space, read on here
+&lt;/h4&gt;&lt;p&gt;A next natural choice, if you have some capital to spare, is to situate the company inside one of those co-working spaces. This is often very convenient and inexpensive. There are nice conference rooms that you could use if you needed to have meetings with external partners or customers. Usually, these places have a good vibe and communities tend to form. Therefore, it would be a great place to get external feedback from others &amp;ndash; this helps tremendously with product iteration, to say the least. The best part about working at these space is that you don’t need to worry about basic utility bills and wifi. You can just pay as your team expand and your company require more room. Sometimes, there is even free-flowing coffee and beer!&lt;/p&gt;
+&lt;p&gt;We moved to a more traditional, on-demand office space rentals right after our first funding. It was nice, clean and very professional. Although lack the community feel of a more modern co-working space such as WeWork, we still think it’s a good fit for us at that stage. The receptionist staff was very presentable and courteous. We could rent out the boardroom by the hours for meetings with potential investors or town hall meetings with staff. My only complaints were the occasional terrible wifi speed and their nickel-and-diming each and every expense. In any case, the corporate image we presented through this rental office was fitting to our brand at that point in time.&lt;/p&gt;
+&lt;p&gt;One good alternative is to look for incubator programs out there which grants free physical space if you were accepted into their programs. This would be an excellent opportunity to build out your human network and meet more people, in addition to getting free rental. In my previous company, I took this &lt;a class=&#34;link&#34; href=&#34;https://medium.com/@chonantsai/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park-59ff71f4417b&#34;  title=&#34;A CTO’s Startup Journey in Beijing Zhongguancun Science Park&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;approach&lt;/a&gt; with a startup in Beijing.&lt;/p&gt;
+&lt;p&gt;So, does that mean you should not get your own space? NO! The problem with not graduating from these co-working space is that things become more complex with a larger team. Under these circumstances, you would need to be really good at controlling your company image, organizing your team around the given space and ensuring computer servers and equipment sit properly behind YOUR OWN firewall. All these things would be immensely harder to manage if you were to work within the confines of a co-working space (I mean, you could do it but you would need to shell out big bucks to pay the co-working company so that they can customize things for you). Therefore, it still makes sense to do some research to find your own space eventually.&lt;/p&gt;
+&lt;h4 id=&#34;having-your-own-office-is-a-dream-come-true&#34;&gt;Having your own office is a dream come true
+&lt;/h4&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/img/posts/officefront.png&#34; alt=&#34;Camino Financial&#39;s loft office&#34; /&gt;
+&lt;p&gt;Office Front&lt;/p&gt;
+&lt;hr&gt;
+&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/img/posts/nearby.jpg&#34; alt=&#34;shops nearby&#34; /&gt;
+&lt;p&gt;View from coffee shop &lt;em&gt;No Ghost Bears&lt;/em&gt; nearby&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A major consideration would be affordability. We just went through this exercise and this was how we did it. During our initial search, we reviewed properties in LA tech hubs. We balked at the idea of paying high rents at prime estates at some of these places (Venice, Santa Monica and Pasadena). We needed to have a flexible space which we could expand if we needed to. After searching high and low, we ended up looking at downtown Los Angeles. There is a diverse choice of real estates to choose from; major banks and big firms are typically in the high rises on the west, homeless shelters and soup kitchens on the east (Skid Row) and lofts for young, creative people nestled in between. After doing a little shopping, we settled for something next to Skid Row and it turned out to be wonderful!&lt;/p&gt;
+&lt;p&gt;The location we picked was situated on the edge of a up-and-coming Fashion District. There were a couple of remodeled apartment nearby so a lot of young people live in the vicinity. Naturally, lunch spots nearby were fabulous (especially Mexican food). Our rent turned out to be very reasonable and we were given a giant loft space. Based on our design request, our landlord partitioned the office into several areas with see-through conference rooms. We also had a sink put in so employees could prepare their lunches. Our office was initially very barren so we had several team building activities to help decorate and make the office feel warm. The building came with rooftop access so one could go upstairs to get a change of scene if needed.&lt;/p&gt;
+&lt;h4 id=&#34;how-does-all-this-make-sense-for-us&#34;&gt;How does all this make sense for us
+&lt;/h4&gt;&lt;p&gt;One major positive impact that we felt right away was that recruiting became a lot easier. Even though Los Angeles is a sprawling city, downtown Los Angeles is still quite central and totally accessible by car, bus and train. Not to mention USC and UCLA were not too far from us, which made it perfect to hire interns.&lt;/p&gt;
+&lt;p&gt;More importantly, being in this location lets us get a lot closer to our clients. Many of our clients have shops in our neighborhood. The simple gestures of walking by and saying hello can do wonders in terms of understanding their needs and building on that relationship. There is no better way to understand your customers than by being in their proximity.&lt;/p&gt;
+&lt;p&gt;On the flip side, there are distasteful things we had to live with. The scenery changes drastically as soon as you walked a block south west from here.  Every morning I have to drive through streets full of druggies and crazy people in order to get to work. &amp;ldquo;&lt;strong&gt;Un-Pleasantville&lt;/strong&gt;&amp;rdquo; is literally right next door. The other thing I dislike a lot is that young people who live nearby like to walk their dog without picking up after themselves. So avoiding dog poo bombs is a daily routine.&lt;/p&gt;
+&lt;p&gt;At the end of the day, by being close to our customers and working next to a terrible neighborhood humbly reminds that we still have a lot of work to do in order to make a dent in the universe. That’s the best blessing in disguise which I am sure would help us in the days to come as we continue to grow.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A CTO&#39;s internship program out of a Los Angeles Startup</title>
+        <link>http://localhost:1313/p/a-ctos-internship-program-out-of-a-los-angeles-startup/</link>
+        <pubDate>Wed, 13 Dec 2017 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/a-ctos-internship-program-out-of-a-los-angeles-startup/</guid>
+        <description>&lt;p&gt;In 1999 while still a sophomore in college, I was given a chance that completely changed the course of my life. I met Kaoru Hayashi, the CEO and co-founder of a Tokyo tech startup called Digital Garage (now a publicly traded company in Japan) and he offered me a 3-month internship at his startup in Tokyo. Till this date, I still cherish every moment of that internship experience - learning how to code for the first time in Python and Zope, being exposed to open source technologies, meeting up with Joi Ito (then an entrepreneur, now a director at MIT Media Lab), supporting a live web coverage at Fuji Rock concert, hanging out with cool Tokyo teenagers and more. Had I not taken this internship, today I would probably be sitting in a cubicle instead of running a startup. Looking back, it was definitely something I would never trade anything for.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Today, as a CTO of a financial services startup, I am replicating that experience through Camino Financial&amp;rsquo;s Engineering Internship Program. In Los Angeles, there is a diverse pool of talents from all walks of life. There is also a healthy tech startup eco-system: a great network of local venture capitalists plus world-class universities nearby. What these young talents are missing is an opportunity to prove themselves in a real world professional environment. I want to create an internship program specifically for young people with little or no background in computer science. The idea is to expose them to real world software projects while completing a rigorous curriculum covering major computer science topics. The best part is that this is a paid internship program so interns can make some money and gain experience while having fun and picking up new skills.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So far we have some success with this and this is how we cracked the code.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;an-ideal-profile-for-ourintern&#34;&gt;An Ideal Profile for Our Intern
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/jedi.png&#34;
+    alt=&#34;Training to become a programming jedi&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Training to become a programming jedi!&lt;/h4&gt;&lt;p&gt;Training to become a programming jedi&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We open our door to everyone who is passionate about coding and software. Experience is secondary and not necessary, but definitely great to have. Another thing we look for is a deep appreciation in applying technology to solve problems in the lending space. Having an open mind and ability to work under pressure at a startup are some of the important qualities we look for.&lt;/p&gt;
+&lt;h4 id=&#34;hiring-kickoff&#34;&gt;Hiring kick off
+&lt;/h4&gt;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/delight.png&#34;
+    alt=&#34;Programming delight&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Programming delight&lt;/h4&gt;&lt;p&gt;Programming delight&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+When we published our first summer internship program online, we received a lot of responses from students in California. Most applicants were from around Los Angeles but quite a number also lived out of state. Receiving an overwhelming number of responses was of course exciting but sifting through this many applicants was no easy feat. We first did a phone screening for those that might be a good fit, we would then send them programming assignments if they seem solid. These were very easy assignments to test applicants understanding of Python, Django and Git. Even though the assignment itself was not hard, many applications did not complete the assignment within the allotted timeframe. In a way, this worked out because it saved us a lot of time in getting to the really motivated people.&lt;/p&gt;
+&lt;p&gt;We then invited these candidates to our office for an in-person interview. Sometimes, we would give more programming assignments for candidates to do and other times we would try to have candidates meet as many of our full-time staff as possible. What follows would be an internal selection process that mimics &amp;lsquo;America Got Talent&amp;rsquo; or &amp;lsquo;American Idol&amp;rsquo; - a discussion (and sometimes debate) and a voting process follow suit to pick an intern. Once a decision had been made, the candidates would usually begin the internship program in 2 weeks.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/star.gif&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Funny to say, we met some very interesting candidates along the way. Some people were super enthusiastic in the beginning but then disappeared into the wind as soon as they saw the assignment. Some attempted the assignment but struggled to finish - and gave a ton of reason for not being able to finish (e.g. problem with cars, apartment, moving, friends, family, etc). People who did well on the assignment did not necessarily mean they would do well for the in-person interview. Main reason for disqualifying was chemistry mismatch. We had one candidate who came in but lied about their resume. That left a bad taste for sure.&lt;/p&gt;
+&lt;h4 id=&#34;interns-balancing-work-andstudy&#34;&gt;Interns Balancing Work and Study
+&lt;/h4&gt;&lt;p&gt;The execution focus of our program was to provide on-the-job-training for our interns while interns took online courses in computer science from renowned colleges . In a typical week, an intern would participate in our sprints and do tasks from actual projects. They would work closely with our full-time staff and become acquainted with our tech stack and processes. On top of that, we would also arrange trips to attend tech conventions/training and visit to other tech companies in the area. Aside from office work, they would complete the assigned online classes at their own pace. It&amp;rsquo;s an honor system so there would be no need for assignment submission. However, we would regularly give short midterms and finals to see if our interns are absorbing the material. All in all, it&amp;rsquo;s a rather busy schedule!&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/byoc.gif&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On the other hand, the philosophy behind the program was to actually test the limits of those that come through our door. A startup environment is absolutely not for everyone and we need to know if a candidate would be a good fit. Some unconventional methods we apply: we would allow our interns to have access to production systems and make them responsible for live deployments. We would also throw them into hot fire when bugs become rampant. We&amp;rsquo;d also allow them to interface with our 3rd party vendors to follow up issues. We&amp;rsquo;d also give them freedom to pick tools they&amp;rsquo;d like to work with to solve problems at hand. Most importantly, we make our candidates accountable for the quality of their work at the company. Needless to say, we would praise and reprimand accordingly.&lt;/p&gt;
+&lt;h4 id=&#34;challenges-of-the-internship-program&#34;&gt;Challenges of the Internship Program
+&lt;/h4&gt;&lt;p&gt;The biggest risk is of our program is identifying a suitable candidate from the get-go. This is basically a judgement of character and talent potential based on the initial interactions such as testing, interviews and so on. However, it is not always easy so there is a bit of luck involved here.&lt;/p&gt;
+&lt;p&gt;The other main challenge is the ability of our interns to take on pressure in a startup environment. Every week there is something. I can&amp;rsquo;t remember a week goes by without any production or IT issue of some sort. There are also staff issues which can be tough to deal with. Interns themselves also have personal matters to take care of. Everything happening at once can be overwhelming, leaving people to quit half way.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/challenges.gif&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Program duration is also an important consideration. Too short - your startup risks bringing on inexperienced people full time too soon. Too long - your intern may find opportunities elsewhere. Finding the right duration is an outcome of trial and error. This depends a lot on the startup and the reward structure itself.&lt;/p&gt;
+&lt;p&gt;Related to duration is the program content itself. I usually tailor the assigned courses to our intern&amp;rsquo;s interests and experience level. However, sometimes software projects from work can overwhelm our interns completely. In my experience, this may not be ideal as it robs time away from building that foundation which an intern desperately needs for long term growth. Also heuristically, a program with more breath than depth may be more beneficial for all.&lt;/p&gt;
+&lt;h4 id=&#34;intern-graduation-andbeyond&#34;&gt;Intern Graduation and Beyond
+&lt;/h4&gt;&lt;p&gt;When our first intern graduated, we had a chat.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;What have you learned through the internship program?&amp;rdquo; I asked.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;You know… writing software, learning algorithms, and - &amp;quot; he replied.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I mean philosophically what have you learned?&amp;rdquo; I interrupted.&lt;/p&gt;
+&lt;p&gt;He paused for a long time, giving it a lot of thought.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;People have emotions. Project can get tough. Personally, I also had a lot of stuff going on&amp;hellip; It was bitter sweet but I am glad I did it,&amp;rdquo; He said.&lt;/p&gt;
+&lt;p&gt;Before my eyes, it was amazing to see the transformation of an inexperienced candidate into a very capable staff in the engineering department. On the spot, we gave an offer for a full-time position. Within 2 days he accepted the offer and couldn&amp;rsquo;t feel more grateful and excited about the opportunity.&lt;/p&gt;
+&lt;p&gt;This confirms yet again my conviction that talents can be developed - you just need to look hard and ensure they go through the rigors of a solid internship program.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A CTO’s Startup Journey in Beijing Zhongguancun Science Park</title>
+        <link>http://localhost:1313/p/a-ctos-startup-journey-in-beijing-zhongguancun-science-park/</link>
+        <pubDate>Thu, 03 Dec 2015 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/a-ctos-startup-journey-in-beijing-zhongguancun-science-park/</guid>
+        <description>&lt;p&gt;After 10+ hours of flight, I finally arrived in Beijing.&lt;/p&gt;
+&lt;p&gt;The invitation was hard to resist. The opportunity to start a new venture in Beijing sounded like an adventure not to be missed. This brought me to Beijing. My other co-founders literally got the keys to our loft that very same day I arrived. I was greeted by my CEO who just dashed in from the hospital as someone in his family had passed away a few hours earlier. When I walked into our loft, the carpet was still wet from cleaning and the room had a moldy and smoky smell. There was a Texas Hold&amp;rsquo;em poker table, a couple of broken office chairs and an old sofa bed. No welcome party of any sort. It was midnight and I was tired - so I just crashed.
+As crazy as it might sound, this is how it got started.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;setting-up&#34;&gt;Setting Up
+&lt;/h4&gt;&lt;p&gt;We set up our office in Zhongguancun Science Park because historically it has been a hub for startups in Beijing. Baidu, 36Kr, and many others all had founded their offices within walking distance from our office. Plenty of investors, VCs and incubators also set up shop there.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/beijingmap.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We rented a loft office in ZhongguancunDespite the lack of proper physical infrastructure in our loft, we managed to have a productive first week. We cleaned and decorated our loft. We also added a couple more desks and chairs. Eventually, our work place turned to be nice after some serious efforts.
+On the business front, we decided on a name for our service and explored services that help with company registration, banking and permits. My co-founders focused mainly on these.&lt;/p&gt;
+&lt;p&gt;On the tech side, I started planning for the technology stack and registering the domain names for our website and services. In the US, this would be a simple task as GoDaddy and many other registrars readily offer their services online. In China, this step is convoluted. Registering for a domain name is not enough to set up a website. A website must go through an ICP filing procedure before your website is accessible from within China.&lt;/p&gt;
+&lt;p&gt;This process took us almost 2 months because we made the mistake of registering our main website domain using a non-China registrar in the beginning. To complete ICP filing procedure, the domain is required to be transferred to a China registrar first. This would have taken weeks. So, to expedite things, we just registered for a new domain name but still the process took a while. Further more, a filing with the Beijing police was also required. Lots of paper work.&lt;/p&gt;
+&lt;p&gt;Choosing a cloud-based web service provider in China was no easy feat. Lots of options. In China, we needed to evaluate performance, reliability and complex pricing structures. In the US, everybody in startup uses AWS so it is no brainer. At the time when we started (early 2015), Amazon just started their service in China and they didn&amp;rsquo;t have a very comprehensive and reliable service. So I looked into other service providers. A few big names are Tencent Cloud , Grand Cloud, uCloud and many more. Eventually, we settled on Alibaba&amp;rsquo;s Aliyun. I got to say that they have copied AWS well; their uptime and other complementary services (site monitoring, database, redundancy, firewall solutions, etc) were decent.&lt;/p&gt;
+&lt;h4 id=&#34;hiring&#34;&gt;Hiring
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/kbjteam.jpeg&#34;
+    alt=&#34;KB Street Team, summer 2015.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;KB Street Team, summer 2015.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;KB Street Team, summer 2015.China has a lot of people but good technical staff are hard to come by in Beijing. Basically, this is a problem of supply and demand, just like the Bay Area. Established companies and post Series-A startups offer really good packages to attract talents therefore to find good staff for a small startup, you&amp;rsquo;d need to have a winning startup story, a charismatic leadership team and some luck.&lt;/p&gt;
+&lt;p&gt;We started by setting up job postings on Lagou. Our first hire (and many subsequent hires) came through this avenue. This was by far the closest thing to a Dice.com or Stackoverflow job board for techies. The ease-of-use, the modern user interface and its effectiveness caught me by surprise.&lt;/p&gt;
+&lt;p&gt;My process for vetting employees weren&amp;rsquo;t that dissimilar to the way I had hired in the US. However, I placed a strong emphasis on hiring programmers who can literally code on the spot. This was to weed out imposters who claim to know stuff, which was fairly common. Also, another major thing to look out for was that candidates who are recent graduates from trade schools or less well-known colleges tend to be problematic down the road.&lt;/p&gt;
+&lt;p&gt;Chinese employees typically don&amp;rsquo;t stick around for very long; on average developers leave or get fired within a year from joining. So companies compete fiercely for talents and poaching is common. To address this, we were constantly collecting resumes and interviewing candidates, even if the positions had been filled. In the beginning, we were informal in our hiring so we brought on some staff without proper screening. This actually led to some major problems for us. So, never hire on a whim. If a Chinese employee is not performing, just let them go fast.&lt;/p&gt;
+&lt;p&gt;Another thing to keep in mind is that if your technology stack consist of relative new technologies, such as React or Meteor, you&amp;rsquo;d have a tough time finding developers. At the end, we picked Nginx, uWSGI, Django, Python, Memcached, MongoDB, MySQL for our backend and Bootstrap for our front end. It was relatively easy to find coders for these technologies. Php is also commonly used in China.&lt;/p&gt;
+&lt;h4 id=&#34;managing-software-development&#34;&gt;Managing software development
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/vendors.png&#34;
+    alt=&#34;Technology service providers in China&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Technology service providers in China&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It pays to think twice before committing to a project management software tool. In the US, most teams would have a ton to choose from: Basecamp, Trello, Asiana, etc. Since we didn&amp;rsquo;t want to deal with hosting this ourselves so Jira or Trac was out of the question. We decided on Trello but it was a mistake. While it worked great in the US, the service was too slow in China. Eventually, we settled on Tower (Chinese solution). It was fast and did the job. It came with a browser version and an app version.&lt;/p&gt;
+&lt;p&gt;Similarly for source code repo, we ran into performance problems with BitBucket and GitHub in China. So we switched to Git@OSC. The service was a bit unpredictable at times but acceptable for the most part.&lt;/p&gt;
+&lt;p&gt;Our software platform was mainly designed for desktop use, so for our mobile site, we used a H5 mobile site generator called Chuye, which worked out really well.&lt;/p&gt;
+&lt;p&gt;Since Google Analytics (and many other Google services) weren&amp;rsquo;t available in China so we had to use a China-brew solution. Baidu analytics was a good way to get started. However, later we started using Pikwik, which was not bad since we could host it ourselves. I also heard good things about CNZZ but we have never tried.&lt;/p&gt;
+&lt;p&gt;On product design, I&amp;rsquo;d recommend paying attention to Chinese UX norms. Over there, 3rd party login via WeChat QR code is common on most sites. User registration process using mobile phone number was preferred over email address. Initially , we had tried user notifications on SMSs or emails. It was alright. I think our users preferred WeChat notifications. To do that, we signed up for a WeChat Official Account. There is an XML and JSON driven Web API which we used to send our own notifications via WeChat. A lot of things were templatized so development was not too hard. There was no WeChat sandbox so development must be done on a domain registered with WeChat Official Account.&lt;/p&gt;
+&lt;p&gt;We used scrum to drive our project. It was a good way to communicate our development progress. Since most people we hired came out straight from college or only had a couple years of experience, we would always teach scrum to new hires. This was very helpful, since I had interviewees coming in talking about waterfall development process for startups…&lt;/p&gt;
+&lt;h4 id=&#34;work-culture&#34;&gt;Work Culture
+&lt;/h4&gt;&lt;p&gt;Chinese people are extremely hard working. Our team pretty much worked 6-day weeks. We also pulled all-nighters a few times while supporting go-live events and releases. Since most staff we&amp;rsquo;ve hired were in their early 20&amp;rsquo;s, the team was fairly energetic and fun. We hosted an off-site hiking event and organized several karaoke dinner parties. They were fantastic for team building.&lt;/p&gt;
+&lt;p&gt;Chinese employees are a little less direct compared to their Western counterpart. Workers in China don&amp;rsquo;t always voice out their opinion. Sometimes, our staff beat around the bush or told a white lie to express themselves. You&amp;rsquo;d have to listen carefully in order to understand what really is going on.&lt;/p&gt;
+&lt;p&gt;When we got to employee number 15, internal communication started to become a major blocking issue. Office politics and mismanagement between departments started to impact us. Finger-pointing, gossiping and backstabbing almost ruined our office culture. We had to reset by firing almost half the team. It was certainly quite an experience.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/mess.jpeg&#34;
+    alt=&#34;Mess&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Mess&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One particularly high-ranking employee did not take it well. She used sly tactics to try to derail us. We somehow managed to survive it all because we had connections with someone &amp;ldquo;important&amp;rdquo;. Something like this typically would result in a law suit here in the States. Over there in Beijing, if you know the right people, considered it done.&lt;/p&gt;
+&lt;h4 id=&#34;living-inbeijing&#34;&gt;Living in Beijing
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/hotel.jpeg&#34;
+    alt=&#34;A tiny, windowless hotel room&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;A tiny, windowless hotel room&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Staying in Beijing can be expensive if not planned well in advance. Last minute hotel reservation sometimes got me just a tiny windowless room with a single bed and 3&amp;rsquo; x 3&amp;rsquo; shower. I also tried China&amp;rsquo;s AirBnb but I didn&amp;rsquo;t have a very good experience. In addition, Beijing is notorious for its bad traffic and air quality. I didn&amp;rsquo;t want to deal with neither so I always stayed close to the office. Unfortunately, real estate is extremely expensive around Zhongguancun so I didn&amp;rsquo;t have a lot of choice. I ended up crashing in the office a lot. Fortunately, I found staying at a 5-story bathhouse club nearby to be enjoyable. They have an enormous indoor jacuzzi, a sauna area and a massage area. I&amp;rsquo;d sleep in a hall with giant reclining sofas. After 11pm, it&amp;rsquo;s really quiet. Last but not least, they offer free bathrobe, tooth brush and slippers. They served buffet 4 times a day so I was also well fed (while wearing my bathrobe). All this for just USD 20 a night (massages not included).&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/bath.jpeg&#34;
+    alt=&#34;A nice bathhouse in Zhonguancun&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;A nice bathhouse in Zhonguancun&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One thing to be aware of in China is that some smaller motels or newly established business traveler hotels may not have the permit to host a foreigner overnight (your passport will not be accepted). Just check before going would be my advice.&lt;/p&gt;
+&lt;p&gt;Getting around Beijing can take a while, no matter what your mode of transportation is. Beijing is simply too vast and traffic is so bad. Just like LA, it is a sprawling metropolis. One advantage for Beijing is that they have a very accessible subway system which covers most of the city. I didn&amp;rsquo;t like Beijing taxi. They stink a lot. There is a local Uber clone called Didi Dache. I&amp;rsquo;d say I never had a bad experience when the weather was good. When it rained or snowed, it was hard to find a car. All in all, I avoided going out during rush hours and I just walked to my office daily - this saved me a lot of time.&lt;/p&gt;
+&lt;p&gt;Paying and shopping for things in China are relatively convenient if you have Alipay or WeChat set up on your smart phone for payment. I&amp;rsquo;d say China is light years ahead compared to the US when it comes to online payment. Many stores and restaurants accept Alipay or WeChat payment from mobile devices. If you are into saving money, you could always buy prepaid coupons from deals websites or mobile apps such as Dianping, Meituan, Noumi, etc. Sometimes, paying with WeChat or Alipay at POS also would give you discounts. Cash is king but definitely not in these scenarios in China.&lt;/p&gt;
+&lt;h4 id=&#34;on-biz-dev-funding&#34;&gt;On biz dev &amp;amp; funding
+&lt;/h4&gt;&lt;p&gt;To get our name out, we attended a lot of startup competitions and conferences. There is always something going on every week in Zhongguancun. We tried to attend whenever we got a chance in the beginning. After a while, I stopped going because we got really busy. There were a lot of startup projects and the quality varied so much. Some were clones of a popular idea that had worked in the US but with minor variations or adaptation for the Chinese market. Eventually, we just focused on attending the main events. We got to the final round in a Techcrunch competition in Beijing and we were second runner-up for a competition organized by Plug And Play China. Most of these competitions took place in Shanghai, Beijing, Hangzhou and Suzhou. I know there was a lot going on in Chengdu, Shenzhen, Guangzhou but we never went to any of those.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/incubator.jpeg&#34;
+    alt=&#34;Chuanyebang, an incubator in Beijing. Brand new office space.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Chuanyebang, an incubator in Beijing. Brand new office space.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Many city governments, incubators and accelerators offer large incentives to startup teams. If you meet the requirements, you can get free money, free office space and free warm intros. We were accepted by an incubator program managed by Chuanyebang and we ended up moving our entire office to the incubator. We got 3 months free rent. They were pumped about us in the beginning and wanted to invest. However, we couldn&amp;rsquo;t agree on the terms so that fell through. We started paying for rent afterwards but it was definitely better than the loft (not really any cheaper but better amenities, and, perhaps, more opportunities). There were a lot of startups in that incubator office. Some of them became our customers. The incubator also organized a lot of events. Last time I went there, there was a visiting convoy of about 10+ startup companies from S. Korea. They came looking for partnerships and opportunities with Chinese startup companies. These events helped increase our exposure and raise our awareness of other startups in competing space.&lt;/p&gt;
+&lt;p&gt;Since we were in the social media business, we leveraged social media influencers to help us gain exposure. We almost never paid cash for their service since we could offer new followers and fame for them when we promoted events online. However, established celebrity influencers typically would want a lucrative deal.&lt;/p&gt;
+&lt;p&gt;Funding in China is not hard if you can show some potential or profit. We launched our site late April and our VC funding came in (deposited to our bank account) in June. Certainly later rounds do get incredibly harder because you&amp;rsquo;d need to show your KPI trending north. However, I&amp;rsquo;ve heard rumors that IPOs in China aren&amp;rsquo;t difficult to manufacture (I&amp;rsquo;ve also heard similar things in the US, too).&lt;/p&gt;
+&lt;p&gt;Winning startup competitions did help us get noticed. We sometimes had to see 3–4 investors in a day when things got busy. In these meetings, we would talk through our deck. For me, I&amp;rsquo;d explain the technology / secret sauce behind our platform. For my co-founders, they&amp;rsquo;d show the charts and explain the growth potentials. We met representatives pretty much from everywhere: Softbank, Tsinghua Investment group, 36kr, Plug and Play China, etc. We also used funding agencies (FA) to get us intros to investors.&lt;/p&gt;
+&lt;h4 id=&#34;closing&#34;&gt;Closing
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/air.jpeg&#34;
+    alt=&#34;Terrible smog in Beijing&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Terrible smog in Beijing&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Terrible smog in BeijingBeijing is certainly an exciting place to start a venture these days but there will be risks and sacrifices. The startup ecosystem is fairly established. Beijing is just one of the many burgeoning startup hubs, and there are many more within China. As a tech entrepreneur and CTO, I&amp;rsquo;d recommend going if you are comfortable navigating unfamiliar technology service vendors and rolling up your sleeve when need to. More importantly, to enhance your chances you&amp;rsquo;d want a trustworthy local co-founder who is intimate with the market you want to tackle. He or she should also be familiar with the startup scene and have the right connections. For me, the only downside of doing it in Beijing is that you&amp;rsquo;d have to tolerate the bad weather and air pollution. Living expenses can also be quite high. And, not knowing Mandarin in Beijing can be a real pain!
+If you find this article interesting or helpful, please follow me on Twitter.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;update&#34;&gt;Update
+&lt;/h4&gt;&lt;p&gt;It&amp;rsquo;s been more than a year since I left the startup. I left for personal reasons. Last I heard they have pivoted to focus on building a tool platform for micro video bloggers/influencers. I&amp;rsquo;d consider it to be a hard pivot; with domain name change and everything else. Most of the original team members have left to do their own thing. The head count is about 25 +/- 5. They did not find a product-market fit with this new model.&lt;/p&gt;
+&lt;h4 id=&#34;update-2&#34;&gt;Update #2 
+&lt;/h4&gt;&lt;p&gt;Shortly after my last update, the company ran out of funding and closed down.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

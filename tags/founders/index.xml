@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Founders on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/founders/</link>
+        <description>Recent content in Founders on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 14 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/founders/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Startup, totally distributed</title>
+        <link>http://localhost:1313/p/startup-totally-distributed/</link>
+        <pubDate>Fri, 14 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/startup-totally-distributed/</guid>
+        <description>&lt;p&gt;Lately I noticed many startups operate in a totally distributed fashion. They don’t have an office. Founders / founding team live in different city / state / country. Their funding comes from VCs and angel investors in different city / state / country. They are on Zoom a lot. They meet once a quarter or year for a team building event. When possible, they outsource non-core competencies to a third party.&lt;/p&gt;
+&lt;p&gt;However, they all have a physical address or a PO box. That’s their last tether to the old world.&lt;/p&gt;
+&lt;p&gt;Is it possible to remove that tether? Not even a DAO (Decentralized Autonomous Organization) can remove that tether. Would be interesting to see how this develops.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

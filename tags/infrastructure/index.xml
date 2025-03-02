@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Infrastructure on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
+        <link>http://localhost:1313/tags/infrastructure/</link>
+        <description>Recent content in Infrastructure on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 10 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A smarter crosswalk</title>
+        <link>http://localhost:1313/p/a-smarter-crosswalk/</link>
+        <pubDate>Mon, 10 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/a-smarter-crosswalk/</guid>
+        <description>&lt;p&gt;Crosswalks have been around a long time but they don’t ever change. I closely observed one today. There is a sign that says ‘Push button for Pedestrian Crossing’. And then, there is a countdown signal forever pestering people to walk faster.&lt;/p&gt;
+&lt;p&gt;I think this is very dated. With Tesla able to autopilot itself today, I am sure the technology exists for sensors and cameras to detect the presence of pedestrians.&lt;/p&gt;
+&lt;p&gt;How about we innovate this thing inside out? Instead of needing to press a button, let’s use a sensor to activate traffic lights. This will be particularly helpful for those that cannot see or on a wheelchair. Sometimes, parents walking with children could potentially take longer to cross therefore the countdown timer should be able to accommodate for those scenarios. There should also be warning signs beaming at cars that are going too fast.&lt;/p&gt;
+&lt;p&gt;Why not?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Crumbling infrastructure in America</title>
+        <link>http://localhost:1313/p/crumbling-infrastructure-in-america/</link>
+        <pubDate>Wed, 05 Oct 2022 00:42:36 -0700</pubDate>
+        
+        <guid>http://localhost:1313/p/crumbling-infrastructure-in-america/</guid>
+        <description>&lt;p&gt;This summer we took Amtrak from Los Angeles to San Francisco. What was supposed to be a joyful, scenic ride turned out to be a laborious trip. The train ride going north took 10 hours. Although we had bought tickets online, it was not clear to me why we were only assigned seats once we boarded the train. The conductor scanned the barcode on my ticket, and, assuming the ticket was valid, placed a little slip of paper above my seat that indicated what stop we were getting off at. This is how things were 50 years ago and things have not changed much since then. The ride returning to Los Angeles took even longer – nearly 12 hours – with no wifi and nothing good to eat and nothing much to do.&lt;/p&gt;
+&lt;p&gt;I don’t want to be whining all day about this trip but it is evident that something is amiss here. What happened to America’s infrastructure? Today, the fastest high-speed rail in the world belongs to China where trains can travel at a maximum speed of 220 miles per hour! Even high-speed rail trains in Japan and Europe are very enjoyable to ride and fairly fast as well.&lt;/p&gt;
+&lt;p&gt;Is there room for disruption? I 120% believe that to be true. I think the biggest problem is the monopolistic attitude coming from the U.S. government. At the end of the day, this is a quasi-public corporation. For them, there is always a desire to save costs and public employees’ jobs are secured. There is very little reason for them to change the status quo.&lt;/p&gt;
+&lt;p&gt;We need to open up the industry and allow privatization. This way, the anti-competitive attitude goes away and more entrepreneurs can change things up. There is so much you can do with technology today. SpaceX and Starlink are good examples of that.&lt;/p&gt;
+&lt;p&gt;Let’s do something about it.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

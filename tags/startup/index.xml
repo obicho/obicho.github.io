@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Startup on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
-        <link>http://localhost:1313/tags/startup/</link>
+        <link>https://obicho.github.io/tags/startup/</link>
         <description>Recent content in Startup on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/startup/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/startup/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Deep fake videos used to defraud</title>
-        <link>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</link>
+        <link>https://obicho.github.io/p/deep-fake-videos-used-to-defraud/</link>
         <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</guid>
+        <guid>https://obicho.github.io/p/deep-fake-videos-used-to-defraud/</guid>
         <description>&lt;p&gt;Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.&lt;/p&gt;
 &lt;p&gt;We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.&lt;/p&gt;
 &lt;p&gt;Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview. So we had to do a voice call instead. Since it was during the pandemic, nobody was being flown in for a face-to-face interview.&lt;/p&gt;
@@ -26,10 +26,10 @@
         </item>
         <item>
         <title>Career planning, or not</title>
-        <link>http://localhost:1313/p/career-planning-or-not/</link>
+        <link>https://obicho.github.io/p/career-planning-or-not/</link>
         <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/career-planning-or-not/</guid>
+        <guid>https://obicho.github.io/p/career-planning-or-not/</guid>
         <description>&lt;p&gt;The amazing thing about meeting people in tech is that you can put people in two camps. The first camp is the founder type: they have a strong vision and want to build something to change the world. You can feel the energy blasting from every cell when they speak.&lt;/p&gt;
 &lt;p&gt;People in the second camp are professionals. They work for wonderful corporations and they are masters in what they do. Every step of the way, they work hard to build their career. They are proud of their accomplishments and capabilities. They get paid well doing it.&lt;/p&gt;
 &lt;p&gt;People in the 1st camp sometimes complained: did I spend too much time on my business that I am forgetting everything else? Like family and personal hobby?&lt;/p&gt;
@@ -40,10 +40,10 @@
         </item>
         <item>
         <title>Startup, totally distributed</title>
-        <link>http://localhost:1313/p/startup-totally-distributed/</link>
+        <link>https://obicho.github.io/p/startup-totally-distributed/</link>
         <pubDate>Fri, 14 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/startup-totally-distributed/</guid>
+        <guid>https://obicho.github.io/p/startup-totally-distributed/</guid>
         <description>&lt;p&gt;Lately I noticed many startups operate in a totally distributed fashion. They don’t have an office. Founders / founding team live in different city / state / country. Their funding comes from VCs and angel investors in different city / state / country. They are on Zoom a lot. They meet once a quarter or year for a team building event. When possible, they outsource non-core competencies to a third party.&lt;/p&gt;
 &lt;p&gt;However, they all have a physical address or a PO box. That’s their last tether to the old world.&lt;/p&gt;
 &lt;p&gt;Is it possible to remove that tether? Not even a DAO (Decentralized Autonomous Organization) can remove that tether. Would be interesting to see how this develops.&lt;/p&gt;
@@ -51,10 +51,10 @@
         </item>
         <item>
         <title>Tech hubs in South America</title>
-        <link>http://localhost:1313/p/tech-hubs-in-south-america/</link>
+        <link>https://obicho.github.io/p/tech-hubs-in-south-america/</link>
         <pubDate>Wed, 12 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/tech-hubs-in-south-america/</guid>
+        <guid>https://obicho.github.io/p/tech-hubs-in-south-america/</guid>
         <description>&lt;p&gt;Over the last decade, South America has been a popular place to recruit technology talents. I really enjoy working with technology teams from the region. Its close proximity to US, time zone overlap and a large talent pool are the main reasons why it has worked for me.&lt;/p&gt;
 &lt;p&gt;Here are my favorite places:&lt;/p&gt;
 &lt;h3 id=&#34;mexicos-guadalajara&#34;&gt;Mexico’s Guadalajara
@@ -71,10 +71,10 @@
         </item>
         <item>
         <title>Time is of the essence</title>
-        <link>http://localhost:1313/p/time-is-of-the-essence/</link>
+        <link>https://obicho.github.io/p/time-is-of-the-essence/</link>
         <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/time-is-of-the-essence/</guid>
+        <guid>https://obicho.github.io/p/time-is-of-the-essence/</guid>
         <description>&lt;p&gt;Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)&lt;/p&gt;
 &lt;p&gt;Think about that for a second.&lt;/p&gt;
 &lt;p&gt;It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.&lt;/p&gt;
@@ -84,10 +84,10 @@
         </item>
         <item>
         <title>Spicy duck tongue and stinky tofu</title>
-        <link>http://localhost:1313/p/spicy-duck-tongue-and-stinky-tofu/</link>
+        <link>https://obicho.github.io/p/spicy-duck-tongue-and-stinky-tofu/</link>
         <pubDate>Tue, 04 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/spicy-duck-tongue-and-stinky-tofu/</guid>
+        <guid>https://obicho.github.io/p/spicy-duck-tongue-and-stinky-tofu/</guid>
         <description>&lt;p&gt;Before the pandemic, shopping for groceries used to be a giant production for my family. Every weekend, we would set aside a few hours, load our kids into our car, bring our shopping bags, pick some groceries at a local supermarket, bag everything, drive home, unload everything from the car, etc. And, repeat all over the following weekend. &lt;em&gt;Argh!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Then, came the pandemic, and everything changed!&lt;/p&gt;
 &lt;p&gt;Instacart and other grocery shopping startups really started to enjoy a boom because nobody was going out. Many supermarkets started grocery delivery services too on their own. Ethnic food delivery startup, Weee!, raised some $400 million at $4 billion valuation in early 2022. Christmas came early for grocery delivery tech startups.&lt;/p&gt;
@@ -105,10 +105,10 @@
         </item>
         <item>
         <title>CEO of tomorrow</title>
-        <link>http://localhost:1313/p/ceo-of-tomorrow/</link>
+        <link>https://obicho.github.io/p/ceo-of-tomorrow/</link>
         <pubDate>Thu, 29 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/ceo-of-tomorrow/</guid>
+        <guid>https://obicho.github.io/p/ceo-of-tomorrow/</guid>
         <description>&lt;p&gt;What percentage of Y Combinator founders are technical?&lt;/p&gt;
 &lt;p&gt;Nobody really keeps track of this data. I looked. However, based on my research, it seems that typically at least one co-founder is more on the technical side within a startup. Anecdotally, I happen to know quite a few co-founders who are engineers by training and got funding from Mucker Capital.&lt;/p&gt;
 &lt;p&gt;As more businesses become accessible online, it is almost impossible to ignore the fact that a person with a technical background is better suited to run a company.&lt;/p&gt;
@@ -126,12 +126,12 @@
         </item>
         <item>
         <title>AI drew Steve Jobs eating sushi</title>
-        <link>http://localhost:1313/p/ai-drew-steve-jobs-eating-sushi/</link>
+        <link>https://obicho.github.io/p/ai-drew-steve-jobs-eating-sushi/</link>
         <pubDate>Wed, 28 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/ai-drew-steve-jobs-eating-sushi/</guid>
+        <guid>https://obicho.github.io/p/ai-drew-steve-jobs-eating-sushi/</guid>
         <description>&lt;p&gt;Today I use an AI tool to draw a picture of Steve Jobs eating sushi. This is what I got:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/steve-jobs-eating-sushi-ai.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/steve-jobs-eating-sushi-ai.png&#34;
 	
 	
 	
@@ -147,10 +147,10 @@
         </item>
         <item>
         <title>Hacking your tech career</title>
-        <link>http://localhost:1313/p/hacking-your-tech-career/</link>
+        <link>https://obicho.github.io/p/hacking-your-tech-career/</link>
         <pubDate>Sat, 03 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/hacking-your-tech-career/</guid>
+        <guid>https://obicho.github.io/p/hacking-your-tech-career/</guid>
         <description>&lt;p&gt;&lt;em&gt;Some time in spring this year, I went to UCLA to recruit interns. While I was there, I gave a talk which ended up attracting quite a few interns working with me. Some people really enjoyed the talk so I decided to clean up my notes and publish them here. Hopefully, you will find it useful, too.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;The Origin:&lt;/p&gt;
@@ -193,12 +193,12 @@
         </item>
         <item>
         <title>The Wire China Interview: About Beijing startup scene</title>
-        <link>http://localhost:1313/p/the-wire-china-interview-about-beijing-startup-scene/</link>
+        <link>https://obicho.github.io/p/the-wire-china-interview-about-beijing-startup-scene/</link>
         <pubDate>Thu, 26 May 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/the-wire-china-interview-about-beijing-startup-scene/</guid>
+        <guid>https://obicho.github.io/p/the-wire-china-interview-about-beijing-startup-scene/</guid>
         <description>&lt;h4 id=&#34;media-interview&#34;&gt;Media Interview
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/wirechinacover.jpg&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/wirechinacover.jpg&#34;
 	
 	
 	
@@ -212,15 +212,15 @@
     &gt;article&lt;/a&gt; in &lt;a class=&#34;link&#34; href=&#34;https://www.thewirechina.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The Wire China&lt;/a&gt; about my Beijing startup &lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/essays/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;experience&lt;/a&gt; in 2015.&lt;/p&gt;
-&lt;p&gt;Read the full article &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/img/posts/Chinas-Innovation-Renovation--The-Wire-China.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read the full article &lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/img/posts/Chinas-Innovation-Renovation--The-Wire-China.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Open Letter: Reflecting on the recruiting event at Caltech</title>
-        <link>http://localhost:1313/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</link>
+        <link>https://obicho.github.io/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</link>
         <pubDate>Mon, 14 Oct 2019 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</guid>
+        <guid>https://obicho.github.io/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</guid>
         <description>&lt;p&gt;Hello Team,&lt;/p&gt;
 &lt;p&gt;Today we had a recruiting event at Caltech (&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/California_Institute_of_Technology&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://en.wikipedia.org/wiki/California_Institute_of_Technology&lt;/a&gt;) and I was humbled by the experience.&lt;/p&gt;
@@ -245,10 +245,10 @@ Thank you.&lt;/p&gt;
         </item>
         <item>
         <title>Transformation</title>
-        <link>http://localhost:1313/p/transformation/</link>
+        <link>https://obicho.github.io/p/transformation/</link>
         <pubDate>Thu, 26 Sep 2019 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/transformation/</guid>
+        <guid>https://obicho.github.io/p/transformation/</guid>
         <description>&lt;p&gt;&lt;em&gt;A message sent through Slack to the team announcing an internship graduation&lt;/em&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A long long time ago, there was a boy who wasn’t fortunate in his career. After graduating from college, he had been in transition a few times, working on stuff that was neither meaningful nor rewarding.&lt;/p&gt;
@@ -264,13 +264,13 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
         </item>
         <item>
         <title>How a fintech company ended up next to Skid Row</title>
-        <link>http://localhost:1313/p/how-a-fintech-company-ended-up-next-to-skid-row/</link>
+        <link>https://obicho.github.io/p/how-a-fintech-company-ended-up-next-to-skid-row/</link>
         <pubDate>Sat, 01 Sep 2018 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/how-a-fintech-company-ended-up-next-to-skid-row/</guid>
+        <guid>https://obicho.github.io/p/how-a-fintech-company-ended-up-next-to-skid-row/</guid>
         <description>&lt;p&gt;&lt;em&gt;A sickly-looking man, walking like a zombie, crossed my path in the middle of the road as I drove through Skid Row to get to office. While waiting for him to pass, I looked to the left and only to find more disturbing scenes: a few homeless people in a tent shooting drugs up their arms and a soup kitchen filled with people whose despair-stricken eyes were staring right back at me.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;But it didn’t matter. I parked my car and went straight to work.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/homeless.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/homeless.jpg&#34;
 	
 	
 	
@@ -295,10 +295,10 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
     &gt;approach&lt;/a&gt; with a startup in Beijing.&lt;/p&gt;
 &lt;p&gt;So, does that mean you should not get your own space? NO! The problem with not graduating from these co-working space is that things become more complex with a larger team. Under these circumstances, you would need to be really good at controlling your company image, organizing your team around the given space and ensuring computer servers and equipment sit properly behind YOUR OWN firewall. All these things would be immensely harder to manage if you were to work within the confines of a co-working space (I mean, you could do it but you would need to shell out big bucks to pay the co-working company so that they can customize things for you). Therefore, it still makes sense to do some research to find your own space eventually.&lt;/p&gt;
 &lt;h4 id=&#34;having-your-own-office-is-a-dream-come-true&#34;&gt;Having your own office is a dream come true
-&lt;/h4&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/img/posts/officefront.png&#34; alt=&#34;Camino Financial&#39;s loft office&#34; /&gt;
+&lt;/h4&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;https://obicho.github.io/img/posts/officefront.png&#34; alt=&#34;Camino Financial&#39;s loft office&#34; /&gt;
 &lt;p&gt;Office Front&lt;/p&gt;
 &lt;hr&gt;
-&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/img/posts/nearby.jpg&#34; alt=&#34;shops nearby&#34; /&gt;
+&lt;img class=&#34;img-fluid&#34; src=&#34;https://obicho.github.io/img/posts/nearby.jpg&#34; alt=&#34;shops nearby&#34; /&gt;
 &lt;p&gt;View from coffee shop &lt;em&gt;No Ghost Bears&lt;/em&gt; nearby&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A major consideration would be affordability. We just went through this exercise and this was how we did it. During our initial search, we reviewed properties in LA tech hubs. We balked at the idea of paying high rents at prime estates at some of these places (Venice, Santa Monica and Pasadena). We needed to have a flexible space which we could expand if we needed to. After searching high and low, we ended up looking at downtown Los Angeles. There is a diverse choice of real estates to choose from; major banks and big firms are typically in the high rises on the west, homeless shelters and soup kitchens on the east (Skid Row) and lofts for young, creative people nestled in between. After doing a little shopping, we settled for something next to Skid Row and it turned out to be wonderful!&lt;/p&gt;

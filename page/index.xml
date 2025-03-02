@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://obicho.github.io/page/</link>
         <description>Recent content in Pages on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 02 Mar 2025 10:13:37 -0800</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Mar 2025 10:13:37 -0800</lastBuildDate><atom:link href="https://obicho.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Talks, lectures</title>
-        <link>http://localhost:1313/talks/</link>
+        <link>https://obicho.github.io/talks/</link>
         <pubDate>Sun, 02 Mar 2025 10:13:37 -0800</pubDate>
         
-        <guid>http://localhost:1313/talks/</guid>
+        <guid>https://obicho.github.io/talks/</guid>
         <description>&lt;h2 id=&#34;2025&#34;&gt;2025
 &lt;/h2&gt;&lt;h3 id=&#34;webinar-how-to-future-proof-your-fintech-team&#34;&gt;Webinar: How to future-proof your fintech team
 &lt;/h3&gt;&lt;p&gt;Panelist: Julia Valentine, Bernard Perrine, Cho-Nan Tsai&lt;/p&gt;
@@ -161,31 +161,31 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://obicho.github.io/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://obicho.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://obicho.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://obicho.github.io/about/</guid>
         <description>&lt;p&gt;Cho-Nan Tsai is a seasoned technology entrepreneur in AI and Fintech. He is an expert in AI, machine learning and lending. Earlier in his career, he managed tech projects at Fortune 500 companies such as Sony, Ricoh, McKinsey &amp;amp; Company. He has in-depth experience across verticals such as data, digital advertising, and studio tech. More recently, he was a corporate executive and raised millions of dollars for a number of startups, growing these businesses quickly using technology and multiplying their revenues exponentially year over year. Currently, he is the CEO and President at Hyperionsoft, an AI consulting firm. He graduated with a B.S. degree in Computer Engineering from Columbia University and a M.S. degree in Computer Science from UCLA.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/chonantsai/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;LinkedIn&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/img/about/chonantsai-bw-headshot.jpg&#34; &gt;Headshot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/talks&#34; &gt;Talks, lectures and panels&lt;/a&gt; I have given.&lt;/p&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/img/about/chonantsai-bw-headshot.jpg&#34; &gt;Headshot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/talks&#34; &gt;Talks, lectures and panels&lt;/a&gt; I have given.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://obicho.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://obicho.github.io/search/</guid>
         <description></description>
         </item>
         

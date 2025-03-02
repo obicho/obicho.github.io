@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Fraud on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
-        <link>http://localhost:1313/tags/fraud/</link>
+        <link>https://obicho.github.io/tags/fraud/</link>
         <description>Recent content in Fraud on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/fraud/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/fraud/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Deep fake videos used to defraud</title>
-        <link>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</link>
+        <link>https://obicho.github.io/p/deep-fake-videos-used-to-defraud/</link>
         <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</guid>
+        <guid>https://obicho.github.io/p/deep-fake-videos-used-to-defraud/</guid>
         <description>&lt;p&gt;Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.&lt;/p&gt;
 &lt;p&gt;We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.&lt;/p&gt;
 &lt;p&gt;Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview. So we had to do a voice call instead. Since it was during the pandemic, nobody was being flown in for a face-to-face interview.&lt;/p&gt;

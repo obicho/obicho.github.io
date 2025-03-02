@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
-        <link>http://localhost:1313/</link>
+        <link>https://obicho.github.io/</link>
         <description>Recent content on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 02 Mar 2025 10:13:37 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Mar 2025 10:13:37 -0800</lastBuildDate><atom:link href="https://obicho.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Talks, lectures</title>
-        <link>http://localhost:1313/talks/</link>
+        <link>https://obicho.github.io/talks/</link>
         <pubDate>Sun, 02 Mar 2025 10:13:37 -0800</pubDate>
         
-        <guid>http://localhost:1313/talks/</guid>
+        <guid>https://obicho.github.io/talks/</guid>
         <description>&lt;h2 id=&#34;2025&#34;&gt;2025
 &lt;/h2&gt;&lt;h3 id=&#34;webinar-how-to-future-proof-your-fintech-team&#34;&gt;Webinar: How to future-proof your fintech team
 &lt;/h3&gt;&lt;p&gt;Panelist: Julia Valentine, Bernard Perrine, Cho-Nan Tsai&lt;/p&gt;
@@ -161,11 +161,11 @@
         </item>
         <item>
         <title>The Magic Moment Happens quietly</title>
-        <link>http://localhost:1313/p/the-magic-moment-happens-quietly/</link>
+        <link>https://obicho.github.io/p/the-magic-moment-happens-quietly/</link>
         <pubDate>Fri, 17 Jan 2025 07:30:56 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/the-magic-moment-happens-quietly/</guid>
-        <description>&lt;img src="http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost.jpeg" alt="Featured image of post The Magic Moment Happens quietly" /&gt;&lt;p&gt;The magic moment happens quietly. Yesterday&amp;rsquo;s breakthrough becomes today&amp;rsquo;s utility and tomorrow&amp;rsquo;s commodity.&lt;/p&gt;
+        <guid>https://obicho.github.io/p/the-magic-moment-happens-quietly/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/the-magic-moment-happens-quietly/llmcost.jpeg" alt="Featured image of post The Magic Moment Happens quietly" /&gt;&lt;p&gt;The magic moment happens quietly. Yesterday&amp;rsquo;s breakthrough becomes today&amp;rsquo;s utility and tomorrow&amp;rsquo;s commodity.&lt;/p&gt;
 &lt;p&gt;AI models are following this exact path. What was once the domain of specialized researchers with massive budgets is now accessible to nearly anyone with an internet connection.&lt;/p&gt;
 &lt;p&gt;Think about that for a second. The technology that had us gasping in amazement just months ago is now becoming&amp;hellip; ordinary.&lt;/p&gt;
 &lt;p&gt;This commoditization has profound implications:&lt;/p&gt;
@@ -177,10 +177,10 @@
 &lt;p&gt;🔍 Double down on your uniqueness. What do you know that nobody else knows? What problems do you understand better than anyone?&lt;/p&gt;
 &lt;p&gt;🤝 Remember that relationships trump algorithms. In a world where everyone has access to the same AI capabilities, human connection becomes the scarcest resource.&lt;/p&gt;
 &lt;p&gt;The companies that will thrive aren&amp;rsquo;t asking &amp;ldquo;How can we use AI?&amp;rdquo; but rather &amp;ldquo;What matters to our people that AI might help us deliver?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/p/the-magic-moment-happens-quietly/llmcost.jpeg&#34;
 	width=&#34;1858&#34;
 	height=&#34;1352&#34;
-	srcset=&#34;http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost_hu_a9dec6deb1f63881.jpeg 480w, http://localhost:1313/p/the-magic-moment-happens-quietly/llmcost_hu_2894f0a1a2364ac4.jpeg 1024w&#34;
+	srcset=&#34;https://obicho.github.io/p/the-magic-moment-happens-quietly/llmcost_hu_a9dec6deb1f63881.jpeg 480w, https://obicho.github.io/p/the-magic-moment-happens-quietly/llmcost_hu_2894f0a1a2364ac4.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Steep drop in LLM cost per token over time&#34;
@@ -195,11 +195,11 @@
         </item>
         <item>
         <title>The Chinese Almanac Might Be the World&#39;s Oldest Continuously Published Data Science Project</title>
-        <link>http://localhost:1313/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/</link>
+        <link>https://obicho.github.io/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/</link>
         <pubDate>Wed, 15 Jan 2025 07:29:36 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/</guid>
-        <description>&lt;img src="http://localhost:1313/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/almanac.jpeg" alt="Featured image of post The Chinese Almanac Might Be the World&#39;s Oldest Continuously Published Data Science Project" /&gt;&lt;p&gt;The Chinese almanac (通書/農民曆) might be the world&amp;rsquo;s oldest continuously published data science project.&lt;/p&gt;
+        <guid>https://obicho.github.io/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/the-chinese-almanac-might-be-the-worlds-oldest-continuously-published-data-science-project/almanac.jpeg" alt="Featured image of post The Chinese Almanac Might Be the World&#39;s Oldest Continuously Published Data Science Project" /&gt;&lt;p&gt;The Chinese almanac (通書/農民曆) might be the world&amp;rsquo;s oldest continuously published data science project.&lt;/p&gt;
 &lt;p&gt;Imagine farmers across generations—not just recording when to plant, but meticulously noting correlations between celestial patterns, weather changes, and successful harvests. They weren&amp;rsquo;t guessing. They were building a prediction engine using the only tools they had: observation, documentation, and pattern recognition.&lt;/p&gt;
 &lt;p&gt;Dating back to around 2500 BCE during the Xia Dynasty, these almanacs began as fundamental agricultural guides. But they were never static. Each generation added layers of insight, correlating moon phases with tides, star positions with seasonal changes, and weather patterns with optimal planting times.&lt;/p&gt;
 &lt;p&gt;What makes this remarkable? They didn&amp;rsquo;t have the why. Ancient farmers couldn&amp;rsquo;t explain gravitational relationships or atmospheric science—they simply noticed what worked, documented it, refined it through trial and error, and passed it forward.&lt;/p&gt;
@@ -217,10 +217,10 @@
         </item>
         <item>
         <title>Stop Asking if AI Will Take Your Job</title>
-        <link>http://localhost:1313/p/stop-asking-if-ai-will-take-your-job/</link>
+        <link>https://obicho.github.io/p/stop-asking-if-ai-will-take-your-job/</link>
         <pubDate>Tue, 14 Jan 2025 07:24:14 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/stop-asking-if-ai-will-take-your-job/</guid>
+        <guid>https://obicho.github.io/p/stop-asking-if-ai-will-take-your-job/</guid>
         <description>&lt;p&gt;Stop asking if AI will take your job. Start asking these 3 questions that actually matter for your career.&lt;/p&gt;
 &lt;p&gt;The factory worker in 1920 didn&amp;rsquo;t worry about whether electricity would take their job. They worried about how to use electricity to become indispensable.&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;re asking the wrong question, and it&amp;rsquo;s costing you precious time.&lt;/p&gt;
@@ -239,11 +239,11 @@
         </item>
         <item>
         <title>Here Is Something That Might Surprise You</title>
-        <link>http://localhost:1313/p/here-is-something-that-might-surprise-you/</link>
+        <link>https://obicho.github.io/p/here-is-something-that-might-surprise-you/</link>
         <pubDate>Mon, 13 Jan 2025 07:26:02 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/here-is-something-that-might-surprise-you/</guid>
-        <description>&lt;img src="http://localhost:1313/p/here-is-something-that-might-surprise-you/exam.jpeg" alt="Featured image of post Here Is Something That Might Surprise You" /&gt;&lt;p&gt;Here&amp;rsquo;s something that might surprise you.&lt;/p&gt;
+        <guid>https://obicho.github.io/p/here-is-something-that-might-surprise-you/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/here-is-something-that-might-surprise-you/exam.jpeg" alt="Featured image of post Here Is Something That Might Surprise You" /&gt;&lt;p&gt;Here&amp;rsquo;s something that might surprise you.&lt;/p&gt;
 &lt;p&gt;The most advanced artificial intelligence in the world – the kind that&amp;rsquo;s making headlines and keeping CEOs up at night – just failed an exam. Not just any exam. The hardest exam ever created.&lt;/p&gt;
 &lt;p&gt;They&amp;rsquo;re calling it &amp;ldquo;Humanity&amp;rsquo;s Last Exam.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Dramatic? Maybe. But here&amp;rsquo;s the thing: We&amp;rsquo;ve spent years watching AI ace test after test. SAT, GRE, CA Bar exam, MMLU, MATH, you name it. Scoring higher than 90% on benchmarks that were supposed to be challenging. Getting perfect scores on medical licensing exams. Outperforming human experts on complex reasoning tasks. Making us wonder if there was anything left that machines couldn&amp;rsquo;t master.&lt;/p&gt;
@@ -266,10 +266,10 @@
         </item>
         <item>
         <title>My AI Coding Agent Wrote Perfect Typescript Today. Then I Woke Up</title>
-        <link>http://localhost:1313/p/my-ai-coding-agent-wrote-perfect-typescript-today.-then-i-woke-up/</link>
+        <link>https://obicho.github.io/p/my-ai-coding-agent-wrote-perfect-typescript-today.-then-i-woke-up/</link>
         <pubDate>Mon, 13 Jan 2025 07:21:32 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/my-ai-coding-agent-wrote-perfect-typescript-today.-then-i-woke-up/</guid>
+        <guid>https://obicho.github.io/p/my-ai-coding-agent-wrote-perfect-typescript-today.-then-i-woke-up/</guid>
         <description>&lt;p&gt;My AI coding agent wrote perfect TypeScript today. Then I woke up.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s the thing about dreams – they&amp;rsquo;re full of promise, just like the AI tools we&amp;rsquo;re pouring our money into. $25 for the first month. Then $10.50. Again. And again. And again.&lt;/p&gt;
 &lt;p&gt;Let me paint you a picture. I&amp;rsquo;m building a CMS, the kind I&amp;rsquo;ve built dozens of times before. The AI confidently suggests code, and sometimes – when I ask the right questions – it actually speeds things up. It&amp;rsquo;s particularly good at the tedious stuff: scaffolding CRUD operations, suggesting API endpoints, writing basic form validation.&lt;/p&gt;
@@ -286,10 +286,10 @@
         </item>
         <item>
         <title>There Is a Ghost Haunting Your Ai Project</title>
-        <link>http://localhost:1313/p/there-is-a-ghost-haunting-your-ai-project/</link>
+        <link>https://obicho.github.io/p/there-is-a-ghost-haunting-your-ai-project/</link>
         <pubDate>Sun, 12 Jan 2025 07:22:27 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/there-is-a-ghost-haunting-your-ai-project/</guid>
+        <guid>https://obicho.github.io/p/there-is-a-ghost-haunting-your-ai-project/</guid>
         <description>&lt;p&gt;There&amp;rsquo;s a ghost haunting your AI project.&lt;/p&gt;
 &lt;p&gt;You won&amp;rsquo;t find it in the code reviews or the technical specifications. It&amp;rsquo;s not hiding in your data lakes or your neural networks.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s sitting in plain sight – in your Monday morning meetings, in the whispered conversations by the coffee machine, in the unanswered Slack messages.&lt;/p&gt;
@@ -309,11 +309,11 @@
         </item>
         <item>
         <title>I Studied 50 Successful Enterprise Ai Implementations Here Is the Pattern Nobody Talks About</title>
-        <link>http://localhost:1313/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/</link>
+        <link>https://obicho.github.io/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/</link>
         <pubDate>Sat, 11 Jan 2025 07:17:43 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/</guid>
-        <description>&lt;img src="http://localhost:1313/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/no.jpeg" alt="Featured image of post I Studied 50 Successful Enterprise Ai Implementations Here Is the Pattern Nobody Talks About" /&gt;&lt;p&gt;I studied 50 successful enterprise AI implementations. Here&amp;rsquo;s the pattern nobody talks about.&lt;/p&gt;
+        <guid>https://obicho.github.io/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/i-studied-50-successful-enterprise-ai-implementations-here-is-the-pattern-nobody-talks-about/no.jpeg" alt="Featured image of post I Studied 50 Successful Enterprise Ai Implementations Here Is the Pattern Nobody Talks About" /&gt;&lt;p&gt;I studied 50 successful enterprise AI implementations. Here&amp;rsquo;s the pattern nobody talks about.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s not about the algorithms. It&amp;rsquo;s not about the data. And it&amp;rsquo;s certainly not about having the biggest AI budget.&lt;/p&gt;
 &lt;p&gt;The pattern that emerges, time and time again, is almost embarrassingly simple: The successful implementations all started with what they weren&amp;rsquo;t going to do.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s right. While everyone else was rushing to implement AI everywhere, these leaders did something counterintuitive. They sat down and made a &amp;ldquo;not-to-do&amp;rdquo; list.&lt;/p&gt;
@@ -330,19 +330,19 @@
         </item>
         <item>
         <title>Fear for His Company&#39;s Future</title>
-        <link>http://localhost:1313/p/fear-for-his-companys-future/</link>
+        <link>https://obicho.github.io/p/fear-for-his-companys-future/</link>
         <pubDate>Fri, 10 Jan 2025 07:10:44 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/fear-for-his-companys-future/</guid>
-        <description>&lt;img src="http://localhost:1313/p/fear-for-his-companys-future/apple.jpeg" alt="Featured image of post Fear for His Company&#39;s Future" /&gt;&lt;p&gt;I met a CEO last week who made me fear for his company&amp;rsquo;s future. In his corner office – all mahogany and market reports – he leaned back and said something chilling: &amp;ldquo;Our industry hasn&amp;rsquo;t really changed in three decades.&amp;rdquo; He delivered this line like it was a badge of honor, not a warning sign.&lt;/p&gt;
+        <guid>https://obicho.github.io/p/fear-for-his-companys-future/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/fear-for-his-companys-future/apple.jpeg" alt="Featured image of post Fear for His Company&#39;s Future" /&gt;&lt;p&gt;I met a CEO last week who made me fear for his company&amp;rsquo;s future. In his corner office – all mahogany and market reports – he leaned back and said something chilling: &amp;ldquo;Our industry hasn&amp;rsquo;t really changed in three decades.&amp;rdquo; He delivered this line like it was a badge of honor, not a warning sign.&lt;/p&gt;
 &lt;p&gt;It reminded me of Chegg&amp;rsquo;s story. Remember them? The homework help giant worth $12 billion? They had it all figured out – market dominance, steady growth, predictable future. Then ChatGPT appeared, and in just four months, their empire crumbled. Seventy percent of their value, gone. Not because they were incompetent, but because they were comfortable.&lt;/p&gt;
 &lt;p&gt;The thing about disruption is it&amp;rsquo;s like a tsunami. By the time you see it from your corner office, it&amp;rsquo;s too late to build a boat. Somewhere right now, in a garage that doesn&amp;rsquo;t match your marble lobby, someone is completely rethinking your industry. They&amp;rsquo;re not weighed down by &amp;ldquo;the way things work.&amp;rdquo; They&amp;rsquo;re not protecting a legacy. They&amp;rsquo;re building its replacement.&lt;/p&gt;
 &lt;p&gt;You see, the most dangerous kind of bankruptcy isn&amp;rsquo;t financial – it&amp;rsquo;s the bankruptcy of imagination. The belief that your industry is &amp;ldquo;different,&amp;rdquo; that your success is &amp;ldquo;protected,&amp;rdquo; that your experience is a shield rather than a blindfold. Just ask Chegg about their view now, if you can find someone who still has an office there.&lt;/p&gt;
 &lt;p&gt;The question isn&amp;rsquo;t whether disruption is coming to your industry. It&amp;rsquo;s whether you&amp;rsquo;ll be the disruptor or the disrupted. Whether you&amp;rsquo;ll be writing the future or becoming a cautionary tale in someone else&amp;rsquo;s PowerPoint presentation.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/fear-for-his-companys-future/apple.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/p/fear-for-his-companys-future/apple.jpeg&#34;
 	width=&#34;800&#34;
 	height=&#34;597&#34;
-	srcset=&#34;http://localhost:1313/p/fear-for-his-companys-future/apple_hu_73a209c39d751161.jpeg 480w, http://localhost:1313/p/fear-for-his-companys-future/apple_hu_8c4cc80ec2be14c.jpeg 1024w&#34;
+	srcset=&#34;https://obicho.github.io/p/fear-for-his-companys-future/apple_hu_73a209c39d751161.jpeg 480w, https://obicho.github.io/p/fear-for-his-companys-future/apple_hu_8c4cc80ec2be14c.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Jobs and Wozniak - early days of Apple Computer&#34;
@@ -357,11 +357,11 @@
         </item>
         <item>
         <title>Guess How a Top Ivy League Mba Program Teaches Deep Learning, Neural Networks and Generative Ai</title>
-        <link>http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/</link>
+        <link>https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/</link>
         <pubDate>Wed, 08 Jan 2025 07:03:10 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/</guid>
-        <description>&lt;img src="http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom.jpeg" alt="Featured image of post Guess How a Top Ivy League Mba Program Teaches Deep Learning, Neural Networks and Generative Ai" /&gt;&lt;p&gt;🎓 Guess how a top Ivy league MBA program teaches deep learning, neural networks, and generative AI to its students?&lt;/p&gt;
+        <guid>https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom.jpeg" alt="Featured image of post Guess How a Top Ivy League Mba Program Teaches Deep Learning, Neural Networks and Generative Ai" /&gt;&lt;p&gt;🎓 Guess how a top Ivy league MBA program teaches deep learning, neural networks, and generative AI to its students?&lt;/p&gt;
 &lt;p&gt;The answer: A simple spreadsheet.&lt;/p&gt;
 &lt;p&gt;Mind-blown at Columbia Business School&amp;rsquo;s Professor Daniel Guetta&amp;rsquo;s masterclass earlier this week during our alumni gathering at LA&amp;rsquo;s Museum of Contemporary Art (MOCA).&lt;/p&gt;
 &lt;p&gt;Most AI talks I&amp;rsquo;ve attended were either too technical or too superficial. This was different.&lt;/p&gt;
@@ -372,10 +372,10 @@
 &lt;p&gt;Key Takeaway: Innovation in teaching isn&amp;rsquo;t about new tools - it&amp;rsquo;s about making complex ideas accessible and memorable.&lt;/p&gt;
 &lt;p&gt;Special thanks to Nancy Kwon Merrihew for hosting us, and to Minkyung Kim for organzing the event on behalf of Columbia Alumni Association of Southern California (Columbia SoCal).&lt;/p&gt;
 &lt;p&gt;hashtag#ColumbiaUniversity hashtag#ColumbiaAlumni hashtag#ColumbiaBusinessSchool&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom.jpeg&#34;
 	width=&#34;2048&#34;
 	height=&#34;870&#34;
-	srcset=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom_hu_40fd4da4ff39a03e.jpeg 480w, http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom_hu_775189b13bd7e6cc.jpeg 1024w&#34;
+	srcset=&#34;https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom_hu_40fd4da4ff39a03e.jpeg 480w, https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/moca-boardroom_hu_775189b13bd7e6cc.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Everyone listening to an executive MBA course on AI at MOCA boardroom at DTLA&#34;
@@ -386,10 +386,10 @@
 		data-flex-basis=&#34;564px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit.jpeg&#34;
+&lt;img src=&#34;https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit.jpeg&#34;
 	width=&#34;1280&#34;
 	height=&#34;1704&#34;
-	srcset=&#34;http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit_hu_ae1231c6945977c4.jpeg 480w, http://localhost:1313/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit_hu_6cecd40675ac0dc1.jpeg 1024w&#34;
+	srcset=&#34;https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit_hu_ae1231c6945977c4.jpeg 480w, https://obicho.github.io/p/guess-how-a-top-ivy-league-mba-program-teaches-deep-learning-neural-networks-and-generative-ai/exhibit_hu_6cecd40675ac0dc1.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Exhibit on that day at MOCA museum&#34;
@@ -404,10 +404,10 @@
         </item>
         <item>
         <title>What if Your Banks Most Effective Agent Never Sleeps</title>
-        <link>http://localhost:1313/p/what-if-your-banks-most-effective-agent-never-sleeps/</link>
+        <link>https://obicho.github.io/p/what-if-your-banks-most-effective-agent-never-sleeps/</link>
         <pubDate>Tue, 07 Jan 2025 06:59:12 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/what-if-your-banks-most-effective-agent-never-sleeps/</guid>
+        <guid>https://obicho.github.io/p/what-if-your-banks-most-effective-agent-never-sleeps/</guid>
         <description>&lt;p&gt;🚀 &amp;ldquo;What if your bank&amp;rsquo;s most effective collections agent never sleeps, never takes breaks, and handles 1000x more calls than humans?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The future of banking and lending isn&amp;rsquo;t just digital - it&amp;rsquo;s conversational.&lt;/p&gt;
 &lt;p&gt;Meet the new era of AI voice agents that understand natural language just like humans do.&lt;/p&gt;
@@ -438,10 +438,10 @@
         </item>
         <item>
         <title>Top 10 Banks Are Quietly Abandoning LLM</title>
-        <link>http://localhost:1313/p/top-10-banks-are-quietly-abandoning-llm/</link>
+        <link>https://obicho.github.io/p/top-10-banks-are-quietly-abandoning-llm/</link>
         <pubDate>Mon, 06 Jan 2025 06:54:31 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/top-10-banks-are-quietly-abandoning-llm/</guid>
+        <guid>https://obicho.github.io/p/top-10-banks-are-quietly-abandoning-llm/</guid>
         <description>&lt;p&gt;🚨 Breaking: Top 10 banks are quietly abandoning large language models. Here&amp;rsquo;s the disruption no one saw coming.&amp;quot;&lt;/p&gt;
 &lt;p&gt;Mind-blowing stat: While the big banks pour millions into large language models, fintech leaders are quietly deploying specialized AI agents that process customer queries 25x faster at 1/10th the cost.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s what most people don&amp;rsquo;t know: These new agents, powered by Small Language Models, are revolutionizing customer service by:
@@ -465,11 +465,11 @@
         </item>
         <item>
         <title>Next Financial Empire Isn&#39;t a Bank</title>
-        <link>http://localhost:1313/p/next-financial-empire-isnt-a-bank/</link>
+        <link>https://obicho.github.io/p/next-financial-empire-isnt-a-bank/</link>
         <pubDate>Sun, 05 Jan 2025 16:31:42 -0800</pubDate>
         
-        <guid>http://localhost:1313/p/next-financial-empire-isnt-a-bank/</guid>
-        <description>&lt;img src="http://localhost:1313/p/next-financial-empire-isnt-a-bank/intuitdome.jpeg" alt="Featured image of post Next Financial Empire Isn&#39;t a Bank" /&gt;&lt;p&gt;🏢 What if I told you the next financial data empire isn&amp;rsquo;t a bank, but was built through tax software?&lt;/p&gt;
+        <guid>https://obicho.github.io/p/next-financial-empire-isnt-a-bank/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/next-financial-empire-isnt-a-bank/intuitdome.jpeg" alt="Featured image of post Next Financial Empire Isn&#39;t a Bank" /&gt;&lt;p&gt;🏢 What if I told you the next financial data empire isn&amp;rsquo;t a bank, but was built through tax software?&lt;/p&gt;
 &lt;p&gt;Standing at the Intuit Dome, I had an eye-opening revelation. This wasn&amp;rsquo;t just another tech company&amp;rsquo;s vanity project - it&amp;rsquo;s a statement of power.&lt;/p&gt;
 &lt;p&gt;Think about this: While banks chase traditional finance, Intuit built something stealthier but potentially more valuable: the most comprehensive small business data ecosystem in America.&lt;/p&gt;
 &lt;p&gt;The proof is in their empire:
@@ -488,13 +488,13 @@
         </item>
         <item>
         <title>Path to CTO</title>
-        <link>http://localhost:1313/p/path-to-cto/</link>
+        <link>https://obicho.github.io/p/path-to-cto/</link>
         <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/path-to-cto/</guid>
-        <description>&lt;img src="http://localhost:1313/img/posts/path-to-cto.png" alt="Featured image of post Path to CTO" /&gt;&lt;p&gt;I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path.
+        <guid>https://obicho.github.io/p/path-to-cto/</guid>
+        <description>&lt;img src="https://obicho.github.io/img/posts/path-to-cto.png" alt="Featured image of post Path to CTO" /&gt;&lt;p&gt;I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path.
 Here is an ascii illustration of various possible ways you can become a CTO. It could be useful for someone navigating their career in software technology.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/path-to-cto.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/path-to-cto.png&#34;
 	
 	
 	
@@ -594,10 +594,10 @@ Here is an ascii illustration of various possible ways you can become a CTO. It 
         </item>
         <item>
         <title>Top 10 books for engineering managers</title>
-        <link>http://localhost:1313/p/top-10-books-for-engineering-managers/</link>
+        <link>https://obicho.github.io/p/top-10-books-for-engineering-managers/</link>
         <pubDate>Mon, 24 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/top-10-books-for-engineering-managers/</guid>
+        <guid>https://obicho.github.io/p/top-10-books-for-engineering-managers/</guid>
         <description>&lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The Mythical Man Month&lt;/a&gt;&lt;/li&gt;
@@ -624,10 +624,10 @@ Here is an ascii illustration of various possible ways you can become a CTO. It 
         </item>
         <item>
         <title>Deep fake videos used to defraud</title>
-        <link>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</link>
+        <link>https://obicho.github.io/p/deep-fake-videos-used-to-defraud/</link>
         <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/deep-fake-videos-used-to-defraud/</guid>
+        <guid>https://obicho.github.io/p/deep-fake-videos-used-to-defraud/</guid>
         <description>&lt;p&gt;Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.&lt;/p&gt;
 &lt;p&gt;We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.&lt;/p&gt;
 &lt;p&gt;Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview. So we had to do a voice call instead. Since it was during the pandemic, nobody was being flown in for a face-to-face interview.&lt;/p&gt;
@@ -642,10 +642,10 @@ Here is an ascii illustration of various possible ways you can become a CTO. It 
         </item>
         <item>
         <title>Career planning, or not</title>
-        <link>http://localhost:1313/p/career-planning-or-not/</link>
+        <link>https://obicho.github.io/p/career-planning-or-not/</link>
         <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/career-planning-or-not/</guid>
+        <guid>https://obicho.github.io/p/career-planning-or-not/</guid>
         <description>&lt;p&gt;The amazing thing about meeting people in tech is that you can put people in two camps. The first camp is the founder type: they have a strong vision and want to build something to change the world. You can feel the energy blasting from every cell when they speak.&lt;/p&gt;
 &lt;p&gt;People in the second camp are professionals. They work for wonderful corporations and they are masters in what they do. Every step of the way, they work hard to build their career. They are proud of their accomplishments and capabilities. They get paid well doing it.&lt;/p&gt;
 &lt;p&gt;People in the 1st camp sometimes complained: did I spend too much time on my business that I am forgetting everything else? Like family and personal hobby?&lt;/p&gt;
@@ -656,10 +656,10 @@ Here is an ascii illustration of various possible ways you can become a CTO. It 
         </item>
         <item>
         <title>A hacker walks away with $47M legally while a CISO is convicted for doing his job</title>
-        <link>http://localhost:1313/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
+        <link>https://obicho.github.io/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
         <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
+        <guid>https://obicho.github.io/p/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
         <description>&lt;p&gt;A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.&lt;/p&gt;
 &lt;p&gt;News headline #1: Oct 5th 2022&lt;/p&gt;
 &lt;blockquote&gt;
@@ -673,10 +673,10 @@ Here is an ascii illustration of various possible ways you can become a CTO. It 
         </item>
         <item>
         <title>Bye bye, personal privacy</title>
-        <link>http://localhost:1313/p/bye-bye-personal-privacy/</link>
+        <link>https://obicho.github.io/p/bye-bye-personal-privacy/</link>
         <pubDate>Tue, 18 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/bye-bye-personal-privacy/</guid>
+        <guid>https://obicho.github.io/p/bye-bye-personal-privacy/</guid>
         <description>&lt;p&gt;It is hard to stop devices tracking humans. Devices are everywhere, whether you want it or not.&lt;/p&gt;
 &lt;p&gt;If you use a phone, you are going to get tracked.&lt;/p&gt;
 &lt;p&gt;If you use Alexa, you are going to get tracked.&lt;/p&gt;
@@ -693,10 +693,10 @@ Here is an ascii illustration of various possible ways you can become a CTO. It 
         </item>
         <item>
         <title>Myths about data scientists</title>
-        <link>http://localhost:1313/p/myths-about-data-scientists/</link>
+        <link>https://obicho.github.io/p/myths-about-data-scientists/</link>
         <pubDate>Mon, 17 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/myths-about-data-scientists/</guid>
+        <guid>https://obicho.github.io/p/myths-about-data-scientists/</guid>
         <description>&lt;h3 id=&#34;you-can-manage-data-scientists-like-you-manage-software-developers&#34;&gt;You can manage data scientists like you manage software developers.
 &lt;/h3&gt;&lt;p&gt;I made the mistake of assigning story points on tasks for data scientists to work on. That didn&amp;rsquo;t work at all. Data scientists do not work well in those capacities. They are better suited in applying themselves to experiments. That means setting up a hypothesis and figuring out if it is true or false.&lt;/p&gt;
 &lt;h3 id=&#34;data-scientists-dont-need-to-be-a-business-domain-expert&#34;&gt;Data scientists don’t need to be a business domain expert.
@@ -713,10 +713,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Startup, totally distributed</title>
-        <link>http://localhost:1313/p/startup-totally-distributed/</link>
+        <link>https://obicho.github.io/p/startup-totally-distributed/</link>
         <pubDate>Fri, 14 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/startup-totally-distributed/</guid>
+        <guid>https://obicho.github.io/p/startup-totally-distributed/</guid>
         <description>&lt;p&gt;Lately I noticed many startups operate in a totally distributed fashion. They don’t have an office. Founders / founding team live in different city / state / country. Their funding comes from VCs and angel investors in different city / state / country. They are on Zoom a lot. They meet once a quarter or year for a team building event. When possible, they outsource non-core competencies to a third party.&lt;/p&gt;
 &lt;p&gt;However, they all have a physical address or a PO box. That’s their last tether to the old world.&lt;/p&gt;
 &lt;p&gt;Is it possible to remove that tether? Not even a DAO (Decentralized Autonomous Organization) can remove that tether. Would be interesting to see how this develops.&lt;/p&gt;
@@ -724,10 +724,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Git and blockchain</title>
-        <link>http://localhost:1313/p/git-and-blockchain/</link>
+        <link>https://obicho.github.io/p/git-and-blockchain/</link>
         <pubDate>Thu, 13 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/git-and-blockchain/</guid>
+        <guid>https://obicho.github.io/p/git-and-blockchain/</guid>
         <description>&lt;p&gt;Both git and blockchain share the same DNA; they are all built on top of a data structure called Merkle Tree.&lt;/p&gt;
 &lt;p&gt;A Merkle tree is a tree structure where each node of the tree has an identifier that&amp;rsquo;s the hash of its contents&lt;/p&gt;
 &lt;p&gt;Git is used by software developers around the world to work distributedly so that collaboration among them becomes manageable.This technology is widely adopted, is indispensable and has a good reputation.&lt;/p&gt;
@@ -737,10 +737,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Tech hubs in South America</title>
-        <link>http://localhost:1313/p/tech-hubs-in-south-america/</link>
+        <link>https://obicho.github.io/p/tech-hubs-in-south-america/</link>
         <pubDate>Wed, 12 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/tech-hubs-in-south-america/</guid>
+        <guid>https://obicho.github.io/p/tech-hubs-in-south-america/</guid>
         <description>&lt;p&gt;Over the last decade, South America has been a popular place to recruit technology talents. I really enjoy working with technology teams from the region. Its close proximity to US, time zone overlap and a large talent pool are the main reasons why it has worked for me.&lt;/p&gt;
 &lt;p&gt;Here are my favorite places:&lt;/p&gt;
 &lt;h3 id=&#34;mexicos-guadalajara&#34;&gt;Mexico’s Guadalajara
@@ -757,10 +757,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Myths about software engineers</title>
-        <link>http://localhost:1313/p/myths-about-software-engineers/</link>
+        <link>https://obicho.github.io/p/myths-about-software-engineers/</link>
         <pubDate>Tue, 11 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/myths-about-software-engineers/</guid>
+        <guid>https://obicho.github.io/p/myths-about-software-engineers/</guid>
         <description>&lt;h3 id=&#34;they-are-super-opinionated&#34;&gt;They are super opinionated.
 &lt;/h3&gt;&lt;p&gt;An engineer who likes to apply one particular technology on every problem is not a good engineer. They are just being opinionated for no good reason. A good engineer would look at the problem, analyze it and then find the best solution (tools, programming language, etc). Experienced engineers would definitely have an opinion about different technologies but they would never enforce.&lt;/p&gt;
 &lt;h3 id=&#34;they-are-difficult-to-work-with&#34;&gt;They are difficult to work with.
@@ -775,10 +775,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>A smarter crosswalk</title>
-        <link>http://localhost:1313/p/a-smarter-crosswalk/</link>
+        <link>https://obicho.github.io/p/a-smarter-crosswalk/</link>
         <pubDate>Mon, 10 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/a-smarter-crosswalk/</guid>
+        <guid>https://obicho.github.io/p/a-smarter-crosswalk/</guid>
         <description>&lt;p&gt;Crosswalks have been around a long time but they don’t ever change. I closely observed one today. There is a sign that says ‘Push button for Pedestrian Crossing’. And then, there is a countdown signal forever pestering people to walk faster.&lt;/p&gt;
 &lt;p&gt;I think this is very dated. With Tesla able to autopilot itself today, I am sure the technology exists for sensors and cameras to detect the presence of pedestrians.&lt;/p&gt;
 &lt;p&gt;How about we innovate this thing inside out? Instead of needing to press a button, let’s use a sensor to activate traffic lights. This will be particularly helpful for those that cannot see or on a wheelchair. Sometimes, parents walking with children could potentially take longer to cross therefore the countdown timer should be able to accommodate for those scenarios. There should also be warning signs beaming at cars that are going too fast.&lt;/p&gt;
@@ -787,10 +787,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Time is of the essence</title>
-        <link>http://localhost:1313/p/time-is-of-the-essence/</link>
+        <link>https://obicho.github.io/p/time-is-of-the-essence/</link>
         <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/time-is-of-the-essence/</guid>
+        <guid>https://obicho.github.io/p/time-is-of-the-essence/</guid>
         <description>&lt;p&gt;Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)&lt;/p&gt;
 &lt;p&gt;Think about that for a second.&lt;/p&gt;
 &lt;p&gt;It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.&lt;/p&gt;
@@ -800,20 +800,20 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Real Estate Agent Moms (dads)</title>
-        <link>http://localhost:1313/p/real-estate-agent-moms-dads/</link>
+        <link>https://obicho.github.io/p/real-estate-agent-moms-dads/</link>
         <pubDate>Thu, 06 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/real-estate-agent-moms-dads/</guid>
+        <guid>https://obicho.github.io/p/real-estate-agent-moms-dads/</guid>
         <description>&lt;p&gt;Being a real estate agent has always been a good option for people who want to generate income while maintaining a flexible schedule. Often, they only work on weekends to show houses and then at night, after kids go to sleep, they would write up the contracts. During the week, they socialize and meet people physically. Agents too invest time on digital campaigns over emails and social media to bring about awareness. Robert Reffkin, the founder and CEO of Compass, started his company precisely because of his mom who single-handedly raised him while she made a living as a real estate agent. Many neighborhood moms (and dads) who like this type of opportunity do the same today.&lt;/p&gt;
 &lt;p&gt;In my mind, being an agent is sustainable entrepreneurship. Agents are not looking for that 30x return from going to IPO. Agents are after the commission money, which is realistic and practical. The best part – there is time to focus on something else – such as family – so that you are spreading your risk and living a balanced lifestyle.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Crumbling infrastructure in America</title>
-        <link>http://localhost:1313/p/crumbling-infrastructure-in-america/</link>
+        <link>https://obicho.github.io/p/crumbling-infrastructure-in-america/</link>
         <pubDate>Wed, 05 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/crumbling-infrastructure-in-america/</guid>
+        <guid>https://obicho.github.io/p/crumbling-infrastructure-in-america/</guid>
         <description>&lt;p&gt;This summer we took Amtrak from Los Angeles to San Francisco. What was supposed to be a joyful, scenic ride turned out to be a laborious trip. The train ride going north took 10 hours. Although we had bought tickets online, it was not clear to me why we were only assigned seats once we boarded the train. The conductor scanned the barcode on my ticket, and, assuming the ticket was valid, placed a little slip of paper above my seat that indicated what stop we were getting off at. This is how things were 50 years ago and things have not changed much since then. The ride returning to Los Angeles took even longer – nearly 12 hours – with no wifi and nothing good to eat and nothing much to do.&lt;/p&gt;
 &lt;p&gt;I don’t want to be whining all day about this trip but it is evident that something is amiss here. What happened to America’s infrastructure? Today, the fastest high-speed rail in the world belongs to China where trains can travel at a maximum speed of 220 miles per hour! Even high-speed rail trains in Japan and Europe are very enjoyable to ride and fairly fast as well.&lt;/p&gt;
 &lt;p&gt;Is there room for disruption? I 120% believe that to be true. I think the biggest problem is the monopolistic attitude coming from the U.S. government. At the end of the day, this is a quasi-public corporation. For them, there is always a desire to save costs and public employees’ jobs are secured. There is very little reason for them to change the status quo.&lt;/p&gt;
@@ -823,10 +823,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Spicy duck tongue and stinky tofu</title>
-        <link>http://localhost:1313/p/spicy-duck-tongue-and-stinky-tofu/</link>
+        <link>https://obicho.github.io/p/spicy-duck-tongue-and-stinky-tofu/</link>
         <pubDate>Tue, 04 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/spicy-duck-tongue-and-stinky-tofu/</guid>
+        <guid>https://obicho.github.io/p/spicy-duck-tongue-and-stinky-tofu/</guid>
         <description>&lt;p&gt;Before the pandemic, shopping for groceries used to be a giant production for my family. Every weekend, we would set aside a few hours, load our kids into our car, bring our shopping bags, pick some groceries at a local supermarket, bag everything, drive home, unload everything from the car, etc. And, repeat all over the following weekend. &lt;em&gt;Argh!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Then, came the pandemic, and everything changed!&lt;/p&gt;
 &lt;p&gt;Instacart and other grocery shopping startups really started to enjoy a boom because nobody was going out. Many supermarkets started grocery delivery services too on their own. Ethnic food delivery startup, Weee!, raised some $400 million at $4 billion valuation in early 2022. Christmas came early for grocery delivery tech startups.&lt;/p&gt;
@@ -844,10 +844,10 @@ apply intuition, pay attention to every aspect of your data set and explain ever
         </item>
         <item>
         <title>Cybersecurity at Uber (or lack thereof) and Be Like Water</title>
-        <link>http://localhost:1313/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</link>
+        <link>https://obicho.github.io/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</link>
         <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</guid>
+        <guid>https://obicho.github.io/p/cybersecurity-at-uber-or-lack-thereof-and-be-like-water/</guid>
         <description>&lt;p&gt;Recently, Uber had a major cybersecurity incident. The hacker was able to gain access to everything, including their Amazon Web Service administrator account. This could have been really bad. Given Uber’s revenue was $17 billion (with a &lt;em&gt;B&lt;/em&gt;) in 2021, that means – $48 million worth of revenue would have been lost a day if the hacker had shut the servers down! Imagine all those Uber drivers not being able to drive and everyday passengers getting stuck everywhere.&lt;/p&gt;
 &lt;p&gt;Unfortunately, cybersecurity defenses are not infallible. You can have all the firewalls, virtual private networks, two factor authentication tools and other security mechanisms in the world but you are still going to fail. Why? The weakest link is always human.&lt;/p&gt;
 &lt;p&gt;A good cybersecurity program must be quick to adapt. I like to use Bruce Lee’s “Be like Water” philosophy to help think through this.&lt;/p&gt;
@@ -868,10 +868,10 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>CEO of tomorrow</title>
-        <link>http://localhost:1313/p/ceo-of-tomorrow/</link>
+        <link>https://obicho.github.io/p/ceo-of-tomorrow/</link>
         <pubDate>Thu, 29 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/ceo-of-tomorrow/</guid>
+        <guid>https://obicho.github.io/p/ceo-of-tomorrow/</guid>
         <description>&lt;p&gt;What percentage of Y Combinator founders are technical?&lt;/p&gt;
 &lt;p&gt;Nobody really keeps track of this data. I looked. However, based on my research, it seems that typically at least one co-founder is more on the technical side within a startup. Anecdotally, I happen to know quite a few co-founders who are engineers by training and got funding from Mucker Capital.&lt;/p&gt;
 &lt;p&gt;As more businesses become accessible online, it is almost impossible to ignore the fact that a person with a technical background is better suited to run a company.&lt;/p&gt;
@@ -889,12 +889,12 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>AI drew Steve Jobs eating sushi</title>
-        <link>http://localhost:1313/p/ai-drew-steve-jobs-eating-sushi/</link>
+        <link>https://obicho.github.io/p/ai-drew-steve-jobs-eating-sushi/</link>
         <pubDate>Wed, 28 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/ai-drew-steve-jobs-eating-sushi/</guid>
+        <guid>https://obicho.github.io/p/ai-drew-steve-jobs-eating-sushi/</guid>
         <description>&lt;p&gt;Today I use an AI tool to draw a picture of Steve Jobs eating sushi. This is what I got:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/steve-jobs-eating-sushi-ai.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/steve-jobs-eating-sushi-ai.png&#34;
 	
 	
 	
@@ -910,10 +910,10 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>Control freak</title>
-        <link>http://localhost:1313/p/control-freak/</link>
+        <link>https://obicho.github.io/p/control-freak/</link>
         <pubDate>Tue, 27 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/control-freak/</guid>
+        <guid>https://obicho.github.io/p/control-freak/</guid>
         <description>&lt;p&gt;Lately, admin panel seems to be a recurring theme in my life. I had a discussion with someone at a startup about which one to use.&lt;/p&gt;
 &lt;p&gt;Needless to say, there is plenty of options in the market place &amp;ndash; everything from home brew custom solution to managed services to low-code platforms. Stuff like this obviously requires some research before any commitment. Since the company needing this is a very early stage startup. I proposed a drag-and-drop low-code editor with a plethora of pre-built components to build internal CRUD (create, read, update, delete) app. It is a market leader in the space and is quite scalable.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the person I proposed to did not agree. His main reason was that a custom solution would be able to provide more control.&lt;/p&gt;
@@ -925,10 +925,10 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>An omakase sushi chef and a software engineer</title>
-        <link>http://localhost:1313/p/an-omakase-sushi-chef-and-a-software-engineer/</link>
+        <link>https://obicho.github.io/p/an-omakase-sushi-chef-and-a-software-engineer/</link>
         <pubDate>Mon, 26 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/an-omakase-sushi-chef-and-a-software-engineer/</guid>
+        <guid>https://obicho.github.io/p/an-omakase-sushi-chef-and-a-software-engineer/</guid>
         <description>&lt;p&gt;Lately, I have been watching Michelin star sushi chefs on Youtube preparing fish for serving &lt;em&gt;omakase&lt;/em&gt; behind a sushi bar. If you&amp;rsquo;re looking for a more traditional sushi restaurant experience, &lt;em&gt;omakase&lt;/em&gt; is the way to go. You&amp;rsquo;ll be seated at the sushi bar in front of the chef, so you can easily chat and watch as your meal is made. The chef will also likely share stories and insights about their career, adding to the overall atmosphere.&lt;/p&gt;
 &lt;p&gt;It dawned on me that a 10x software engineer is not too different from a Michelin star sushi chef.&lt;/p&gt;
 &lt;p&gt;A 10x software engineer would make sure that the coding environment is optimized so that best code can be written efficiently. This means the linting is there, debugger is available, etc. This is akin to a sushi chef setting up his work station, preparing his &lt;em&gt;nori&lt;/em&gt;, sharpening the knives to be used at a sushi bar.&lt;/p&gt;
@@ -939,10 +939,10 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>Asking for feedback</title>
-        <link>http://localhost:1313/p/asking-for-feedback/</link>
+        <link>https://obicho.github.io/p/asking-for-feedback/</link>
         <pubDate>Sun, 25 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/asking-for-feedback/</guid>
+        <guid>https://obicho.github.io/p/asking-for-feedback/</guid>
         <description>&lt;p&gt;Often times, my direct reports ask for my feedback. It could be for a 1-on-1, a performance review or just a sync. Sometimes, I find it stifling though. Feedback sounds overpowering and very top down.&lt;/p&gt;
 &lt;p&gt;I love giving feedback but what I love more is having a conversation. Conversation implies there is no judgement. It is a two-way discussion. From a manager&amp;rsquo;s point of view, it gives others the freedom to express.&lt;/p&gt;
 &lt;p&gt;And that&amp;rsquo;s priceless.&lt;/p&gt;
@@ -950,10 +950,10 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>Hacking your tech career</title>
-        <link>http://localhost:1313/p/hacking-your-tech-career/</link>
+        <link>https://obicho.github.io/p/hacking-your-tech-career/</link>
         <pubDate>Sat, 03 Sep 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/hacking-your-tech-career/</guid>
+        <guid>https://obicho.github.io/p/hacking-your-tech-career/</guid>
         <description>&lt;p&gt;&lt;em&gt;Some time in spring this year, I went to UCLA to recruit interns. While I was there, I gave a talk which ended up attracting quite a few interns working with me. Some people really enjoyed the talk so I decided to clean up my notes and publish them here. Hopefully, you will find it useful, too.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;The Origin:&lt;/p&gt;
@@ -996,12 +996,12 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>The Wire China Interview: About Beijing startup scene</title>
-        <link>http://localhost:1313/p/the-wire-china-interview-about-beijing-startup-scene/</link>
+        <link>https://obicho.github.io/p/the-wire-china-interview-about-beijing-startup-scene/</link>
         <pubDate>Thu, 26 May 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/the-wire-china-interview-about-beijing-startup-scene/</guid>
+        <guid>https://obicho.github.io/p/the-wire-china-interview-about-beijing-startup-scene/</guid>
         <description>&lt;h4 id=&#34;media-interview&#34;&gt;Media Interview
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/wirechinacover.jpg&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/wirechinacover.jpg&#34;
 	
 	
 	
@@ -1015,23 +1015,23 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
     &gt;article&lt;/a&gt; in &lt;a class=&#34;link&#34; href=&#34;https://www.thewirechina.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The Wire China&lt;/a&gt; about my Beijing startup &lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/essays/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;experience&lt;/a&gt; in 2015.&lt;/p&gt;
-&lt;p&gt;Read the full article &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/img/posts/Chinas-Innovation-Renovation--The-Wire-China.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read the full article &lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/img/posts/Chinas-Innovation-Renovation--The-Wire-China.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://obicho.github.io/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://obicho.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Preparing for a career in fintech: A conversation with Cho-Nan Tsai, a Fintech CTO</title>
-        <link>http://localhost:1313/p/preparing-for-a-career-in-fintech-a-conversation-with-cho-nan-tsai-a-fintech-cto/</link>
+        <link>https://obicho.github.io/p/preparing-for-a-career-in-fintech-a-conversation-with-cho-nan-tsai-a-fintech-cto/</link>
         <pubDate>Tue, 27 Jul 2021 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/preparing-for-a-career-in-fintech-a-conversation-with-cho-nan-tsai-a-fintech-cto/</guid>
+        <guid>https://obicho.github.io/p/preparing-for-a-career-in-fintech-a-conversation-with-cho-nan-tsai-a-fintech-cto/</guid>
         <description>&lt;p&gt;I recently gave an interview on the topic of career preparation in fintech. The interview was conducted by Trilogy Education Service which is the company that&amp;rsquo;s running Fintech Bootcamp program at Columbia Unviersity. The entire interview is &lt;a class=&#34;link&#34; href=&#34;https://bootcamp.cvn.columbia.edu/blog/cho-nan-tsai-preparing-for-a-fintech-career/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The article/interview was published in summer 2021 on &lt;em&gt;Columbia Engineering School Bootcamp Program website&lt;/em&gt;&lt;/p&gt;
@@ -1039,10 +1039,10 @@ Even toughest rocks can crack through repeated hitting. However, when you hit oc
         </item>
         <item>
         <title>Open Letter: Reflecting on the recruiting event at Caltech</title>
-        <link>http://localhost:1313/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</link>
+        <link>https://obicho.github.io/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</link>
         <pubDate>Mon, 14 Oct 2019 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</guid>
+        <guid>https://obicho.github.io/p/open-letter-reflecting-on-the-recruiting-event-at-caltech/</guid>
         <description>&lt;p&gt;Hello Team,&lt;/p&gt;
 &lt;p&gt;Today we had a recruiting event at Caltech (&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/California_Institute_of_Technology&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://en.wikipedia.org/wiki/California_Institute_of_Technology&lt;/a&gt;) and I was humbled by the experience.&lt;/p&gt;
@@ -1067,10 +1067,10 @@ Thank you.&lt;/p&gt;
         </item>
         <item>
         <title>Transformation</title>
-        <link>http://localhost:1313/p/transformation/</link>
+        <link>https://obicho.github.io/p/transformation/</link>
         <pubDate>Thu, 26 Sep 2019 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/transformation/</guid>
+        <guid>https://obicho.github.io/p/transformation/</guid>
         <description>&lt;p&gt;&lt;em&gt;A message sent through Slack to the team announcing an internship graduation&lt;/em&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A long long time ago, there was a boy who wasn’t fortunate in his career. After graduating from college, he had been in transition a few times, working on stuff that was neither meaningful nor rewarding.&lt;/p&gt;
@@ -1086,10 +1086,10 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
         </item>
         <item>
         <title>Feedback to Columbia Magazine on the Cyberwarfare article</title>
-        <link>http://localhost:1313/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</link>
+        <link>https://obicho.github.io/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</link>
         <pubDate>Sat, 13 Jul 2019 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</guid>
+        <guid>https://obicho.github.io/p/feedback-to-columbia-magazine-on-the-cyberwarfare-article/</guid>
         <description>&lt;p&gt;I have been reading &lt;a class=&#34;link&#34; href=&#34;https://magazine.columbia.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;em&gt;Columbia Magazine&lt;/em&gt;&lt;/a&gt; for years but this is the first time I have written a feedback to its editor. It was my reaction to a rather interesting interview with &lt;a class=&#34;link&#34; href=&#34;https://sipa.columbia.edu/faculty-research/faculty-directory/jason-healey&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Jason Healy&lt;/a&gt;, a senior researcher Scholar at Columbia | SIPA (where I spent many hours studying in its library during my undergrad years). The entire interview is &lt;a class=&#34;link&#34; href=&#34;https://magazine.columbia.edu/article/age-cyberwarfare&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -1103,7 +1103,7 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
 &lt;p&gt;Cho-Nan Michael Tsai SEAS &amp;lsquo;01&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;Feedback was published in Fall 2019 &lt;em&gt;Columbia Magazine&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/article-feedback.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/article-feedback.png&#34;
 	
 	
 	
@@ -1117,13 +1117,13 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
         </item>
         <item>
         <title>How a fintech company ended up next to Skid Row</title>
-        <link>http://localhost:1313/p/how-a-fintech-company-ended-up-next-to-skid-row/</link>
+        <link>https://obicho.github.io/p/how-a-fintech-company-ended-up-next-to-skid-row/</link>
         <pubDate>Sat, 01 Sep 2018 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/how-a-fintech-company-ended-up-next-to-skid-row/</guid>
+        <guid>https://obicho.github.io/p/how-a-fintech-company-ended-up-next-to-skid-row/</guid>
         <description>&lt;p&gt;&lt;em&gt;A sickly-looking man, walking like a zombie, crossed my path in the middle of the road as I drove through Skid Row to get to office. While waiting for him to pass, I looked to the left and only to find more disturbing scenes: a few homeless people in a tent shooting drugs up their arms and a soup kitchen filled with people whose despair-stricken eyes were staring right back at me.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;But it didn’t matter. I parked my car and went straight to work.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/homeless.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/homeless.jpg&#34;
 	
 	
 	
@@ -1148,10 +1148,10 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
     &gt;approach&lt;/a&gt; with a startup in Beijing.&lt;/p&gt;
 &lt;p&gt;So, does that mean you should not get your own space? NO! The problem with not graduating from these co-working space is that things become more complex with a larger team. Under these circumstances, you would need to be really good at controlling your company image, organizing your team around the given space and ensuring computer servers and equipment sit properly behind YOUR OWN firewall. All these things would be immensely harder to manage if you were to work within the confines of a co-working space (I mean, you could do it but you would need to shell out big bucks to pay the co-working company so that they can customize things for you). Therefore, it still makes sense to do some research to find your own space eventually.&lt;/p&gt;
 &lt;h4 id=&#34;having-your-own-office-is-a-dream-come-true&#34;&gt;Having your own office is a dream come true
-&lt;/h4&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/img/posts/officefront.png&#34; alt=&#34;Camino Financial&#39;s loft office&#34; /&gt;
+&lt;/h4&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;https://obicho.github.io/img/posts/officefront.png&#34; alt=&#34;Camino Financial&#39;s loft office&#34; /&gt;
 &lt;p&gt;Office Front&lt;/p&gt;
 &lt;hr&gt;
-&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/img/posts/nearby.jpg&#34; alt=&#34;shops nearby&#34; /&gt;
+&lt;img class=&#34;img-fluid&#34; src=&#34;https://obicho.github.io/img/posts/nearby.jpg&#34; alt=&#34;shops nearby&#34; /&gt;
 &lt;p&gt;View from coffee shop &lt;em&gt;No Ghost Bears&lt;/em&gt; nearby&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A major consideration would be affordability. We just went through this exercise and this was how we did it. During our initial search, we reviewed properties in LA tech hubs. We balked at the idea of paying high rents at prime estates at some of these places (Venice, Santa Monica and Pasadena). We needed to have a flexible space which we could expand if we needed to. After searching high and low, we ended up looking at downtown Los Angeles. There is a diverse choice of real estates to choose from; major banks and big firms are typically in the high rises on the west, homeless shelters and soup kitchens on the east (Skid Row) and lofts for young, creative people nestled in between. After doing a little shopping, we settled for something next to Skid Row and it turned out to be wonderful!&lt;/p&gt;
@@ -1165,16 +1165,16 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
         </item>
         <item>
         <title>A CTO&#39;s internship program out of a Los Angeles Startup</title>
-        <link>http://localhost:1313/p/a-ctos-internship-program-out-of-a-los-angeles-startup/</link>
+        <link>https://obicho.github.io/p/a-ctos-internship-program-out-of-a-los-angeles-startup/</link>
         <pubDate>Wed, 13 Dec 2017 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/a-ctos-internship-program-out-of-a-los-angeles-startup/</guid>
+        <guid>https://obicho.github.io/p/a-ctos-internship-program-out-of-a-los-angeles-startup/</guid>
         <description>&lt;p&gt;In 1999 while still a sophomore in college, I was given a chance that completely changed the course of my life. I met Kaoru Hayashi, the CEO and co-founder of a Tokyo tech startup called Digital Garage (now a publicly traded company in Japan) and he offered me a 3-month internship at his startup in Tokyo. Till this date, I still cherish every moment of that internship experience - learning how to code for the first time in Python and Zope, being exposed to open source technologies, meeting up with Joi Ito (then an entrepreneur, now a director at MIT Media Lab), supporting a live web coverage at Fuji Rock concert, hanging out with cool Tokyo teenagers and more. Had I not taken this internship, today I would probably be sitting in a cubicle instead of running a startup. Looking back, it was definitely something I would never trade anything for.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Today, as a CTO of a financial services startup, I am replicating that experience through Camino Financial&amp;rsquo;s Engineering Internship Program. In Los Angeles, there is a diverse pool of talents from all walks of life. There is also a healthy tech startup eco-system: a great network of local venture capitalists plus world-class universities nearby. What these young talents are missing is an opportunity to prove themselves in a real world professional environment. I want to create an internship program specifically for young people with little or no background in computer science. The idea is to expose them to real world software projects while completing a rigorous curriculum covering major computer science topics. The best part is that this is a paid internship program so interns can make some money and gain experience while having fun and picking up new skills.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;So far we have some success with this and this is how we cracked the code.&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&#34;an-ideal-profile-for-ourintern&#34;&gt;An Ideal Profile for Our Intern
-&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/jedi.png&#34;
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/jedi.png&#34;
     alt=&#34;Training to become a programming jedi&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Training to become a programming jedi!&lt;/h4&gt;&lt;p&gt;Training to become a programming jedi&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1182,7 +1182,7 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
 
 &lt;p&gt;We open our door to everyone who is passionate about coding and software. Experience is secondary and not necessary, but definitely great to have. Another thing we look for is a deep appreciation in applying technology to solve problems in the lending space. Having an open mind and ability to work under pressure at a startup are some of the important qualities we look for.&lt;/p&gt;
 &lt;h4 id=&#34;hiring-kickoff&#34;&gt;Hiring kick off
-&lt;/h4&gt;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/delight.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/delight.png&#34;
     alt=&#34;Programming delight&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Programming delight&lt;/h4&gt;&lt;p&gt;Programming delight&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1190,20 +1190,20 @@ Welcome to the family, @[CENSORED]&lt;/p&gt;
 
 When we published our first summer internship program online, we received a lot of responses from students in California. Most applicants were from around Los Angeles but quite a number also lived out of state. Receiving an overwhelming number of responses was of course exciting but sifting through this many applicants was no easy feat. We first did a phone screening for those that might be a good fit, we would then send them programming assignments if they seem solid. These were very easy assignments to test applicants understanding of Python, Django and Git. Even though the assignment itself was not hard, many applications did not complete the assignment within the allotted timeframe. In a way, this worked out because it saved us a lot of time in getting to the really motivated people.&lt;/p&gt;
 &lt;p&gt;We then invited these candidates to our office for an in-person interview. Sometimes, we would give more programming assignments for candidates to do and other times we would try to have candidates meet as many of our full-time staff as possible. What follows would be an internal selection process that mimics &amp;lsquo;America Got Talent&amp;rsquo; or &amp;lsquo;American Idol&amp;rsquo; - a discussion (and sometimes debate) and a voting process follow suit to pick an intern. Once a decision had been made, the candidates would usually begin the internship program in 2 weeks.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/star.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/star.gif&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Funny to say, we met some very interesting candidates along the way. Some people were super enthusiastic in the beginning but then disappeared into the wind as soon as they saw the assignment. Some attempted the assignment but struggled to finish - and gave a ton of reason for not being able to finish (e.g. problem with cars, apartment, moving, friends, family, etc). People who did well on the assignment did not necessarily mean they would do well for the in-person interview. Main reason for disqualifying was chemistry mismatch. We had one candidate who came in but lied about their resume. That left a bad taste for sure.&lt;/p&gt;
 &lt;h4 id=&#34;interns-balancing-work-andstudy&#34;&gt;Interns Balancing Work and Study
 &lt;/h4&gt;&lt;p&gt;The execution focus of our program was to provide on-the-job-training for our interns while interns took online courses in computer science from renowned colleges . In a typical week, an intern would participate in our sprints and do tasks from actual projects. They would work closely with our full-time staff and become acquainted with our tech stack and processes. On top of that, we would also arrange trips to attend tech conventions/training and visit to other tech companies in the area. Aside from office work, they would complete the assigned online classes at their own pace. It&amp;rsquo;s an honor system so there would be no need for assignment submission. However, we would regularly give short midterms and finals to see if our interns are absorbing the material. All in all, it&amp;rsquo;s a rather busy schedule!&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/byoc.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/byoc.gif&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;On the other hand, the philosophy behind the program was to actually test the limits of those that come through our door. A startup environment is absolutely not for everyone and we need to know if a candidate would be a good fit. Some unconventional methods we apply: we would allow our interns to have access to production systems and make them responsible for live deployments. We would also throw them into hot fire when bugs become rampant. We&amp;rsquo;d also allow them to interface with our 3rd party vendors to follow up issues. We&amp;rsquo;d also give them freedom to pick tools they&amp;rsquo;d like to work with to solve problems at hand. Most importantly, we make our candidates accountable for the quality of their work at the company. Needless to say, we would praise and reprimand accordingly.&lt;/p&gt;
 &lt;h4 id=&#34;challenges-of-the-internship-program&#34;&gt;Challenges of the Internship Program
 &lt;/h4&gt;&lt;p&gt;The biggest risk is of our program is identifying a suitable candidate from the get-go. This is basically a judgement of character and talent potential based on the initial interactions such as testing, interviews and so on. However, it is not always easy so there is a bit of luck involved here.&lt;/p&gt;
 &lt;p&gt;The other main challenge is the ability of our interns to take on pressure in a startup environment. Every week there is something. I can&amp;rsquo;t remember a week goes by without any production or IT issue of some sort. There are also staff issues which can be tough to deal with. Interns themselves also have personal matters to take care of. Everything happening at once can be overwhelming, leaving people to quit half way.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/challenges.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/challenges.gif&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Program duration is also an important consideration. Too short - your startup risks bringing on inexperienced people full time too soon. Too long - your intern may find opportunities elsewhere. Finding the right duration is an outcome of trial and error. This depends a lot on the startup and the reward structure itself.&lt;/p&gt;
@@ -1221,17 +1221,17 @@ When we published our first summer internship program online, we received a lot 
         </item>
         <item>
         <title>A CTO’s Startup Journey in Beijing Zhongguancun Science Park</title>
-        <link>http://localhost:1313/p/a-ctos-startup-journey-in-beijing-zhongguancun-science-park/</link>
+        <link>https://obicho.github.io/p/a-ctos-startup-journey-in-beijing-zhongguancun-science-park/</link>
         <pubDate>Thu, 03 Dec 2015 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/a-ctos-startup-journey-in-beijing-zhongguancun-science-park/</guid>
+        <guid>https://obicho.github.io/p/a-ctos-startup-journey-in-beijing-zhongguancun-science-park/</guid>
         <description>&lt;p&gt;After 10+ hours of flight, I finally arrived in Beijing.&lt;/p&gt;
 &lt;p&gt;The invitation was hard to resist. The opportunity to start a new venture in Beijing sounded like an adventure not to be missed. This brought me to Beijing. My other co-founders literally got the keys to our loft that very same day I arrived. I was greeted by my CEO who just dashed in from the hospital as someone in his family had passed away a few hours earlier. When I walked into our loft, the carpet was still wet from cleaning and the room had a moldy and smoky smell. There was a Texas Hold&amp;rsquo;em poker table, a couple of broken office chairs and an old sofa bed. No welcome party of any sort. It was midnight and I was tired - so I just crashed.
 As crazy as it might sound, this is how it got started.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;setting-up&#34;&gt;Setting Up
 &lt;/h4&gt;&lt;p&gt;We set up our office in Zhongguancun Science Park because historically it has been a hub for startups in Beijing. Baidu, 36Kr, and many others all had founded their offices within walking distance from our office. Plenty of investors, VCs and incubators also set up shop there.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/beijingmap.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/beijingmap.png&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;We rented a loft office in ZhongguancunDespite the lack of proper physical infrastructure in our loft, we managed to have a productive first week. We cleaned and decorated our loft. We also added a couple more desks and chairs. Eventually, our work place turned to be nice after some serious efforts.
@@ -1240,7 +1240,7 @@ On the business front, we decided on a name for our service and explored service
 &lt;p&gt;This process took us almost 2 months because we made the mistake of registering our main website domain using a non-China registrar in the beginning. To complete ICP filing procedure, the domain is required to be transferred to a China registrar first. This would have taken weeks. So, to expedite things, we just registered for a new domain name but still the process took a while. Further more, a filing with the Beijing police was also required. Lots of paper work.&lt;/p&gt;
 &lt;p&gt;Choosing a cloud-based web service provider in China was no easy feat. Lots of options. In China, we needed to evaluate performance, reliability and complex pricing structures. In the US, everybody in startup uses AWS so it is no brainer. At the time when we started (early 2015), Amazon just started their service in China and they didn&amp;rsquo;t have a very comprehensive and reliable service. So I looked into other service providers. A few big names are Tencent Cloud , Grand Cloud, uCloud and many more. Eventually, we settled on Alibaba&amp;rsquo;s Aliyun. I got to say that they have copied AWS well; their uptime and other complementary services (site monitoring, database, redundancy, firewall solutions, etc) were decent.&lt;/p&gt;
 &lt;h4 id=&#34;hiring&#34;&gt;Hiring
-&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/kbjteam.jpeg&#34;
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/kbjteam.jpeg&#34;
     alt=&#34;KB Street Team, summer 2015.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;KB Street Team, summer 2015.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1252,7 +1252,7 @@ On the business front, we decided on a name for our service and explored service
 &lt;p&gt;Chinese employees typically don&amp;rsquo;t stick around for very long; on average developers leave or get fired within a year from joining. So companies compete fiercely for talents and poaching is common. To address this, we were constantly collecting resumes and interviewing candidates, even if the positions had been filled. In the beginning, we were informal in our hiring so we brought on some staff without proper screening. This actually led to some major problems for us. So, never hire on a whim. If a Chinese employee is not performing, just let them go fast.&lt;/p&gt;
 &lt;p&gt;Another thing to keep in mind is that if your technology stack consist of relative new technologies, such as React or Meteor, you&amp;rsquo;d have a tough time finding developers. At the end, we picked Nginx, uWSGI, Django, Python, Memcached, MongoDB, MySQL for our backend and Bootstrap for our front end. It was relatively easy to find coders for these technologies. Php is also commonly used in China.&lt;/p&gt;
 &lt;h4 id=&#34;managing-software-development&#34;&gt;Managing software development
-&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/vendors.png&#34;
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/vendors.png&#34;
     alt=&#34;Technology service providers in China&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Technology service providers in China&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1268,7 +1268,7 @@ On the business front, we decided on a name for our service and explored service
 &lt;/h4&gt;&lt;p&gt;Chinese people are extremely hard working. Our team pretty much worked 6-day weeks. We also pulled all-nighters a few times while supporting go-live events and releases. Since most staff we&amp;rsquo;ve hired were in their early 20&amp;rsquo;s, the team was fairly energetic and fun. We hosted an off-site hiking event and organized several karaoke dinner parties. They were fantastic for team building.&lt;/p&gt;
 &lt;p&gt;Chinese employees are a little less direct compared to their Western counterpart. Workers in China don&amp;rsquo;t always voice out their opinion. Sometimes, our staff beat around the bush or told a white lie to express themselves. You&amp;rsquo;d have to listen carefully in order to understand what really is going on.&lt;/p&gt;
 &lt;p&gt;When we got to employee number 15, internal communication started to become a major blocking issue. Office politics and mismanagement between departments started to impact us. Finger-pointing, gossiping and backstabbing almost ruined our office culture. We had to reset by firing almost half the team. It was certainly quite an experience.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/mess.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/mess.jpeg&#34;
     alt=&#34;Mess&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Mess&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1276,14 +1276,14 @@ On the business front, we decided on a name for our service and explored service
 
 &lt;p&gt;One particularly high-ranking employee did not take it well. She used sly tactics to try to derail us. We somehow managed to survive it all because we had connections with someone &amp;ldquo;important&amp;rdquo;. Something like this typically would result in a law suit here in the States. Over there in Beijing, if you know the right people, considered it done.&lt;/p&gt;
 &lt;h4 id=&#34;living-inbeijing&#34;&gt;Living in Beijing
-&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/hotel.jpeg&#34;
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/hotel.jpeg&#34;
     alt=&#34;A tiny, windowless hotel room&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;A tiny, windowless hotel room&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Staying in Beijing can be expensive if not planned well in advance. Last minute hotel reservation sometimes got me just a tiny windowless room with a single bed and 3&amp;rsquo; x 3&amp;rsquo; shower. I also tried China&amp;rsquo;s AirBnb but I didn&amp;rsquo;t have a very good experience. In addition, Beijing is notorious for its bad traffic and air quality. I didn&amp;rsquo;t want to deal with neither so I always stayed close to the office. Unfortunately, real estate is extremely expensive around Zhongguancun so I didn&amp;rsquo;t have a lot of choice. I ended up crashing in the office a lot. Fortunately, I found staying at a 5-story bathhouse club nearby to be enjoyable. They have an enormous indoor jacuzzi, a sauna area and a massage area. I&amp;rsquo;d sleep in a hall with giant reclining sofas. After 11pm, it&amp;rsquo;s really quiet. Last but not least, they offer free bathrobe, tooth brush and slippers. They served buffet 4 times a day so I was also well fed (while wearing my bathrobe). All this for just USD 20 a night (massages not included).&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/bath.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/bath.jpeg&#34;
     alt=&#34;A nice bathhouse in Zhonguancun&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;A nice bathhouse in Zhonguancun&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1294,7 +1294,7 @@ On the business front, we decided on a name for our service and explored service
 &lt;p&gt;Paying and shopping for things in China are relatively convenient if you have Alipay or WeChat set up on your smart phone for payment. I&amp;rsquo;d say China is light years ahead compared to the US when it comes to online payment. Many stores and restaurants accept Alipay or WeChat payment from mobile devices. If you are into saving money, you could always buy prepaid coupons from deals websites or mobile apps such as Dianping, Meituan, Noumi, etc. Sometimes, paying with WeChat or Alipay at POS also would give you discounts. Cash is king but definitely not in these scenarios in China.&lt;/p&gt;
 &lt;h4 id=&#34;on-biz-dev-funding&#34;&gt;On biz dev &amp;amp; funding
 &lt;/h4&gt;&lt;p&gt;To get our name out, we attended a lot of startup competitions and conferences. There is always something going on every week in Zhongguancun. We tried to attend whenever we got a chance in the beginning. After a while, I stopped going because we got really busy. There were a lot of startup projects and the quality varied so much. Some were clones of a popular idea that had worked in the US but with minor variations or adaptation for the Chinese market. Eventually, we just focused on attending the main events. We got to the final round in a Techcrunch competition in Beijing and we were second runner-up for a competition organized by Plug And Play China. Most of these competitions took place in Shanghai, Beijing, Hangzhou and Suzhou. I know there was a lot going on in Chengdu, Shenzhen, Guangzhou but we never went to any of those.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/incubator.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/incubator.jpeg&#34;
     alt=&#34;Chuanyebang, an incubator in Beijing. Brand new office space.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Chuanyebang, an incubator in Beijing. Brand new office space.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1305,7 +1305,7 @@ On the business front, we decided on a name for our service and explored service
 &lt;p&gt;Funding in China is not hard if you can show some potential or profit. We launched our site late April and our VC funding came in (deposited to our bank account) in June. Certainly later rounds do get incredibly harder because you&amp;rsquo;d need to show your KPI trending north. However, I&amp;rsquo;ve heard rumors that IPOs in China aren&amp;rsquo;t difficult to manufacture (I&amp;rsquo;ve also heard similar things in the US, too).&lt;/p&gt;
 &lt;p&gt;Winning startup competitions did help us get noticed. We sometimes had to see 3–4 investors in a day when things got busy. In these meetings, we would talk through our deck. For me, I&amp;rsquo;d explain the technology / secret sauce behind our platform. For my co-founders, they&amp;rsquo;d show the charts and explain the growth potentials. We met representatives pretty much from everywhere: Softbank, Tsinghua Investment group, 36kr, Plug and Play China, etc. We also used funding agencies (FA) to get us intros to investors.&lt;/p&gt;
 &lt;h4 id=&#34;closing&#34;&gt;Closing
-&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/posts/air.jpeg&#34;
+&lt;/h4&gt;&lt;figure&gt;&lt;img src=&#34;https://obicho.github.io/img/posts/air.jpeg&#34;
     alt=&#34;Terrible smog in Beijing&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Terrible smog in Beijing&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1322,23 +1322,23 @@ If you find this article interesting or helpful, please follow me on Twitter.&lt
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://obicho.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://obicho.github.io/about/</guid>
         <description>&lt;p&gt;Cho-Nan Tsai is a seasoned technology entrepreneur in AI and Fintech. He is an expert in AI, machine learning and lending. Earlier in his career, he managed tech projects at Fortune 500 companies such as Sony, Ricoh, McKinsey &amp;amp; Company. He has in-depth experience across verticals such as data, digital advertising, and studio tech. More recently, he was a corporate executive and raised millions of dollars for a number of startups, growing these businesses quickly using technology and multiplying their revenues exponentially year over year. Currently, he is the CEO and President at Hyperionsoft, an AI consulting firm. He graduated with a B.S. degree in Computer Engineering from Columbia University and a M.S. degree in Computer Science from UCLA.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/chonantsai/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;LinkedIn&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/img/about/chonantsai-bw-headshot.jpg&#34; &gt;Headshot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/talks&#34; &gt;Talks, lectures and panels&lt;/a&gt; I have given.&lt;/p&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/img/about/chonantsai-bw-headshot.jpg&#34; &gt;Headshot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://obicho.github.io/talks&#34; &gt;Talks, lectures and panels&lt;/a&gt; I have given.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://obicho.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://obicho.github.io/search/</guid>
         <description></description>
         </item>
         

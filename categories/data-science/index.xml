@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Data Science on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
-        <link>http://localhost:1313/categories/data-science/</link>
+        <link>https://obicho.github.io/categories/data-science/</link>
         <description>Recent content in Data Science on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 17 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/categories/data-science/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 17 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Myths about data scientists</title>
-        <link>http://localhost:1313/p/myths-about-data-scientists/</link>
+        <link>https://obicho.github.io/p/myths-about-data-scientists/</link>
         <pubDate>Mon, 17 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/myths-about-data-scientists/</guid>
+        <guid>https://obicho.github.io/p/myths-about-data-scientists/</guid>
         <description>&lt;h3 id=&#34;you-can-manage-data-scientists-like-you-manage-software-developers&#34;&gt;You can manage data scientists like you manage software developers.
 &lt;/h3&gt;&lt;p&gt;I made the mistake of assigning story points on tasks for data scientists to work on. That didn&amp;rsquo;t work at all. Data scientists do not work well in those capacities. They are better suited in applying themselves to experiments. That means setting up a hypothesis and figuring out if it is true or false.&lt;/p&gt;
 &lt;h3 id=&#34;data-scientists-dont-need-to-be-a-business-domain-expert&#34;&gt;Data scientists don’t need to be a business domain expert.

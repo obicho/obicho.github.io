@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Cryptocurrency on Cho-Nan Tsai 3X CTO media interviews, essays and talks</title>
-        <link>http://localhost:1313/tags/cryptocurrency/</link>
+        <link>https://obicho.github.io/tags/cryptocurrency/</link>
         <description>Recent content in Cryptocurrency on Cho-Nan Tsai 3X CTO media interviews, essays and talks</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 13 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 13 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Git and blockchain</title>
-        <link>http://localhost:1313/p/git-and-blockchain/</link>
+        <link>https://obicho.github.io/p/git-and-blockchain/</link>
         <pubDate>Thu, 13 Oct 2022 00:42:36 -0700</pubDate>
         
-        <guid>http://localhost:1313/p/git-and-blockchain/</guid>
+        <guid>https://obicho.github.io/p/git-and-blockchain/</guid>
         <description>&lt;p&gt;Both git and blockchain share the same DNA; they are all built on top of a data structure called Merkle Tree.&lt;/p&gt;
 &lt;p&gt;A Merkle tree is a tree structure where each node of the tree has an identifier that&amp;rsquo;s the hash of its contents&lt;/p&gt;
 &lt;p&gt;Git is used by software developers around the world to work distributedly so that collaboration among them becomes manageable.This technology is widely adopted, is indispensable and has a good reputation.&lt;/p&gt;

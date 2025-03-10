@@ -6,7 +6,115 @@
         <description>Recent content in Posts on Cho-Nan Tsai on Tech Leadership</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 05 Mar 2025 05:47:30 -0800</lastBuildDate><atom:link href="https://obicho.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 08 Mar 2025 04:01:00 -0800</lastBuildDate><atom:link href="https://obicho.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>I met Nolan Bushnell today</title>
+        <link>https://obicho.github.io/p/i-met-nolan-bushnell-today/</link>
+        <pubDate>Sat, 08 Mar 2025 04:01:00 -0800</pubDate>
+        
+        <guid>https://obicho.github.io/p/i-met-nolan-bushnell-today/</guid>
+        <description>&lt;p&gt;I met Nolan Bushnell today.&lt;/p&gt;
+&lt;p&gt;Just like that. At a small tech conference.&lt;/p&gt;
+&lt;p&gt;The Atari founder was our keynote speaker. His topic: AI-driven learning systems and knowledge retention.&lt;/p&gt;
+&lt;p&gt;Revolutionary, as always.&lt;/p&gt;
+&lt;p&gt;After his talk, he stood outside the conference room. Approachable. Present.&lt;/p&gt;
+&lt;p&gt;I felt that flutter of recognition. This wasn&amp;rsquo;t just anyone. This was the man who pioneered video games. Who created Pong. Who worked alongside Jobs and Wozniak before Apple was Apple.&lt;/p&gt;
+&lt;p&gt;I introduced myself. My voice steadier than I expected.&lt;/p&gt;
+&lt;p&gt;We shook hands. His grip was firm, his smile genuine.&lt;/p&gt;
+&lt;p&gt;We took pictures. He didn&amp;rsquo;t rush.&lt;/p&gt;
+&lt;p&gt;What struck me most wasn&amp;rsquo;t his legend status. It was his kindness. His attention.&lt;/p&gt;
+&lt;p&gt;In a world of hurry, he offered presence.&lt;/p&gt;
+&lt;p&gt;In an industry obsessed with tomorrow, he carried yesterday&amp;rsquo;s wisdom lightly.&lt;/p&gt;
+&lt;p&gt;I walked away with more than a photo. I walked away with a reminder:&lt;/p&gt;
+&lt;p&gt;Great innovation and human connection aren&amp;rsquo;t opposites.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re partners.&lt;/p&gt;
+&lt;p&gt;Thank you, Nolan Bushnell, for the lesson that won&amp;rsquo;t show up in any AI learning system.&lt;/p&gt;
+&lt;p&gt;Yet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/p/i-met-nolan-bushnell-today/bushnell.jpg&#34;
+	width=&#34;3472&#34;
+	height=&#34;4624&#34;
+	srcset=&#34;https://obicho.github.io/p/i-met-nolan-bushnell-today/bushnell_hu_10ae5dbff8ff6996.jpg 480w, https://obicho.github.io/p/i-met-nolan-bushnell-today/bushnell_hu_a38d8da2e9b30230.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Cho-Nan Tsai meeting Nolan Bushnell&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CTO wisdom</title>
+        <link>https://obicho.github.io/p/cto-wisdom/</link>
+        <pubDate>Fri, 07 Mar 2025 04:01:00 -0800</pubDate>
+        
+        <guid>https://obicho.github.io/p/cto-wisdom/</guid>
+        <description>&lt;img src="https://obicho.github.io/p/cto-wisdom/cto.png" alt="Featured image of post CTO wisdom" /&gt;&lt;p&gt;Two decades in tech, lots of hard lessons.&lt;/p&gt;
+&lt;h3 id=&#34;tech-is-easy-people-are-hard&#34;&gt;Tech is easy. People are hard.
+&lt;/h3&gt;&lt;p&gt;The code? It follows logic. The servers? They scale. But the people—the engineers, the stakeholders, the customers—are messy. Your job isn’t just to build; it’s to lead.&lt;/p&gt;
+&lt;h3 id=&#34;be-a-translator-not-a-gatekeeper&#34;&gt;Be a translator, not a gatekeeper.
+&lt;/h3&gt;&lt;p&gt;The best CTOs don’t hoard technical knowledge like a dragon sitting on gold. They translate complexity into clarity, so the entire team can make better decisions.&lt;/p&gt;
+&lt;h3 id=&#34;boring-is-beautiful&#34;&gt;Boring is beautiful.
+&lt;/h3&gt;&lt;p&gt;Scalability isn’t about fancy. It’s about being reliable, repeatable, and resilient. If your architecture is exciting, you might have a problem.&lt;/p&gt;
+&lt;h3 id=&#34;build-if-you-must-buy-if-you-can&#34;&gt;Build if you must, buy if you can.
+&lt;/h3&gt;&lt;p&gt;Your time is your most valuable resource. If there’s a proven solution that fits, buy it. Don’t reinvent the wheel when you could be building the rocket.&lt;/p&gt;
+&lt;h3 id=&#34;innovation-isnt-magic-its-process&#34;&gt;Innovation isn’t magic; it’s process.
+&lt;/h3&gt;&lt;p&gt;Breakthroughs don’t come from lone geniuses in dark rooms. They come from systems that encourage curiosity, failure, and learning.&lt;/p&gt;
+&lt;h3 id=&#34;culture-eats-code-for-breakfast&#34;&gt;Culture eats code for breakfast.
+&lt;/h3&gt;&lt;p&gt;A team of motivated, aligned, and empowered people will out-execute a team with better tech but worse culture. Every time.&lt;/p&gt;
+&lt;h3 id=&#34;your-stack-isnt-your-strategy&#34;&gt;Your stack isn’t your strategy.
+&lt;/h3&gt;&lt;p&gt;React vs. Vue, AWS vs. GCP, Python vs. Rust—it’s all noise if you don’t solve real problems. Technology is a tool, not the mission.&lt;/p&gt;
+&lt;h3 id=&#34;technical-debt-is-leadership-debt&#34;&gt;Technical debt is leadership debt.
+&lt;/h3&gt;&lt;p&gt;Those shortcuts and “we’ll fix it later” moments? They add up. Fixing them isn’t just a tech problem; it’s a leadership responsibility.&lt;/p&gt;
+&lt;h3 id=&#34;ai-wont-replace-you-but-a-cto-who-understands-ai-might&#34;&gt;AI won’t replace you. But a CTO who understands AI might.
+&lt;/h3&gt;&lt;p&gt;Ignoring AI isn’t an option. Learning how to wield it—ethically and effectively—is.&lt;/p&gt;
+&lt;h3 id=&#34;you-are-not-your-code&#34;&gt;You are not your code.
+&lt;/h3&gt;&lt;p&gt;Your value isn’t measured in commits, lines of code, or architecture diagrams. It’s in your ability to build teams, inspire action, and create something that matters.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://obicho.github.io/p/cto-wisdom/cto.png&#34;
+	width=&#34;551&#34;
+	height=&#34;537&#34;
+	srcset=&#34;https://obicho.github.io/p/cto-wisdom/cto_hu_92d2c74b14d52afa.png 480w, https://obicho.github.io/p/cto-wisdom/cto_hu_389f405bb061d958.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;CTO wisdom&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;102&#34;
+		data-flex-basis=&#34;246px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Now, the question isn’t “Can you afford it?” but “What will you do with it?” </title>
+        <link>https://obicho.github.io/p/now-the-question-isnt-can-you-afford-it-but-what-will-you-do-with-it/</link>
+        <pubDate>Thu, 06 Mar 2025 04:16:05 -0800</pubDate>
+        
+        <guid>https://obicho.github.io/p/now-the-question-isnt-can-you-afford-it-but-what-will-you-do-with-it/</guid>
+        <description>&lt;p&gt;The economy was built on scarcity. AI just flipped the script.
+Now, the question isn’t “Can you afford it?” but “What will you do with it?”&lt;/p&gt;
+&lt;p&gt;For centuries, the economy thrived on scarcity. Expertise was rare, time was limited, and access to knowledge was guarded like a treasure. That’s why consultants charged thousands, research took months, and customer service was a cost center. Scarcity created value.&lt;/p&gt;
+&lt;p&gt;But AI doesn’t play by those rules.&lt;/p&gt;
+&lt;p&gt;Today, businesses are racing to use AI for customer service. Chatbots, automated responses, and instant support are everywhere. It’s a no-brainer—AI cuts costs, speeds up responses, and makes customers (mostly) happy. But here’s the thing: customer service was always a surface-level problem. It’s the tip of the iceberg.&lt;/p&gt;
+&lt;p&gt;The real opportunity—the &lt;em&gt;transformational&lt;/em&gt; opportunity—is deeper.&lt;/p&gt;
+&lt;p&gt;AI isn’t just good at answering FAQs. It’s capable of doing the deep, time-consuming, expensive research that used to require armies of analysts, consultants, and experts. The kind of work that shaped billion-dollar decisions. The kind of work that was once reserved for the elite few who could afford it.&lt;/p&gt;
+&lt;p&gt;So why aren’t more leaders using AI for &lt;em&gt;that&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Maybe it’s fear. Maybe it’s habit. Or maybe it’s because we’re so focused on automating the obvious that we’re missing the profound.&lt;/p&gt;
+&lt;p&gt;Here’s the truth: AI can analyze decades of market data in minutes. It can spot patterns humans would never see. It can simulate scenarios, predict outcomes, and generate insights that used to take months of human labor. And it can do it for pennies.&lt;/p&gt;
+&lt;p&gt;The question isn’t “Can AI do this?” It’s “Why aren’t we letting it?”&lt;/p&gt;
+&lt;p&gt;Business leaders are comfortable using AI to replace repetitive tasks—answering customer emails, scheduling appointments, or sorting data. But when it comes to the deep work—the strategic, creative, high-stakes work—they hesitate. They default to humans because it feels safer. More familiar.&lt;/p&gt;
+&lt;p&gt;But here’s the risk: while you’re hesitating, someone else is already doing it.&lt;/p&gt;
+&lt;p&gt;The competitive advantage of the future won’t go to the companies that use AI to cut costs. It will go to the ones that use AI to think bigger, move faster, and see further. The ones that replace not just the grunt work, but the &lt;em&gt;gatekeepers&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;So, what’s your move?&lt;/p&gt;
+&lt;p&gt;Will you use AI to do what you’ve always done, just a little cheaper? Or will you use it to do what you’ve never been able to do before?&lt;/p&gt;
+&lt;p&gt;The economy was built on scarcity. But the future belongs to those who see abundance—and act on it.&lt;/p&gt;
+&lt;p&gt;What will you do with it?&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AI Can Make Us Faster and Smarter, But It Can Also Make Us Lazy</title>
         <link>https://obicho.github.io/p/ai-can-make-us-faster-and-smarter-but-it-can-also-make-us-lazy/</link>
         <pubDate>Wed, 05 Mar 2025 05:47:30 -0800</pubDate>
